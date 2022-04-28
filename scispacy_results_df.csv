@@ -1,0 +1,4704 @@
+,0,1,2
+0,"((5Z)5-(1,3-benzodioxol-5-yl)methylene-2-phenylamino-3,5-dihydro-4H-imidazol-4-one)",leucettine L41,1
+1,17p13.3,17p13.3 deletions,1
+2,1-Phosphatidylinositol 3-Kinase,phosphatidylinositol 3-kinase,3
+3,1-Phosphatidylinositol 3-Kinase,PI3-kinase,4
+4,1-Phosphatidylinositol 3-Kinase,phosphatidylinositol 3 kinase,1
+5,1-Phosphatidylinositol 3-Kinase,putative phosphatidyl inositol 3-kinase,1
+6,1-Phosphatidylinositol 3-Kinase,PI3-K,3
+7,22q13,22q13,1
+8,2-Dimensional,2D,1
+9,3' Region,downstream regions,1
+10,"3,4-Methylenedioxyamphetamine",MDa,1
+11,3c,3c,1
+12,4-dichlorobenzene,PDB,1
+13,5-bromo-4-chloro-3-indolyl beta-galactoside,X-gal,1
+14,A axonemal microtubule,tubule,1
+15,A Codes,codes,1
+16,AB Term Type,Ab,1
+17,Abdominal aorta structure,abdominal aorta,1
+18,Aberrant,aberrant,10
+19,ABI1 wt Allele,Abi-1,2
+20,ABI1 wt Allele,e3B1,1
+21,Ability,abilities,1
+22,Ability to Drive,driving,1
+23,Ablation,ablation,2
+24,Ablation,Ablation,1
+25,Abnormal,abnormal,13
+26,Abnormal,Abnormal,1
+27,Abnormal behavior,neurobehavioral abnormalities,1
+28,Abnormal degeneration,degenerated,1
+29,Abnormal degeneration,degeneration,1
+30,Abnormality,abnormality,1
+31,Abnormality of mitochondrial metabolism,mitochondrial dysfunction,1
+32,Abnormality of the vasculature,vascular abnormalities,1
+33,Absence (morphologic abnormality),absence,18
+34,Absolute,absolute,1
+35,Abstract thinking ability,ideas,1
+36,Abundance,abundance,10
+37,Abundance,abundant,6
+38,Accelerated,accelerates,2
+39,acceptors,acceptor,1
+40,Accident due to exposure to weather conditions,exposure,1
+41,Accumulation,accumulation,10
+42,Accumulation,accumulate,4
+43,Accumulation,fat accumulation,1
+44,Accurate (qualifier),accuracy,1
+45,Acetyltransferase,protein acetyltransferases,1
+46,acetyltransferase activity,acetyltransferase activity,3
+47,Acids,acidic,1
+48,ACP5 gene,tartrate-resistant acid phosphatase,1
+49,Acquisition (action),acquisition,2
+50,Act Class - investigation,investigation,4
+51,Act Class - investigation,Investigation,1
+52,Act Class - review,review,2
+53,actin cytoskeleton reorganization,cytoskeleton reorganisation,1
+54,actin filament polymerization,actin polymerization,4
+55,actin nucleation,nucleation,1
+56,Actin-Binding Protein,actin binding proteins,1
+57,Actins,actin,1
+58,Activating PI3K Mutation,PI3K activation,1
+59,Activation action,activate,18
+60,Activation action,activation,64
+61,Activation action,activated,22
+62,Activation action,activates,7
+63,Activation action,Activation,3
+64,Activation action,activating,10
+65,Activation function,activation function,1
+66,Activator Appliances,coactivator function,1
+67,Active Site,catalytic site,1
+68,Activities,activities,3
+69,Activities,activity,44
+70,activity-dependent neurotrophic factor,activity-dependent neurotrophic factor,1
+71,ACTL6A gene,BAF53a,1
+72,ACTL6B gene,BAF53b,1
+73,"ACTN4 protein, human",actin cross-linking protein,1
+74,ACTR2 gene,actin-related protein,1
+75,Acute inflammation,acute inflammation,1
+76,Acute leukemia,acute leukemias,1
+77,Acute Undifferentiated Leukemia,Scl,3
+78,Adaptation,adaptation,1
+79,Adapter Device Component,adaptor,3
+80,Adaptive Thermogenesis,adaptive thermogenesis,1
+81,Adaptor Protein Complex 1,Golgi adaptor,1
+82,Adaptor Protein Complex 2,adaptors,3
+83,"adaptor protein complex 2, alpha 2 subunit",alpha-adaptin,1
+84,Adaptor Protein Complex beta Subunits,Adaptins,1
+85,Adaptor Protein Complex beta Subunits,beta-adaptins,2
+86,Adaptor Protein Complex gamma Subunits,gamma-adaptin,4
+87,Adaptor Protein Complex gamma Subunits,gamma-adaptins,1
+88,"Adaptor Proteins, Signal Transducing",adaptor protein,1
+89,"Adaptor Proteins, Signal Transducing",signaling adaptor,1
+90,"Adaptor Proteins, Signal Transducing",adaptor proteins,2
+91,Adenocarcinoma of lung (disorder),lung adenocarcinoma,2
+92,Adenosine Triphosphatases,ATPase,1
+93,Adenylate,adenylate,1
+94,Adenylate Cyclase,adenylyl cyclase,1
+95,ADENYLATE KINASE,Adenylate kinase,1
+96,ADENYLATE KINASE,AK,1
+97,adenylosuccinate,adenylosuccinate,1
+98,Adipocytes,adipocytes,4
+99,Adjacent,adjacent,8
+100,Administration procedure,administration,1
+101,Adrenal Cortex,cortical,13
+102,ADSL gene,Adenylosuccinate lyase,2
+103,ADSL gene,adenylosuccinate lyase,2
+104,Adult,adult,53
+105,Adult,adults,3
+106,Adulthood,adulthood,1
+107,Advanced phase,advanced entry,1
+108,Adverse Event Associated with Vascular,vascular,3
+109,AF-1 domain binding,AF-1 domain,1
+110,AF-2,AF-2,2
+111,Affecting,affecting,4
+112,Affecting,affected,4
+113,Afferent,afferent,1
+114,Affinity,affinity,11
+115,Afibrinogenemia,fibrinogen deficiency,1
+116,Age of Onset,onset,1
+117,Age:Time:Point in time:^Patient:Quantitative,age,1
+118,Aggregate,aggregates,1
+119,Aggregation,aggregation,1
+120,Aging,aging,1
+121,Agonist,agonist,2
+122,agonists,agonists,2
+123,Agreement,accord,1
+124,AHSA1 gene,Aha1,1
+125,AK3 gene,AK3,2
+126,AK4 gene,AK4,9
+127,AKAP10 gene,A-kinase anchoring protein 150,1
+128,AKAP10 gene,AKAP150,3
+129,AKAP13 gene,AKAP13,4
+130,AKAP13 gene,Akap13,2
+131,AKAP13 wt Allele,AKAP-Lbc,1
+132,AKAP13 wt Allele,proto-Lbc,1
+133,AKAP8 gene,Akap8,1
+134,"A-Kinase Anchor Protein 10, Mitochondrial",protein kinase A-anchoring protein,1
+135,"A-Kinase Anchor Protein 10, Mitochondrial",AKAP,1
+136,AKT Signaling Pathway,Akt signaling pathway,1
+137,AKT1 gene,Rac,8
+138,AKT1 gene,Akt1,2
+139,Alanine,alanine,3
+140,"Albumin Human, USP",HSA,1
+141,algorithm,algorithms,1
+142,Alkalies,Alkali,1
+143,Alkaline phosphatase stain,alkaline phosphatase,1
+144,Alleles,allele,4
+145,Alleles,allelic,2
+146,Alleles,alleles,2
+147,Allogeneic Hematopoietic Stem Cell Transplantation,HSC,7
+148,Alpha 1,alpha 1,1
+149,Alpha 2,alpha 2,1
+150,Alpha Granule,platelet granule,1
+151,Alpha subunit - qualifier value,alpha 1 subunit,2
+152,Alpha subunit - qualifier value,alpha subunit,1
+153,Alpha1 Significance,alpha1,1
+154,Alpha2 Significance,alpha2,3
+155,alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid,AMPA,3
+156,alpha-Lactalbumin,alpha-lactalbumin,1
+157,Alteration,alterations,2
+158,Alteration,alteration,3
+159,Alternating,alternating,1
+160,Alternative,alternate,5
+161,Alternative,alternative,8
+162,Alternative Splicing,alternative splicing,4
+163,Alternative Splicing,Alternative splicing,1
+164,Aluminum,aluminium,1
+165,Alzheimer's Disease,Alzheimer disease brains,1
+166,Alzheimer's Disease,Alzheimer\'s disease,2
+167,AMBRA1 gene,Ambra1,19
+168,AMBRA1 gene,AMBRA1,42
+169,Amino Acid Motifs,motifs,15
+170,Amino Acid Sequence,amino acid sequence,15
+171,Amino Acid Sequence,primary structure,1
+172,Amino Acid Sequence,partial amino acid sequences,1
+173,Amino Acid Sequence,amino acid sequences,2
+174,Amino Acids,amino acid,14
+175,Amino Acids,amino acids,25
+176,AMINO ACIDS/PROTEINS,amino acid protein,1
+177,aminoacid sequence of protein,peptide sequence,1
+178,Amount type - Differential,differential,3
+179,Amount type - Rate,rate,6
+180,AMPA Receptors,AMPA receptors,5
+181,"AMPH protein, human",AMP,1
+182,Amphibians,amphibians,1
+183,Amplification,amplification,3
+184,Amplitude,amplitude,1
+185,Amplitude,amplitudes,1
+186,Amyloid,amyloid,1
+187,Amyloid Beta Precursor Protein Measurement,amyloid-beta precursor protein,1
+188,Amyloid beta-Peptides,beta-amyloid,1
+189,Amyotrophic Lateral Sclerosis,amyotrophic lateral sclerosis,1
+190,Amyotrophic Lateral Sclerosis,ALS,3
+191,Anabolism,synthesis,2
+192,Anabolism,biogenesis,2
+193,Anabolism,Synthesis,1
+194,Analysis,analyzed,11
+195,analysis aspect,analysis,15
+196,analysis aspect,Analysis,4
+197,anatomical layer,layers,4
+198,anatomical layer,layering,1
+199,anatomical layer,players,4
+200,Anatomical maturation,maturation,2
+201,Anatomical segmentation,segment,4
+202,"Anatomy, Regional",topology,3
+203,Anchorage,anchorage,1
+204,Anchoring procedure,anchoring,3
+205,Androgen Receptor,androgen receptors,1
+206,Angiogenic Process,angiogenesis,5
+207,Angiogenic Process,active angiogenesis,1
+208,Angiopoietin-1 Receptor Signaling Pathway,Tek signaling pathway,2
+209,"Angiopoietin-1 Receptor, Human",endothelial receptor tyrosine kinase,1
+210,"Angiopoietin-1 Receptor, Human",angiopoietin receptor,1
+211,Angiopoietin-2,angiopoietin-2,1
+212,Angiopoietin-2,Ang-2,5
+213,Angiopoietins,angiopoietins,1
+214,Angiopoietins,angiopoietin binding,2
+215,Angiopoietins,angiopoietin,1
+216,Angiopoietins,Ang,1
+217,Angiotensin II,angiotensin 2,1
+218,"ANGPT1 protein, human",Angiopoietin-1,2
+219,"ANGPT1 protein, human",Ang-1,5
+220,"ANGPT1 protein, human",angiopoietin-1,1
+221,"ANGPT1 protein, human",Ang1,5
+222,ANGPT1 wt Allele,Angpt1,1
+223,ANGPT2 gene,Ang2,1
+224,ANGPT4 wt Allele,Ang4,12
+225,ANGPTL1 gene,Ang3,13
+226,Animal Model,animal model,2
+227,Animal Model,animal models,1
+228,Animals,animal,1
+229,Animals,animals,2
+230,"Animals, Transgenic",transgenic,1
+231,ANO2 gene,TMEM16B,5
+232,Anomaly of placenta,placental abnormalities,1
+233,Antagonist muscle action,antagonist,2
+234,Anterior chamber of eye structure,anterior chamber,1
+235,Anthropological Culture,cultures,2
+236,Antiapoptotic Agent,antiapoptotic protein,1
+237,antibiotic G 418,G418,1
+238,"Antibodies, in vitro diagnostic",antibodies,8
+239,"Antibodies, Phospho-Specific",phosphospecific,1
+240,Antigen Presentation,antigen presentation,2
+241,Antigens,antigens,3
+242,Anti-inflammatory effect,anti-inflammatory drug,1
+243,Antimicrobial susceptibility,sensitivities,1
+244,Antimicrobial Susceptibility Result,susceptible,1
+245,Antineoplastic Agents,antineoplastic,1
+246,Antioxidant Response Elements,antioxidant response element,1
+247,Antioxidant Response Elements,ARE,2
+248,Antioxidant Response Elements,antioxidant response elements,1
+249,Antisense Orientation,antisense orientation,1
+250,Anxiety,anxiety,1
+251,AP1 complex location,AP1 complex,1
+252,AP1 complex location,AP-1 complex,1
+253,AP1M2 gene,mu2,3
+254,"APC protein, human",APC,1
+255,"APC protein, human",Apc,1
+256,APH1A gene,Aph-1a,3
+257,APH1A gene,APH-1a,1
+258,APH1B gene,Aph-1b,1
+259,APH1B gene,APH-1b,1
+260,Apical Ectodermal Ridge,apical ectodermal ridge,1
+261,Apoptosis,programmed cell death,3
+262,Apoptosis,apoptosis,20
+263,Apoptosis,apoptotic cell death,1
+264,Apoptosis,Apoptotic cell death,1
+265,Apoptosis,apoptosis protein,1
+266,apparent,apparent,4
+267,Appearance,appearance,1
+268,Application Dosing Unit,application,2
+269,AraC Transcription Factor,transcriptional regulator,4
+270,Architecture as Topic,architecture,1
+271,Area,areas,1
+272,ARF1 gene,Arf1,1
+273,ARF6 gene,ARF6,1
+274,Arginine,arginine,4
+275,Arginine,Arginine,1
+276,arginine methyltransferase,arginine methyltransferase,1
+277,Argininosuccinate,argininosuccinate,1
+278,arginyl-glycyl-aspartic acid,RGD,1
+279,ARHGEF5 gene,p60,3
+280,ARID1B wt Allele,Bright,1
+281,Arm or Leg Response Group 4,group 4,1
+282,ARNTL gene,BMAL1,2
+283,Array,array,2
+284,Arterial,arterial,1
+285,Arteries,arteries,5
+286,As Directed,directed,2
+287,ASB2 gene,ASB2,1
+288,Aspartic Acid,aspartic acid,1
+289,Aspects of congenital malformations,malformations,1
+290,Assay,assay,2
+291,Assembly (construction),assembly,9
+292,Assembly (construction),assemble,1
+293,Assessed,assess,2
+294,Assessed,assessed,1
+295,Associate - assistant,associates,15
+296,Associate - relationship,associate,4
+297,Associated with,associated with,40
+298,Asthma,asthma,1
+299,astral microtubule organization,microtubule organization,1
+300,Asymmetrical synapse,asymmetric synapses,1
+301,ATAD1 gene,Thorase,2
+302,Ataxia,ataxia,2
+303,Ataxia Telangiectasia,ataxia telangiectasia,1
+304,"Ataxia, Spinocerebellar",spinocerebellar ataxia,1
+305,ATF2 gene,Atf2,1
+306,ATG7 gene,ATG7,2
+307,Atherogenesis,atherogenesis,1
+308,"Atmosphere, unit of pressure",ATM,3
+309,Atom (substance),atoms,2
+310,ATP-dependent chromatin remodeling,ATP-dependent chromatin remodeling,1
+311,ATR gene,ATR,2
+312,Attention deficit hyperactivity disorder,hyperkinetic disorders,1
+313,Attention deficit hyperactivity disorder,hyperkinetic disorder,1
+314,Attention deficit hyperactivity disorder,attention-deficit hyperactivity disorder,1
+315,Attenuated by (contextual qualifier),attenuated,1
+316,Atypical,atypical,1
+317,Auditory recruitment,recruitment,21
+318,Auditory recruitment,Recruitment,1
+319,Author,authors,1
+320,Autism Spectrum Disorders,autism spectrum disorder,3
+321,Autism Spectrum Disorders,ASD,5
+322,Autism Spectrum Disorders,ASDs,2
+323,Autism Spectrum Disorders,autism spectrum disorders,1
+324,Autoimmune Diseases,autoimmune diseases,2
+325,Autoimmune Diseases,autoimmune disease,2
+326,autolysosome formation,autolysosome formation,1
+327,Autophagosome,autophagosomes,1
+328,autophagosome assembly,autophagosome formation,1
+329,Autophagy,Autophagy,2
+330,Autophagy,autophagy,38
+331,Autophagy-Related Protein 5,autophagy protein,1
+332,Autophagy-Related Proteins,autophagy-related proteins,1
+333,Autosomal dominant inheritance,autosomal dominant,1
+334,Auxilins,auxilin,1
+335,Availability of,availability,1
+336,Availability of,iron availability,1
+337,Average of Value Derivation Technique,average,1
+338,avoidance,avoidance,1
+339,Awake,awake,1
+340,Axial,axial,2
+341,Axial skeleton structure,axial skeleton,1
+342,AXIN2 gene,Axin2,1
+343,Axon,axons,6
+344,Axon,axon,1
+345,Axon,axonal,2
+346,Axon,axoneme structure,1
+347,axon development,axoneme development,1
+348,axon growth,axon growth,1
+349,Axon Guidance,axon guidance,1
+350,axonal guidance,axonal guidance,1
+351,Axoneme,axoneme,2
+352,B cell apoptotic process,cell apoptosis,1
+353,B4GALT1 gene,GT1 gene,1
+354,Background,BACKGROUND,1
+355,Bacterial,bacterial,1
+356,Bacterial Count Measurement,bacteria,1
+357,Baculovirus,baculoviruses,1
+358,Bad,Bad,3
+359,Baker's Antifol,BAF,3
+360,Bands,bands,1
+361,Basal,basal,4
+362,basal RNA polymerase II transcription machinery binding,RNA polymerase II transcription machinery,1
+363,basal transcription machinery binding,basal transcription machinery,1
+364,Base Pairing,base pairs,1
+365,Base Sequence,nucleotide sequences,2
+366,Base Sequence,nucleotide sequence,1
+367,Baseline,baseline,2
+368,Basement membrane,basement membrane,1
+369,Basic Helix-Loop-Helix Transcription Factors,bHLH transcription factor,2
+370,Basic Helix-Loop-Helix Transcription Factors,bHLH protein,1
+371,Bay-K-8644,Bay K8644,1
+372,BC-2 protein,chromatin-modifying proteins,1
+373,b-cell proliferation,B cell proliferation,1
+374,B-Cell Receptor Complex,B cell receptor,1
+375,B-Cell Survival Pathway,cell survival pathways,1
+376,BCL2 gene,BCL2,1
+377,BCL2 gene,Bcl-2,1
+378,"BCR protein, human",BCR,3
+379,BCYRN1 gene,Brain cytoplasmic RNA 1,1
+380,BCYRN1 gene,BC1,1
+381,Bead Dosage Form,beads,1
+382,Beck Lethality Scale,lethality,2
+383,Beclin-1,Beclin1,1
+384,Beclin-1,Beclin 1,5
+385,BECN1 gene,Becn1,1
+386,BECN1 gene,BECN1,3
+387,Behavior,cell behavior,1
+388,Behavior,behavior,2
+389,Behavior,behaviors,1
+390,Behavioral Domain,behavioral,4
+391,Beneo Synergy 1,synergy,1
+392,Best Case Imputation Technique,BC,1
+393,beta catenin,beta-catenin,7
+394,beta1-adrenergic receptor activity,beta1-adrenergic receptor,1
+395,beta1-adrenergic receptor activity,beta1AR,3
+396,beta-adrenergic receptor,beta-adrenergic receptors,1
+397,beta-catenin binding,bind beta-catenin,1
+398,beta-Chemokines,CC chemokine genes,1
+399,Beta-defensin 2 Measurement,BD2,4
+400,"Beta-Galactosidase, human",beta-galactosidase gene,1
+401,beta-Sheet,beta-sheets,2
+402,BHLHE22 gene,beta3,2
+403,Bilateral Disease,bilateral disease,2
+404,Binding (Molecular Function),physical interaction,3
+405,Binding (Molecular Function),molecular interactions,1
+406,Binding action,binding,43
+407,Binding action,bind,29
+408,Binding action,binds,15
+409,Binding action,Binding,1
+410,Binding Proteins,binding proteins,1
+411,Binding Sites,binding site,6
+412,Binding Sites,binding sites,4
+413,Biochemical,biochemical,4
+414,Biochemical Activity,biochemical activity,1
+415,Biochemical Pathway,pathways,7
+416,Biochemical Pathway,pathway,11
+417,Biochemical Pathway,molecular pathways,1
+418,Biochemistry,biochemistry,1
+419,Bio-Informatics,bioinformatics,1
+420,biological,biological,7
+421,biological,biologically active,1
+422,biological adaptation to stress,stress response,1
+423,biological adaptation to stress,stress responses,2
+424,Biological Evolution,evolution,2
+425,Biological Markers,marker,1
+426,Biological Markers,molecular markers,1
+427,Biological Models,model system,3
+428,Biological Processes,biological processes,5
+429,Biological Processes,biological function,1
+430,biological signaling,signaling,12
+431,biological signaling,signalling,7
+432,biological signaling,Signaling,1
+433,biological signaling,Met signaling,1
+434,biological signaling,Signalling,1
+435,Biophysics,biophysical,2
+436,Biopolymer Sequencing,sequencing,4
+437,Biopolymer Sequencing,Sequencing,2
+438,Biosynthetic Pathways,biosynthetic pathway,1
+439,"BIRC4 protein, human",XIAP,7
+440,BIRC5 gene,surviving,1
+441,Birth,born,1
+442,Birth Weight,birth weights,1
+443,bis(2-hydroxybenzylidene)acetone,bis(2-hydroxybenzylidene)acetone,1
+444,Bisulfite Sequencing,bisulfite genomic sequencing,1
+445,"Blastocyst Implantation, natural",embryo implantation,1
+446,Blastocyst structure,blastocysts,2
+447,Block Dosage Form,block,1
+448,Blockage (obstruction - finding),blockage,1
+449,Blocking,blocking,4
+450,blood phenylalanine measurement by Guthrie microbiologic assay,phenylalanine,3
+451,Blood Platelets,platelet,1
+452,Blood Platelets,platelets,3
+453,Blood Pressure,blood pressure,1
+454,blood pressure regulation,blood pressure regulation,1
+455,Blood Transfusion,transfusion,1
+456,Blood Vessel,blood vessels,1
+457,Blood Vessel,vascular structures,2
+458,Blood Vessel,blood vessel,1
+459,Blood Vessel,vascular tone,1
+460,blood vessel morphogenesis,blood vessel morphogenesis,1
+461,Blunted,blunted,1
+462,B-Lymphocytes,B cells,7
+463,B-Lymphocytes,B lymphocytes,2
+464,B-Lymphocytes,B-cell line,1
+465,BMP1 gene,Bmp1,1
+466,Body growth,body growth,1
+467,Body structure,body,2
+468,Body Surface Area,surface area,2
+469,Body temperature measurement,temperature,1
+470,Body tissue,tissues,29
+471,Body tissue,tissue,9
+472,Bone Development,bone development,1
+473,Bone Marrow,bone marrow,1
+474,Bone Marrow-Derived Cell,bone marrow-derived,1
+475,Bone remodeling,remodeling,2
+476,Bone remodeling,remodelling,1
+477,Bone Resorption,osteoclastic bone,1
+478,Bone Resorption,bone resorption,1
+479,Bone structure of tibia,tibia,1
+480,Borg Category-Ratio 10 Perceived Exertion Score 10,maximal,1
+481,Bos taurus,bovine,1
+482,Brachyury protein,brachyury,1
+483,BRAHMA,Brm,1
+484,Brain,brain,45
+485,Brain,brains,3
+486,brain development,developmental brain,3
+487,brain development,brain development,9
+488,brain function,brain function,2
+489,Brain Gray Matter,brain gray matter,1
+490,brain size,brain size,2
+491,brain tissue surgical material,brain tissue,1
+492,Brain-Derived Neurotrophic Factor Measurement,BDNF,3
+493,Brain-Derived Neurotrophic Factor Measurement,brain-derived neurotrophic factor,1
+494,Branched,branched,1
+495,Branchial arch structure,pharyngeal arch,1
+496,Branching (qualifier value),branching,2
+497,BRCA1 gene,BRCA1,2
+498,BRD4 gene,mitotic chromosome-associated protein,1
+499,BRD4 gene,MCAP,7
+500,BRD4 gene,Brd4 gene,1
+501,BRD4 gene,Brd4,39
+502,BRD4 gene,protein bromodomain-containing 4,1
+503,Breast,breast,3
+504,Breast Carcinoma,breast carcinoma,1
+505,Breast Feeding,lactation,3
+506,Brefeldin A,brefeldinA,1
+507,Bromodeoxyuridine,BrdU,1
+508,Bromodomain,bromodomains,8
+509,Bromodomain,bromodomain,2
+510,Bromodomain Containing Protein 2,BRD4,9
+511,Bromodomain Containing Protein 2,Brd2,1
+512,brown adipose tissue uncoupling protein,uncoupling,1
+513,Brown color,brown,1
+514,Brown Fat,brown fat,1
+515,Brown Fat,brown adipose tissue,2
+516,Brown Fat,BAT,1
+517,Brucellosis,Mediterranean fever,1
+518,BTB-POZ Domain,BTB/POZ domain,1
+519,BTC gene,betacellulin,2
+520,BTC gene,BTC,2
+521,"BTK protein, human",Bruton\'s tyrosine kinase,2
+522,C17orf96 gene,C17orf96,1
+523,C2 Domains,C2 domain,2
+524,C7orf49 gene,MRI,1
+525,C9orf72 gene,C9orf72,12
+526,CA3 Term Type,CA3,1
+527,CACNA1C gene,Cav1.2,1
+528,CACNA1C gene,CaV1.2,1
+529,CADM1 gene,Synaptic cell adhesion molecules,1
+530,Caenorhabditis elegans,C. elegans,3
+531,Caenorhabditis elegans,Caenorhabditis elegans,1
+532,Calcineurin,Calcineurin,1
+533,Calcineurin,calcineurin,3
+534,Calcineurin B,calcineurin B,1
+535,Calcium Channel,calcium channels,1
+536,calcium channel activity,calcium channel,6
+537,calcium channel activity,Calcium channel,1
+538,Calcium Signaling,calcium-mediated signaling,1
+539,CALM1 wt Allele,CaM,1
+540,Calmodulin,calcium-dependent,1
+541,calorie unit of energy,CAL,11
+542,"Calorimeters, Isothermal Titration",Isothermal titration calorimetry,1
+543,Calvaria,calvaria,1
+544,Calvarial skull defect,cranial defects,1
+545,Cancer Biology,cancer cell biology,1
+546,Cancer Pain,cancer-associated,1
+547,cancer-predisposing genes,susceptibility gene,1
+548,Candidate Disease Gene,candidate genes,2
+549,Capacity,capacity,4
+550,"CAP-Gly Domain-Containing Linker Protein 1, human",CLIP-170,10
+551,Carboxy-Terminal Amino Acid,C-terminal region,2
+552,Carboxy-Terminal Amino Acid,C-terminal portion,1
+553,Carboxy-Terminal Amino Acid,C-terminal amino acids,1
+554,Carboxy-Terminal Amino Acid,C-terminal,1
+555,Cardiac - anatomy qualifier,cardiac,4
+556,cardiac development,cardiac development,2
+557,Cardiac dysfunction,cardiac dysfunction,1
+558,Cardiac function,cardiac function,1
+559,Cardiac Hypertrophy,cardiac hypertrophy,6
+560,Cardiac Hypertrophy,Cardiac hypertrophy,1
+561,cardiac muscle cell differentiation,cardiac muscle differentiation,1
+562,Cardiomyocyte hypertrophy,cardiomyocyte hypertrophy,1
+563,Cardiomyopathies,cardiomyopathy,1
+564,Cardiovascular,cardiovascular,2
+565,Cardiovascular Diseases,cardiovascular diseases,1
+566,Cardiovascular stress testing,cardiac stress,2
+567,cargo loading into vesicle,cargo selection,1
+568,Case (situation),cases,5
+569,Casein Kinase II,CK2,2
+570,CASP14 gene,Mice,8
+571,CASP14 gene,mice,96
+572,CASP8-Associated Protein 2,FLICE-associated huge protein,1
+573,CASP8-Associated Protein 2,FLASH,4
+574,caspase,caspases,1
+575,Catabolism,degradation,20
+576,Catalytic activity property,catalytic activity,1
+577,Catalytic Domain,catalytic domains,1
+578,Catalytic Domain,catalytic domain,2
+579,Catalytic Domain,catalytic subunits,6
+580,Cataract,cataracts,1
+581,Cation Exchange Resins,cation exchange,2
+582,Caveolae,caveolae,1
+583,caveolin 1,caveolin-1,2
+584,CBFA2T3 wt Allele,Eto2,4
+585,CCDC88A gene,KIAA1212,2
+586,"CCL2 protein, human",HC11,2
+587,CCND1 gene,cyclin D1,4
+588,CCND2 gene,cyclin D2,1
+589,CCV gene,CCV,1
+590,CD300C gene,LIR,1
+591,CD40 Antigens,CD40,1
+592,CD40LG wt Allele,IgM,3
+593,CDC2 Protein Kinase,cdc2 kinase,1
+594,cdc42 GTP-Binding Protein,Cdc42,2
+595,CDH5 gene,VE-cadherin,1
+596,CDISC Events Class,events,1
+597,CDISC Findings Class,findings,44
+598,CDISC Relationship Class,relationship,2
+599,CDISC SDTM Body Position Terminology,position,2
+600,CDISC SDTM Lesion Complexity Terminology,complexity,1
+601,CDISC SDTM Subject Status Response Terminology,SSTRs,1
+602,CDISC SDTM Submission Domain Abbreviation Terminology,domain,16
+603,CDISC SDTM Submission Domain Abbreviation Terminology,D,2
+604,"CDK2 protein, human",CDK2,1
+605,CDK4/6 Inhibition,CDK4/6 inhibitors,1
+606,CDK5 gene,Cdk5,3
+607,CDK5 gene,CDK5,1
+608,"CDK6 protein, human",CDK6,2
+609,"CDK6 protein, human",CDK4/6,6
+610,CDK9 gene,Cdk9,1
+611,cDNA Library,cDNA library,1
+612,cDNA Library,cDNA libraries,2
+613,CEL gene,cell,11
+614,Cell Adhesion,cell adhesion,3
+615,Cell Adhesion Molecules,CAMs,5
+616,Cell Adhesion Molecules,cell adhesion molecules,1
+617,Cell body of neuron,neuronal cell,1
+618,cell cortex,cell cortex,1
+619,Cell Count,Treg cell numbers,1
+620,Cell Cycle,cell division cycle,1
+621,Cell Cycle Arrest,cell cycle arrest,1
+622,cell cycle phase transition,cell cycle transition,1
+623,Cell Cycle Progression,cell cycle progression,1
+624,cell cycle regulator,cell cycle regulators,1
+625,Cell Death,cell death,5
+626,Cell Differentiation process,cell differentiation,1
+627,Cell division,cell division,9
+628,cell fate,Cell fate,1
+629,cell growth,B cell growth,1
+630,cell growth,general cell growth,1
+631,cell growth,cell growth,3
+632,cell growth,expansion,3
+633,Cell Invasion,cancer cell invasion,1
+634,cell leading edge,leading edge,1
+635,Cell metabolism,cell metabolism,1
+636,cell motility,cell motility,3
+637,cell motility,cellular motility,1
+638,Cell Movement,cell movement,3
+639,Cell Nucleolus,nucleoli,2
+640,Cell Nucleus,cell nucleus,2
+641,Cell Nucleus,nucleus,32
+642,Cell of bone,bone cells,1
+643,cell periphery,cell periphery,2
+644,Cell physiology,cellular physiology,1
+645,Cell physiology,cellular functions,4
+646,Cell physiology,cell functions,2
+647,Cell physiology,cellular function,1
+648,Cell Polarity,cell polarity,1
+649,Cell Proliferation,cell proliferation,12
+650,Cell Proliferation,cellular proliferation,2
+651,Cell Respiration,cellular respiration,1
+652,Cell secretion,secreted,1
+653,Cell secretion,secretory,2
+654,Cell surface,cell surface,9
+655,Cell Surface Extensions,membrane protrusions,1
+656,Cell Surface Proteins,cell surface proteins,1
+657,Cell Survival,cell survival,13
+658,cell type,cell types,10
+659,cell type,cell type,1
+660,cell-cell adhesion,cell-cell adhesion,2
+661,Cells,cells,49
+662,Cells,ES cells,5
+663,Cells,Cells,4
+664,Cellular,cellular,3
+665,cellular localization,cellular localizations,1
+666,Cellular Morphology (discipline),cell morphology,1
+667,cellular process,cellular processes,3
+668,cellular process,cellular process,1
+669,cellular response to DNA damage stimulus,genotoxic stress response,1
+670,cellular response to DNA damage stimulus,DNA damage response,1
+671,cellular response to DNA damage stimulus,DDR,4
+672,cellular response to pH,cellular response,2
+673,cellular targeting,targeting,9
+674,cellular targeting,Targeting,1
+675,cellular_component,cellular components,2
+676,CELSR3 gene,epidermal growth factor-like,1
+677,Central Nervous System,central nervous system,8
+678,Central Nervous System,CNS,10
+679,Centric heterochromatin,condensed centromeric heterochromatin,1
+680,centriole replication,centriole duplication,1
+681,Centromere,centromeres,1
+682,centromere protein F,CENP-F,1
+683,Centrosome,centrosome,8
+684,Centrosome,centrosomes,3
+685,centrosome duplication,centrosome duplication,1
+686,centrosome localization,centrosome localization,1
+687,"Ceramide Kinase, Human",lipid kinase,1
+688,Cerebellum,cerebellum,11
+689,Cerebral cortex,cerebral cortex,6
+690,Cerebral cortex,cerebral cortices,1
+691,Certain (qualifier value),confident,2
+692,Cervical atypism,cellular abnormality,1
+693,Cessation of life,died,7
+694,Chain device,chain,1
+695,chain of objects,chains,2
+696,Chamber of eye,anterior chamber aqueous,1
+697,Changing,changes,15
+698,Changing,modified,3
+699,Changing,modifies,2
+700,Changing,altered,4
+701,Channel,channel,2
+702,channel activity,channel activity,1
+703,Characteristics,characteristics,2
+704,Characteristics,characteristic,2
+705,Characterization,Characterization,2
+706,Characterization,characterization,9
+707,Characterization,characterized,5
+708,Characterization,uncharacterized,2
+709,CHD1 gene,CHD1,19
+710,CHD1 gene,CHD,3
+711,CHD1 gene,chromodomain helicase DNA-binding,1
+712,CHD1 gene,Chd1,5
+713,"CHD1 protein, human",chromodomain-helicase-DNA-binding protein,1
+714,CHD1 wt Allele,CHD-1,2
+715,CHD8 gene,axis duplication inhibitor,1
+716,CHD8 gene,CHD8,9
+717,"CHD8 protein, human",Duplin,4
+718,Checkpoint kinase 1,CHK1 kinase,1
+719,Chemical Cleavage,cleavage,3
+720,chemical cofactor,cofactors,1
+721,Chemical extraction,extraction,1
+722,chemosensitization/potentiation,potentiation,6
+723,Chemotactic Factors,chemoattractant,1
+724,Chicken Meat,chicken,2
+725,Chimera organism,chimera,1
+726,Chimeric antigen receptor,chimeric receptor,2
+727,Chinese Hamster Ovary Cell,CHO cells,1
+728,Chloride Ion,chloride,1
+729,Cholinergic Receptors,acetylcholine receptor,1
+730,Cholinergic Receptors,AChR,2
+731,Chondrosarcoma,chondrosarcomas,1
+732,Choose (action),select,1
+733,Chromaffin Cells,chromaffin cells,1
+734,chromatin immunoprecipitation,Chromatin immunoprecipitation,1
+735,chromatin immunoprecipitation,Chromatin immunoprecipitation analysis,2
+736,chromatin immunoprecipitation,chromatin immunoprecipitation,1
+737,chromatin immunoprecipitation,ChIP,1
+738,chromatin location,chromatin,24
+739,chromatin remodeling,chromatin remodeling,3
+740,Chromatin Remodeling Factor,chromatin remodelling factor,1
+741,chromatin silencing,transcriptional silencing,1
+742,Chromatin Structure,chromatin structure,3
+743,Chromatin Structure,chromatin structures,1
+744,Chromatin Structure,Chromatin structure,1
+745,Chromatography,chromatography,1
+746,"Chromatography, Affinity",affinity chromatography,3
+747,"Chromatography, Affinity",tandem affinity purification,1
+748,"Chromatography, Reverse-Phase",reverse phase chromatography,1
+749,Chromosomal translocation,chromosomal translocations,1
+750,chromosome 11q23,chromosome 11q23,1
+751,Chromosome Condensation,condensed,1
+752,Chromosome Condensation,chromosomal condensation,1
+753,Chromosome Deletion,chromosomal deletion,1
+754,chromosome localization,Chromosomal localization,1
+755,chromosome localization,chromosomal localization,2
+756,chromosome localization,mitotic chromosome localization,1
+757,Chromosome Pairing,synapsis,1
+758,Chromosomes,chromosomes,7
+759,Chromosomes,mouse chromosomes,1
+760,Chromosomes,chromosome,3
+761,Chromosomes,chromosome ten,1
+762,"Chromosomes, Artificial, Yeast",YAC,1
+763,"Chromosomes, Human, Pair 10",chromosome 10,1
+764,"Chromosomes, Human, Pair 11",mouse chromosome 11,1
+765,"Chromosomes, Human, Pair 11",chromosome 11,1
+766,"Chromosomes, Human, Pair 17",chromosome 17,1
+767,"Chromosomes, Human, Pair 4",mouse chromosome 4,1
+768,"Chromosomes, Human, Pair 5",mouse chromosome 5,1
+769,"Chromosomes, Human, Pair 9",mouse chromosome 9,1
+770,Chronic infectious disease,chronic infection,1
+771,Chronic infectious disease,chronic infections,1
+772,Chronic inflammation,chronic inflammation,1
+773,Chronic Kidney Diseases,loss of function,2
+774,Chronic Kidney Diseases,Loss of function,1
+775,Chylomicron retention disease,chylomicron retention disease,1
+776,Chylomicrons measurement,chylomicrons,1
+777,Cilia,cilia,1
+778,Cilia,cilium,1
+779,Ciliopathies,ciliopathies,1
+780,cilium assembly,ciliogenesis,2
+781,Circadian Rhythms,cellular circadian rhythm,1
+782,Circulating,circulating,1
+783,cisplatin/ifosfamide/mesna/mitomycin protocol,mimics,2
+784,Citric Acid Cycle,tricarboxylic acid cycle,1
+785,Citric Acid Cycle,TCA,1
+786,CKAP5 gene,cytoskeleton association,1
+787,Clarify,clarification,1
+788,Class,class,2
+789,Class 1,class I,1
+790,Class 2,class II,1
+791,Class 5 (qualifier value),class 5,1
+792,Class III Phosphatidylinositol 3-Kinases,class III phosphatidylinositol 3-kinase,1
+793,Classes - encounter,classes,3
+794,Classical Lissencephaly,LIS1,78
+795,Classical Lissencephaly,lissencephaly sequence,2
+796,Classical Lissencephaly,type I lissencephaly,4
+797,Classical Lissencephaly,isolated lissencephaly sequence,1
+798,Classical Lissencephaly,ILS,3
+799,Classical Lissencephaly,classical lissencephaly,1
+800,Classical Lissencephaly,lissencephaly 1,1
+801,Classification of information,classification,1
+802,Clathrin,clathrin,2
+803,Clathrin,Clathrin,1
+804,Clathrin Adaptors,clathrin adaptors,2
+805,Clathrin-Coated Vesicles,clathrin-coated vesicles,2
+806,Clathrin-Coated Vesicles,CCVs,2
+807,Clathrin-Coated Vesicles,Clathrin-coated vesicles,1
+808,clathrin-mediated endocytosis,clathrin-mediated endocytosis,1
+809,Clearance,clearance,4
+810,Clinical act of insertion,inserted,1
+811,Clinical action,actions,1
+812,Clinical presentation,clinical presentation,1
+813,Clinical Trial Recruitment Plan,recruit,5
+814,CLIP1 gene,CLIP170,1
+815,CLIP2 gene,Cyln2,1
+816,CLK3 gene,CLK3,1
+817,Clock Device Component,clock,4
+818,CLOCK gene,locomotor output cycles kaput,1
+819,CLOCK gene,CLOCK,2
+820,Clone Cells,clone,7
+821,Clone Cells,cloning,9
+822,Clone Cells,clones,12
+823,Clone Cells,cloned,16
+824,Clone Cells,Cloning,1
+825,"Cloning, Molecular",molecular cloning,1
+826,clustering of voltage-gated calcium channels,voltage-gated calcium channels,1
+827,c-myc Genes,c-myc genes,2
+828,c-myc Genes,c-myc,1
+829,c-myc Genes,C-MYC,1
+830,c-myc Genes,c-Myc,2
+831,c-myc Proto-Oncogenes,proto-oncogene c-Myc,1
+832,CNS - Brain - Cerebellum (MMHCC),mouse cerebellum,1
+833,CNS - Brain - Hypothalamus (MMHCC),mouse hypothalamus,1
+834,CNS - Brain (MMHCC),mouse brain,8
+835,CNTRL gene,centrosomal proteins,1
+836,Coactivated T Cell,activated T cells,2
+837,Coat (physical object),coats,2
+838,Coating (film),layer,3
+839,Coating (film),coated,1
+840,Cocoa extract,CoCoA,1
+841,Coding,coding,4
+842,Codon (nucleotide sequence),codons,1
+843,"CoFactor brand of 5,10-methylenetetrahydrofolate",cofactor,3
+844,Cognition,cognition,2
+845,Cognitive,cognitive,1
+846,Cognitive function: initiation,initiation,7
+847,cohesion,cohesion,1
+848,Coiled-Coil Domain,coiled-coil domain,1
+849,Coiled-Coil Domain,coiled-coil domains,1
+850,Coiled-Coil Domain,coiled-coil,1
+851,Co-Immunoprecipitation,co-immunoprecipitated,2
+852,Co-Immunoprecipitation,co-immunoprecipitation,3
+853,Co-Immunoprecipitation,co-immunoprecipitates,3
+854,Colforsin,forskolin,1
+855,Colicin Plasmids,factors,6
+856,Collagen fiber,procollagen fibres,1
+857,Collection Object - UML Entity,collection,1
+858,Collections (publication),collections,1
+859,Collision-Induced Dissociation,collision-induced dissociation,1
+860,Collision-Induced Dissociation,CID,5
+861,Colon Carcinoma,colon carcinoma,1
+862,colonies (qualifier value),colonies,2
+863,Colorectal Cancer,colorectal cancer,2
+864,Column (arrangement),column,1
+865,combination of objects,combination,8
+866,Combinations (Undergarment),combinations,1
+867,Communication,communication,1
+868,COMP gene,cartilage oligomeric matrix protein,1
+869,COMP gene,COMP,1
+870,Compact Pattern,compact,1
+871,compactin,compaction,1
+872,comparative analysis,comparative analysis,1
+873,comparative study publication,Comparative studies,1
+874,Comparison,Comparison,3
+875,Comparison,comparisons,1
+876,Comparison,comparison,6
+877,Comparison,Compared,1
+878,Comparison,compared,4
+879,Compartments [PK],compartments,4
+880,Compensated,compensating,1
+881,Compensation as a Defense Mechanism,compensation,2
+882,competition,competition,1
+883,competition,Competitive,1
+884,COMPLEMENT COMPONENT C1r/C1s DEFICIENCY,C1r/C1s,1
+885,Complement System Proteins,complement,1
+886,Complete,completely,1
+887,Complete congenital stationary night blindness,cCSNB,1
+888,Complete Pharyngeal Contraction,complete,3
+889,Complete Pharyngeal Contraction,Complete,1
+890,Complex,complex,44
+891,Complex,t complex,2
+892,Complex,Complex,1
+893,complex (molecular entity),protein complexes,2
+894,complex (molecular entity),complexes,17
+895,complex (molecular entity),AP complexes,2
+896,complex (molecular entity),Complexes,1
+897,Component object,components,11
+898,"Component, LOINC Axis 1",component,5
+899,Composition,composition,3
+900,Composition,compositions,1
+901,Compound heterozygous,compound heterozygous,1
+902,Comprehensive,comprehensive,4
+903,compromise,compromises,1
+904,Concept Status - Active,active,10
+905,Conditional,dependent,4
+906,Conditional,actin dependent,1
+907,Conditioning (Psychology),conditioning,1
+908,Cone pedicle,cone pedicles,1
+909,Confirmation,confirmation,1
+910,Confusion,confusion,1
+911,Congenital Abnormality,abnormalities,4
+912,Congenital Abnormality,brain abnormalities,1
+913,Congenital Abnormality,head malformations,1
+914,Congenital Abnormality,malformation,1
+915,Congenital Abnormality,developmental defect,1
+916,Congenital Abnormality,congenital anomalies,1
+917,Congenital Abnormality,developmental defects,1
+918,Congenital Abnormality,developmental abnormalities,1
+919,Congenital anomaly of brain,brain malformation,2
+920,Congenital Disorders,congenital disorder,1
+921,Congenital Heart Defects,heart defects,2
+922,Congenital malformation syndrome,multiple congenital anomalies,1
+923,Congenital omphalocele,omphalocele,1
+924,conjugation,conjugation,1
+925,Conjunction,conjunction,3
+926,Consequence of,consequence,7
+927,Consequence of,consequences,7
+928,Consequent,consequent,1
+929,Conservation,conservation,2
+930,Consistent with,consistent with,19
+931,Consistent with,Consistent with,10
+932,constitutive androstane receptor,constitutive active,1
+933,Constrain,constrains,1
+934,Contact with,contacting,1
+935,contextual factors,contexts,2
+936,contextual factors,context,1
+937,Continuance of life,survival,9
+938,Contraction (finding),contraction,3
+939,Contribution,contribution,4
+940,Contribution,contributions,1
+941,control act - action,action,8
+942,control aspects,control,15
+943,control aspects,Control,1
+944,Control function,controlled,2
+945,Control function,controlling,7
+946,Conversions,conversion,1
+947,cooperation,cooperation,1
+948,Coordinate on an axis or a grid,coordinates,1
+949,Core,core,6
+950,Core,Core,1
+951,Co-Repressor Proteins,corepressor,1
+952,Co-Repressor Proteins,co-repressors,1
+953,Corneal Neovascularization,corneal angiogenesis,1
+954,Correlation,correlation,1
+955,Correlation,correlate,2
+956,Correlation,correlated,1
+957,Cortex of bone,cortical bone,1
+958,Cortex of Organ,cortex,2
+959,Cortical actin cytoskeleton,cortical actin cytoskeleton,1
+960,cortical plate,cortical plate,1
+961,COS Cells,COS cells,4
+962,COS Cells,Cos cells,1
+963,COS-7 Cells,COS-7 cells,1
+964,Cost Control,controls,8
+965,Count Dosing Unit,count,1
+966,Couple (action),coupling,4
+967,Couples (persons),couples,1
+968,Covalent Interaction,covalent,1
+969,CPOX gene,coproporphyrinogen oxidase,1
+970,Cranial,cranial,1
+971,Cranial sensory ganglion,cranial sensory ganglion,1
+972,craniofacial,craniofacial,2
+973,Craniofacial Abnormalities,craniofacial abnormalities,2
+974,Craniofacial Abnormalities,craniofacial anomalies,1
+975,craniofacial development,Craniofacial development,1
+976,craniofacial development,craniofacial development,1
+977,craniofacial suture morphogenesis,craniofacial morphogenesis,1
+978,Crawling,crawling,1
+979,"Creatine Kinase, MM Form",muscle creatine kinase promoter,1
+980,"Creatine Kinase, MM Form",muscle creatine kinase,1
+981,"Creatine Kinase, MM Form",MCK,1
+982,"CREBBP protein, human",CBP,5
+983,"CRK protein, human",p38,1
+984,Cross Reactions,crosstalk,1
+985,Crossbreeding,hybridization,8
+986,Cross-linking,cross-linking,1
+987,Cross-Talk,cross-talk,4
+988,CRY1 gene,CRY1,5
+989,Crying,CRY,1
+990,Cryptochrome-2,CRY2,11
+991,Cryptochrome-2,CRY2 protein,1
+992,Cryptochromes,Cryptochromes,1
+993,Crystal Structure,crystal structure,2
+994,Crystal Structure,crystal structures,2
+995,Crystal Structure,cocrystallized,1
+996,Crystals,crystal,1
+997,CSPG4 wt Allele,NG2,7
+998,CTCF gene,CTCF,3
+999,CTNND1 wt Allele,p120,1
+1000,CTSK gene,cathepsin K,1
+1001,CUL3 gene,Cullin 3,1
+1002,CUL3 gene,Cul3,9
+1003,Cullin Family Gene,cullin family,1
+1004,cullin-3,Cul-3,3
+1005,cullin-3,CUL3 protein,1
+1006,cullin-3,cullin-3,1
+1007,Culture Dose Form,culture,5
+1008,Culture Dose Form,cultured,9
+1009,Cultured Cell Line,ES cell lines,1
+1010,Cultured Cell Line,cell lines,6
+1011,Cultured Cell Line,cultured cell lines,1
+1012,Cultured Cell Line,cell line,1
+1013,Cultured Cells,cultured cells,1
+1014,Current (present time),currents,12
+1015,Customize,custom,1
+1016,Cutis Laxa,loose skin,1
+1017,Cutis Laxa,cutis laxa,1
+1018,CX546,CX546,1
+1019,Cyclic AMP-Dependent Protein Kinases,cAMP-dependent protein kinase,1
+1020,Cyclic AMP-Dependent Protein Kinases,protein kinase A,1
+1021,Cyclin D,cyclin D,6
+1022,Cyclin E,Cyclin E,1
+1023,Cyclin E,cyclin E,4
+1024,Cyclin T1,cyclin T1,1
+1025,Cyclin-Dependent Kinase 4,CDK4,1
+1026,Cyclin-Dependent Kinases,G1 cyclin-dependent kinases,1
+1027,Cyclin-Dependent Kinases,cyclin-dependent kinases 4,1
+1028,cyclin-dependent protein kinase activity,CDK,1
+1029,Cyclins,cyclins,1
+1030,CYFIP1 gene,Cytoplasmic FMRP Interacting Proteins,1
+1031,CYFIP1 gene,CYFIP1,5
+1032,CYFIP1 gene,Cyfip1,3
+1033,CYFIP2 gene,CYFIP2,1
+1034,Cysteine,cysteine,4
+1035,Cysteine,Cys,1
+1036,Cysteine-Rich Domain,cysteine-rich domains,1
+1037,Cystic Fibrosis,cystic fibrosis,1
+1038,cystinylglycylglycine,cystinyl-bis-glycine,3
+1039,cytidylyl-3'-5'-guanosine,CpG,7
+1040,Cytochalasin D,cytochalasin D,1
+1041,cytokine,cytokine,1
+1042,cytokine,cytokines,2
+1043,Cytoplasm,cytoplasm,11
+1044,Cytoplasmic,cytoplasmic,5
+1045,Cytoplasmic Domain,cytoplasmic domain,4
+1046,Cytoplasmic Domain,cytoplasmic tails,1
+1047,Cytoplasmic Domain,cytoplasmic domains,1
+1048,Cytoplasmic Domain,cytoplasmic tail,2
+1049,cytoplasmic dynein heavy chain,CDHC,3
+1050,Cytoplasmic Dyneins,motor cytoplasmic dynein,2
+1051,Cytoplasmic Dyneins,cytoplasmic dynein,6
+1052,Cytoplasmic Dyneins,cytoplasmic dynein function,3
+1053,Cytoplasmic Dyneins,Cytoplasmic dynein,1
+1054,Cytoplasmic Dyneins,cytoplasmic dynein regulator,1
+1055,Cytoplasmic matrix,cytosolic face,2
+1056,Cytoplasmic matrix,cytosol,2
+1057,Cytoplasmic matrix,cytosolic,4
+1058,Cytoplasmic Protein,cytoplasmic proteins,2
+1059,cytoplasmic SCF ubiquitin ligase complex,cytoplasmic complex,1
+1060,cytoplasmic sequestering of protein,cytoplasmic retention,1
+1061,cytoskeletal part,cytoskeletal components,1
+1062,Cytoskeletal Proteins,cytoskeletal protein,1
+1063,Cytoskeletal Proteins,cytoskeletal proteins,2
+1064,Cytoskeleton,cytoskeletal,2
+1065,Cytoskeleton,actin cytoskeletal,3
+1066,Cytoskeleton,cytoskeleton,1
+1067,Cytoskeleton,cell cytoskeleton,1
+1068,cytotoxic,cytotoxic,1
+1069,cytotoxicity,cytotoxicity,1
+1070,Dab fish,Dab,1
+1071,Daily,Daily,1
+1072,Dancing,DANCE,1
+1073,Data call receiving device,data,54
+1074,Data call receiving device,Data,3
+1075,Data Set,dataset,1
+1076,Databases,database,2
+1077,day,days,7
+1078,Daytime,diurnal,1
+1079,"DCN protein, human",proteoglycan core protein,1
+1080,DCX gene,DCX,11
+1081,DCX gene,Dcx,1
+1082,DDX41 gene,Abs,1
+1083,DDX53 gene,cage,1
+1084,de novo,de novo,2
+1085,deacetylase activity,deacetylase activity,1
+1086,Deacetylation,deacetylation,2
+1087,debate,debate,1
+1088,Decidual,decidual,1
+1089,Decipher Prostate Cancer Test,deciphering,1
+1090,Declining,declining,1
+1091,Decrease,decrease,6
+1092,Decrease,decreases,8
+1093,Decreased,diminish,1
+1094,Decreasing,decreasing,1
+1095,Deeply,deeply,1
+1096,DEFB1 wt Allele,BD1,4
+1097,defects aspect,defects,36
+1098,defects aspect,Defects,1
+1099,Deficiency,deficient,12
+1100,Deficiency,Deficiens,1
+1101,Deficiency,deficiens,1
+1102,Deficiency,deficiency,8
+1103,Deficiency,Deficiency,2
+1104,Deficit,deficits,4
+1105,Deficit,deficit,3
+1106,Definitive,definitive,1
+1107,Definitive endoderm,primitive endoderm,1
+1108,Deformity,anatomical abnormalities,1
+1109,Degree Unit of Plane Angle,degree,1
+1110,Delete - Document Availability Status,deleted,1
+1111,Delta (difference),differences,2
+1112,demethylation,demethylation,1
+1113,Dendrites,dendrites,5
+1114,density,density,2
+1115,density,densities,1
+1116,Departure - action,cleaving,1
+1117,Dephosphorylation,dephosphorylates,1
+1118,Dephosphorylation,dephosphorylation,1
+1119,Depletion,depletion,3
+1120,Depletion,Depletion,4
+1121,Depletion,depleted,3
+1122,Deposition,deposits,1
+1123,Depressed Level of Consciousness,depressed,2
+1124,Deprivation,deprivation,1
+1125,Deregulation,deregulation,1
+1126,Deregulation,deregulated,1
+1127,derivatives,derivatives,1
+1128,Dermomyotome,dermomyotome,1
+1129,Desert environment,deserts,1
+1130,Designated,designated,5
+1131,Designated,designate,1
+1132,Destination,destination,2
+1133,Destruction of tissue,tissue destruction,1
+1134,Detached,detached,1
+1135,Detachment psychological,detachment,1
+1136,Detectable,detectable,1
+1137,Detected (finding),detected,23
+1138,Detection,detection,3
+1139,Determination Aspects,determination,3
+1140,Determination of bacterial growth,bacterial growth,1
+1141,Deubiquitination,deubiquitination,1
+1142,Development,mouse development,4
+1143,Development,developments,1
+1144,Development,cancer development,2
+1145,Development Lot,development,66
+1146,Development of the breasts,breast development,1
+1147,Developmental (qualifier value),developmental,1
+1148,Developmental process,developmental processes,1
+1149,Developmental stages,developmental stage,1
+1150,Developmental stagnation,developmental arrest,2
+1151,DHX30 gene,DHX30,1
+1152,Diabetes Mellitus,diabetes,7
+1153,"Diabetes Mellitus, Insulin-Dependent",type 1 diabetes,3
+1154,diabetic,diabetic,1
+1155,Diameter (qualifier value),diameter,1
+1156,Diaphragm Dosage Form,diaphragm,3
+1157,Diastasis,separation,1
+1158,dictated - DocumentCompletion,dictated,1
+1159,"Diet, High-Fat",high-fat diet,2
+1160,Different,differentially,1
+1161,Digestion,digestion,1
+1162,Dihydropyridines,dihydropyridine,1
+1163,Dimensions,dimensions,1
+1164,dimer,dimer,1
+1165,dimer,dimers,2
+1166,Dimerization,dimerization,8
+1167,Dimerization,dimerize,1
+1168,Diploid Cell,somatic cell,1
+1169,Diploid Cell,somatic cells,1
+1170,Diptera,flies,1
+1171,Direction,direction,2
+1172,Discharge (release),release,6
+1173,discoidin domain receptor 2,type 1 receptor tyrosine kinases,1
+1174,Discriminate,discriminate,1
+1175,Disease,disease,5
+1176,Disease,diseases,3
+1177,Disease,disorder,2
+1178,Disease Response,response,30
+1179,Disease susceptibility,vulnerability,1
+1180,disease transmission qualifier,transmission,1
+1181,Disintegration (morphologic abnormality),disintegration,1
+1182,Disintegration (morphologic abnormality),decay,1
+1183,Disintegrins,disintegrin,1
+1184,Disorder of eye,eye disease,1
+1185,Dispersion,dispersion,1
+1186,disrupted,disrupted,8
+1187,disrupted,disrupt,5
+1188,disrupted,disrupts,4
+1189,Disruption,disruption,8
+1190,Disruption,Disruption,6
+1191,Disruption,disruptions,1
+1192,Disruption,gene disruption,1
+1193,Dissecting,dissect,1
+1194,Dissociation,Dissociation,1
+1195,Distal,distal,2
+1196,Distribution,distributed,1
+1197,Disturbance,disturbances,1
+1198,Diversity,diversity,3
+1199,Diversity,diverse,3
+1200,Divide,divide,2
+1201,DLG2 gene,chapsyn-110,1
+1202,DLG2 gene,PSD-93,3
+1203,DLG3 gene,SAP102,1
+1204,DLG4 wt Allele,PSD95,4
+1205,DNA,DNA,11
+1206,dna binding,DNA binding,8
+1207,DNA Binding Domain,DNA binding domain,3
+1208,DNA Breaks,breaks,1
+1209,DNA Damage,DNA damage,3
+1210,DNA Fragmentation,DNA fragment,1
+1211,DNA glycosylase,urea DNA glycosylase,1
+1212,DNA Methylation [PE],DNA methylation,2
+1213,DNA Mutational Analysis,mutational analyses,1
+1214,DNA polymerase activity,DNA polymerase activity,1
+1215,DNA polymerase alpha-primase,DNA polymerase alpha-primase,1
+1216,DNA Primase,DNA primase,1
+1217,DNA primase activity,DNA primase activity,1
+1218,DNA Repair,DNA repair,1
+1219,DNA Repair,DNA damage repair,1
+1220,DNA Replication,DNA synthesis,2
+1221,DNA Replication,DNA replication,7
+1222,DNA Sequence,sequences,17
+1223,DNA Sequence,DNA sequence,2
+1224,DNA Sequence Rearrangement,rearrangement,1
+1225,"DNA, Complementary",cDNA,44
+1226,"DNA, Complementary",cDNAs,24
+1227,"DNA, Double-Stranded",double-stranded DNA,1
+1228,DNA-Binding Proteins,DNA binding proteins,1
+1229,DNA-Binding Proteins,TDP-43,1
+1230,DNA-Directed RNA Polymerase,RNA polymerase,1
+1231,DNAH7 gene,DNAH7,2
+1232,DNMT1 gene,Dnmt1,6
+1233,DNMT1 gene,DNA methyltransferase,1
+1234,Dock - Manufactured Object,docks,1
+1235,Document Completion - incomplete,incomplete,1
+1236,Document type,document,1
+1237,Does carry,carries,1
+1238,Does steer,steering,1
+1239,Does turn (finding),turns,1
+1240,Dominant,dominant,5
+1241,dominant inheritance,dominant inheritance,1
+1242,Dominant-Negative Mutation,dominant-negative,3
+1243,Dosage,doses,1
+1244,Dosage,dosage,1
+1245,Dosing Days to Detection,detect,2
+1246,Down Syndrome,Down syndrome,10
+1247,Down Syndrome,DS,2
+1248,Down-Regulation,down-regulation,7
+1249,Down-Regulation,down-regulated,1
+1250,Down-Regulation,down-regulating,1
+1251,Down-Regulation,downregulation,4
+1252,Down-Regulation,Down-regulation,1
+1253,Downstream,downstream,8
+1254,DPEP1 gene,MBD1,7
+1255,DPEP1 gene,Mbd1,1
+1256,DPEP3 gene,DPEP3,4
+1257,DPEP3 gene,dipeptidase 3,1
+1258,DPEP3 gene,Dpep3,3
+1259,DPF3 gene,BAF45c,1
+1260,"Drosophila <fruit fly, genus>",Drosophila,3
+1261,Drosophila melanogaster,Drosophila melanogaster,1
+1262,Drug Delivery Systems,drug targeting,1
+1263,Drug Design,rational drug design,1
+1264,Drug-induced,drug-induced,1
+1265,DRUGS,drugs,1
+1266,Dual,dual,3
+1267,Dual diagnosis (psychiatry),psychiatric diagnoses,1
+1268,Duplicate,double,1
+1269,Duplicate,duplicates,2
+1270,Duplication (finding),duplicated,1
+1271,Duplication (finding),duplications,3
+1272,Duplication (finding),duplication,1
+1273,Duration of menstrual flow,period length,1
+1274,dynactin subunit 1,dynactin,8
+1275,dynactin subunit 1,Dynactin,1
+1276,Dynamic,dynamic,1
+1277,Dynamics,dynamics,10
+1278,dynein activity,dynein activity,2
+1279,Dynein ATPase,dynein,18
+1280,Dynein complex,dynein motor complex,1
+1281,dynein heavy chain binding,Dynein Heavy chain 7,1
+1282,DYRK1A gene,DYRK,6
+1283,DYRK1A gene,Dyrk gene,2
+1284,DYRK1A gene,DYRK gene,1
+1285,DYRK1A gene,Dyrk protein,2
+1286,DYRK1A gene,Dyrk1A,9
+1287,DYRK1A gene,DYRK1A,17
+1288,DYRK1A gene,dual-specificity tyrosine phosphorylation-regulated kinase 1A,1
+1289,DYRK1A gene,MNB,1
+1290,DYRK1A gene,DYRK1A kinase,1
+1291,DYRK1A gene,Dyrk1a,2
+1292,DYRK2 gene,DYRK2,1
+1293,DYRK3 gene,DYRK3,3
+1294,DYSFUNCTION - SKIN DISORDERS,dysfunction,1
+1295,e protein,E protein,1
+1296,E3 SUMO-Protein Ligase PIAS1,protein interacting,1
+1297,Early,early,27
+1298,Early lethal,early lethal,1
+1299,Early stage,early stages,1
+1300,E-Box Elements,E-box,3
+1301,E-Cadherin,E-cadherin,1
+1302,Ectoderm,ectoderm,1
+1303,Ectopic,ectopic,2
+1304,Ectopic,Ectopic,1
+1305,Edema,oedema,2
+1306,Edetic Acid,EDTA,1
+1307,Effect,effects of,4
+1308,Effect,effects,7
+1309,Effect,effect,12
+1310,Effect,Cis effects,1
+1311,Effect,cis effects,1
+1312,Effective,effective,1
+1313,Efficacy Study,efficacy,2
+1314,Efficiency,efficiency,3
+1315,Efficient,efficient,5
+1316,EGF Family of Proteins,epidermal growth factor-like domains,1
+1317,EGF gene,epidermal growth,1
+1318,EGF gene,epidermal growth factor,4
+1319,EGF gene,EGF,3
+1320,EGF gene,Epidermal growth factor,1
+1321,EGFL6 gene,EGF-like,2
+1322,"EGFR protein, human",ErbB1,1
+1323,EGFR wt Allele,ERBB,2
+1324,EIF2B5 wt Allele,CaCh 1,2
+1325,EIF2B5 wt Allele,CaCh 2,4
+1326,EIF2B5 wt Allele,CaCh 3,2
+1327,elastase activity,elastase activity,1
+1328,Elastic Fibers,elastic fibres,5
+1329,Elastic Fibers,elastic fibre,1
+1330,elasticity,elasticity,1
+1331,Electroconvulsive Therapy,EST,1
+1332,Electron Microscopy,electron microscopy,6
+1333,Electrophoretic Mobility Shift Assay,electrophoretic mobility shift assay,1
+1334,Electrophysiology (science),electrophysiology,2
+1335,Elements,elements,1
+1336,Elevated,elevated,5
+1337,Elevation,elevation,1
+1338,Elicited by,elicit,1
+1339,ELN gene,2-Mb Williams-Beuren syndrome,1
+1340,ELN gene,WBS,2
+1341,ELN gene,elastin,2
+1342,ELSPBP1 gene,E12,2
+1343,Embryo,embryos,24
+1344,Embryo,embryonic day,7
+1345,Embryo,embryonic,16
+1346,Embryo,mouse embryos,11
+1347,Embryo,Embryos,2
+1348,Embryo,embryo,6
+1349,Embryo,mouse embryo,4
+1350,Embryo,E,3
+1351,Embryo,mouse embryonic,1
+1352,Embryo,Mouse embryos,1
+1353,EMBRYONAL CELL CARCINOMA,embryonal carcinoma cell line,1
+1354,Embryonic brain,embryonic brain,1
+1355,Embryonic Cell,embryonic cell,1
+1356,Embryonic Development,embryogenesis,10
+1357,Embryonic Development,embryonic development,10
+1358,Embryonic Development,murine embryogenesis,1
+1359,Embryonic Development,mouse embryogenesis,2
+1360,Embryonic heart,Embryonic mouse heart,1
+1361,Embryonic heart,embryonic heart,3
+1362,Embryonic heart,embryonic hearts,1
+1363,Embryonic Lethal Mutation,embryonic lethal,3
+1364,Embryonic Nervous System,embryonic nervous system,1
+1365,Embryonic Stem Cells,ES,3
+1366,Embryonic Stem Cells,embryonic stem,2
+1367,Embryonic Stem Cells,embryonic stem cells,5
+1368,Embryonic Stem Cells,ESCs,2
+1369,Embryonic tissue,embryonic tissues,1
+1370,Emericella nidulans allergenic extract,Aspergillus nidulans,2
+1371,emotional dependency,dependency,1
+1372,Encephalomyocarditis virus,encephalomyocarditis,1
+1373,Encode (action),encode,5
+1374,Encode (action),encoded,1
+1375,Encode (action),encoding,2
+1376,Encode (action),gene encoding,1
+1377,Encounter due to puberty,puberty,1
+1378,Encounter due to vagabond status,transients,1
+1379,End,ends,2
+1380,Endocardium Specimen Code,endocardium,1
+1381,Endocervical Route of Drug Administration,EC,1
+1382,Endocrine Cells,endocrine cells,1
+1383,Endocytosis,endocytosis,5
+1384,endodeoxyribonuclease III activity,Endonuclease III,1
+1385,Endoderm,endoderm,4
+1386,Endogenous,endogenous,23
+1387,Endogenous,Endogenous,2
+1388,Endopeptidase K,proteinase K,1
+1389,Endoplasmic Reticulum,endoplasmic reticulum,1
+1390,Endosomes,endosomes,1
+1391,endothelial cell migration,endothelial cell migration,2
+1392,endothelial cell proliferation,endothelial cell proliferation,2
+1393,Endothelial Cells,endothelial cells,24
+1394,Endothelial Cells,Endothelial cells,1
+1395,Endothelial Cells,ECs,2
+1396,Endothelial Cells,endothelial cell,3
+1397,Endothelial Cells,endothelial cell lines,1
+1398,Endothelium,endothelium,1
+1399,Endothelium,endothelial,1
+1400,energy homeostasis,energy homeostasis,1
+1401,Energy Metabolism,energy expenditure,1
+1402,Energy Metabolism,energy metabolism,2
+1403,Enhance (action),enhanced,11
+1404,Enhance (action),enhance,2
+1405,Enhance (action),enhances,7
+1406,Enhance (action),Enhanced,1
+1407,Enhancer brand,enhancer,1
+1408,Enhancer of transcription,enhancers,1
+1409,enrich,enrich,1
+1410,Entity,entity,1
+1411,Entity Determiner - specific,specific,2
+1412,Entity Name Part Type - family,family,23
+1413,Entry (data),entry,2
+1414,"env Gene Products, Human Immunodeficiency Virus",human immunodeficiency virus envelope protein,1
+1415,Environment,environment,2
+1416,Environment,native environment,1
+1417,Enzymatic Activity [MoA],enzymatic activity,4
+1418,enzyme activity,enzyme activity,1
+1419,Enzyme Assays,enzyme assays,1
+1420,Enzyme-Linked Immunosorbent Assay,Enzyme-linked immunosorbent,1
+1421,Enzymes,enzyme,13
+1422,Enzymes,enzyme heme,1
+1423,"Enzymes, hematological",enzymes,7
+1424,EP300 gene,p300,7
+1425,EPHB2 wt Allele,ERK,2
+1426,Epiblast,epiblast,1
+1427,Epidermal Growth Factor Receptor,epidermal growth factor receptor 4,1
+1428,Epidermal Growth Factor Receptor Pathway Substrate 15,Eps15,2
+1429,Epidermal Growth Factor Receptor Pathway Substrate 8,EPS8,1
+1430,Epidermis,epidermis,1
+1431,Epiphysial cartilage,epiphyseal growth plate,1
+1432,epithelial,epithelial,1
+1433,epithelial,epithelia,1
+1434,epithelial cell morphogenesis,epithelial morphogenesis,1
+1435,Epithelial cell of renal tubule,renal cell line,1
+1436,Epithelial Cells,epithelial cells,10
+1437,Epithelial hyperplasia,epithelial hyperplasia,1
+1438,Epithelial proliferation,epithelial proliferation,1
+1439,epithelial to mesenchymal transition,epithelial-mesenchymal,1
+1440,Epithelioma,epithelial tumors,1
+1441,Epithelium,epithelium,5
+1442,Epitopes,epitope,1
+1443,Equal,equivalent,2
+1444,Equilibrium,balance,2
+1445,Equilibrium,balancing,1
+1446,Equilibrium,equilibrium,1
+1447,Equivalent Weight,equivalents,1
+1448,ErbB Receptors,erbB family,1
+1449,ErbB Receptors,epidermal growth factor receptor family,1
+1450,ErbB Receptors,epidermal growth factor receptor family member,2
+1451,ErbB Receptors,ErbB family,1
+1452,erbB-2 Receptor,erbB2,2
+1453,erbB-2 Receptor,ErbB2,1
+1454,ERBB3 gene,erbB3,3
+1455,ERBB3 gene,ErbB3,2
+1456,ERBB4 gene,ErbB4 gene,1
+1457,ERBB4 gene,erbB4 gene,2
+1458,ERBB4 Signaling Pathway,ErbB4 signaling,3
+1459,EREG gene,epiregulin,1
+1460,Erg - unit of measure,ERG,1
+1461,Erythroid,erythroid,1
+1462,Erythroid Cells,erythroid cells,1
+1463,Erythropoiesis,erythrocyte differentiation,1
+1464,Escherichia coli,Escherichia coli,3
+1465,Escherichia coli,E. coli,2
+1466,Escherichia coli,E.coli,1
+1467,Essential,essential,24
+1468,establishment and maintenance of localization,localization,28
+1469,establishment and maintenance of localization,Localization,1
+1470,establishment and maintenance of localization,colocalization,6
+1471,establishment and maintenance of localization,site localization,1
+1472,ESTERASE C,ESC,3
+1473,Estrogen Receptors,estrogen receptor,1
+1474,Estrogens,estrogen,1
+1475,Estrogens,oestrogen,1
+1476,Etiology,etiology,4
+1477,Euchromatin,euchromatin,1
+1478,Euchromatin,euchromatin protein,1
+1479,Eukaryota,eukaryotes,2
+1480,"Eukaryotic Translation Initiation Factor 4E, human",eIF4E,1
+1481,Evaluation,evaluated,1
+1482,Evaluation,evaluate,1
+1483,Event Consequence - Death,death,2
+1484,Evidence,evidence,19
+1485,Evidence,Evidence,1
+1486,Examined,examined,1
+1487,Exception - Property or Attribute,exception,1
+1488,Excessive,excessive,4
+1489,Excitation Contraction Coupling,excitation-contraction coupling,1
+1490,Excitatory Postsynaptic Currents,mEPSCs,1
+1491,Excitatory Synapse,excitatory synapses,3
+1492,Excretory function,elimination,3
+1493,Exercise Pain Management,exercise,1
+1494,Exist,exist,1
+1495,EXOC6 gene,Sec15l1,1
+1496,Exocytosis,exocytosis,1
+1497,Exodeoxyribonuclease V,ATP-dependent,1
+1498,Exogenous,exogenous,3
+1499,Exogenous,Exogenous,1
+1500,Exons,exons,10
+1501,Exons,exon 1,1
+1502,Exons,exon 2,1
+1503,Exons,exon,2
+1504,Expectation,expectation,1
+1505,expense,expense,1
+1506,expense,expense of,1
+1507,Experience,experience,1
+1508,Experimental Organism Aborted,aborted,1
+1509,Experimental Result,result,1
+1510,explanation,explanation,1
+1511,export,export,1
+1512,Exposure to,exposed to,1
+1513,Exposure to,exposure to,1
+1514,Expressed Sequence Tags,ESTs,1
+1515,Expression procedure,expression,164
+1516,Expression procedure,Expression,18
+1517,Expression procedure,D expression,1
+1518,expression vector,expression vector,5
+1519,Extent,extends,1
+1520,Extracellular,extracellular region,2
+1521,Extracellular,extracellular part,2
+1522,Extracellular,extracellular side,1
+1523,Extracellular Domain,extracellular domain,7
+1524,Extracellular Domain,extracellular domains,1
+1525,Extracellular Domain,intracellular domain,1
+1526,Extracellular Matrix,extracellular matrix,2
+1527,Extracellular Matrix Degradation,extracellular matrix degradation,1
+1528,Extracellular Matrix Proteins,extracellular matrix proteins,1
+1529,Extracellular Protein,extracellular protein,2
+1530,Extraction,removal,3
+1531,Extraembryonic membranes,extraembryonic,1
+1532,Extrinsic,outer,3
+1533,Extrinsic,outside,1
+1534,Eye - Retina (MMHCC),mouse retina,1
+1535,FABP4 wt Allele,AP2,4
+1536,Face,faces,1
+1537,Face (spatial concept),face,2
+1538,Facilitation,facilitation,1
+1539,F-Actin,F-actin,1
+1540,Factor,Determinants,1
+1541,Factor,determinant,1
+1542,Factor,determinants,2
+1543,failed,fails,3
+1544,Failure (biologic function),failure,2
+1545,FAK Family Tyrosine Kinase,tyrosine kinase family,1
+1546,Family,gene families,1
+1547,Family,families,3
+1548,Family Dasypodidae,Armadillo,1
+1549,Family history of hereditary disease,genetic diseases,2
+1550,Family member,family members,4
+1551,Family member,family member,1
+1552,Fanconi anaemia nuclear complex,nuclear complex,1
+1553,FAS-AS1 gene,SAF,1
+1554,Fasting,fasting,1
+1555,Fat-Restricted Diet,low-fat diet,1
+1556,fatty acid metabolism,fatty acid metabolism,1
+1557,Fatty Acids,fatty acids,1
+1558,FBXL21 gene,FBXL21,1
+1559,FBXL21 gene,Fbxl21 gene,1
+1560,FBXL3 gene,FBXL3,2
+1561,FBXL3 gene,Fbxl3,1
+1562,FBXO2 gene,F-box protein,1
+1563,Feature,features,3
+1564,feeding of newborn,feeding,1
+1565,Feeling upset,UpSET,1
+1566,Femto,F,1
+1567,"Fermitin Family Homolog 2, human",Kindlin-2,4
+1568,FERROCHELATASE,ferrochelatase,1
+1569,"Ferrum metallicum, Homeopathic preparation",iron,3
+1570,Fertility,fertile,4
+1571,Fertility Domain,fertility,7
+1572,Fetal development of the mammalian embryo or fetus,fetal development,1
+1573,FGF1 gene,endothelial cell growth,1
+1574,FGF1 gene,endothelial cell growth factor,1
+1575,"FGF10 protein, human",FGF-10,1
+1576,FGF23 gene,FGF23,7
+1577,"FGF7 protein, human",FGF-7,1
+1578,FGFR1 gene,fibroblast growth factor receptor 1,2
+1579,FGFR1 gene,fgfr-1,2
+1580,FGFR1 gene,H3,7
+1581,"FGFR1 protein, human",FGFR1,30
+1582,"FGFR1 protein, human",FgfR1,1
+1583,FGFR1 wt Allele,FLG,1
+1584,"FGFR2 protein, human",FGFR2,1
+1585,"FGFR3 protein, human",FGFR3,1
+1586,FGG gene,fibrinogen gamma chain,1
+1587,Fibrillins,fibrillins,1
+1588,Fibrinogen,fibrinogen,2
+1589,Fibroblast Growth Factor,fibroblast growth factor,6
+1590,Fibroblast Growth Factor,FGF,29
+1591,Fibroblast Growth Factor,FGFs,4
+1592,Fibroblast Growth Factor,murine fibroblast growth factor,1
+1593,Fibroblast Growth Factor,fibroblast growth factors,1
+1594,Fibroblast Growth Factor,Fibroblast growth factors,1
+1595,Fibroblast Growth Factor,Fibroblast growth factor,1
+1596,Fibroblast Growth Factor 2,bFGF,4
+1597,Fibroblast Growth Factor 2,FGF-2,15
+1598,Fibroblast Growth Factor 2,fibroblast growth factor-2,1
+1599,Fibroblast Growth Factor 2,Basic fibroblast growth factor,1
+1600,Fibroblast Growth Factor 21 Measurement,Fibroblast growth factor 21,1
+1601,Fibroblast Growth Factor 21 Measurement,FGF21,4
+1602,Fibroblast Growth Factor 21 Measurement,FGF21 activity,2
+1603,Fibroblast Growth Factor Receptors,fibroblast growth factor receptor,1
+1604,Fibroblast Growth Factor Receptors,bFGF-R,3
+1605,Fibroblast Growth Factor Receptors,chick FGF receptor,1
+1606,Fibroblast Growth Factor Receptors,FGF receptor,2
+1607,Fibroblast Growth Factor Receptors,FGF receptors,4
+1608,Fibroblast Growth Factor Receptors,fibroblast growth factor receptor-1,1
+1609,Fibroblast Growth Factor Receptors,FGFR,2
+1610,fibroblast growth factor-1,FGF-1,1
+1611,Fibronectin Type III Domain,fibronectin type III domains,2
+1612,Fibronectin Type III Domain,fibronectin type III,1
+1613,Fibronectin Type III Domain,fibronectin type 3 domain,1
+1614,Fibronectins,fibronectin,2
+1615,Fibrosis,fibrosis,1
+1616,Fibula,fibula,1
+1617,Figs - dietary,FIG,1
+1618,filamentous actin location,filamentous actin,1
+1619,Filamin C,filamin C,5
+1620,Filamin C,FLNC,2
+1621,Filamins,filamin,5
+1622,Filamins,filamins,1
+1623,Firm,firm,1
+1624,Flank (surface region),gene flanking,1
+1625,Flank (surface region),flanking,2
+1626,Flexible,flexible,1
+1627,"FLNA protein, human",filamin-A,1
+1628,FLNC gene,Flnc,1
+1629,"FLNC protein, human",filamin-C,1
+1630,Flow Cytometry,flow cytometry,1
+1631,Flow Cytometry,Flow cytometry,1
+1632,Flow Rate,FLRT,5
+1633,FLRT1 gene,FLRT1,1
+1634,FLRT2 gene,FLRT2,1
+1635,FLRT3 gene,FLRT3,3
+1636,Fluorescence,Fluorescence,1
+1637,Fluorescent in Situ Hybridization,FISH,1
+1638,Fluorescent stain,Fluorescent,1
+1639,FMR1 gene,FMR1 gene,1
+1640,"FMR1 protein, human",fragile X mental retardation protein,2
+1641,"FMR1 protein, human",FMRP,11
+1642,Focal,foci,1
+1643,Focal Adhesion Kinase 1,FAK,7
+1644,Focal Adhesion Kinase 1,focal adhesion kinase,1
+1645,Focal Adhesions,focal contacts,1
+1646,Focal Adhesions,focal adhesion,1
+1647,Focal Adhesions,focal adhesion protein,1
+1648,Focal Adhesions,focal adhesions,3
+1649,Folded structure,folds,1
+1650,FOLH1 gene,Prostate Specific Membrane Antigen,1
+1651,FOLH1 gene,PSMA,3
+1652,FOLH1 gene,FOLH1,1
+1653,FOLH1 gene,Folh1,6
+1654,FOLH1 gene,NAALADase,2
+1655,FOLH1 gene,folate hydrolase,1
+1656,Force,Forced,1
+1657,Forced,forcing,1
+1658,forebrain development,forebrain development,1
+1659,Forkhead Box Protein O4,Foxo4,3
+1660,Formation,formation,30
+1661,FOS gene,c-Fos,1
+1662,Fourier Analysis,Fourier analysis,1
+1663,FOXD3 wt Allele,genesis,1
+1664,FOXK1 gene,Foxk1,5
+1665,FOXO Family,Foxo,1
+1666,FOXP3 gene,Foxp3,5
+1667,FOXP3 gene,FOXP3,1
+1668,FOXP3 protein,Foxp3 protein,1
+1669,f-protein,protein F,1
+1670,Fraction of,fractions,2
+1671,Fraction of,fraction,1
+1672,Fragile X Syndrome,Fragile X Syndrome,1
+1673,Fragment of (qualifier value),PS fragments,1
+1674,Fragments,fragments,1
+1675,Fragments,fragment,1
+1676,Frequencies (time pattern),frequencies,1
+1677,Frequently,frequent,1
+1678,Friedreich Ataxia,Friedreich\'s ataxia,3
+1679,Friedreich Ataxia,FRDA,10
+1680,Friedreich Ataxia,Friedreich ataxia,4
+1681,Frizzled Receptors,frizzled2 receptor,1
+1682,frontal lobe,frontal cortex,1
+1683,"FRS2 protein, human",FRS2,3
+1684,Fuhrman Grade 1,G1,2
+1685,fully spanning the plasma membrane,transmembrane,2
+1686,fumarate,fumarate,2
+1687,Function,functions,30
+1688,Functional,functional,38
+1689,Functional,functioning,1
+1690,Functional behavioral assessment,Functional analysis,1
+1691,Functional Laterality,functionality,1
+1692,Functional Map,map,1
+1693,Fungal,fungi,1
+1694,Fungal,fungal,1
+1695,Fused,fused,4
+1696,Fusion procedure,fusion,1
+1697,Fusion procedure,fusions,2
+1698,Fusion protein,fusion protein,1
+1699,Fusion protein,fusion proteins,1
+1700,FXN gene,Frataxin,3
+1701,FXN gene,frataxin,20
+1702,FXN gene,Fxn,4
+1703,FXN gene,FXN,1
+1704,FYN gene,Fyn,1
+1705,FYN wt Allele,SLK,1
+1706,"FZD2 protein, human",Fzd2,1
+1707,G1 to S Transition Process,G1/S transition,1
+1708,GABA-A Receptor,GABA(A) receptor,1
+1709,Gamma - unit of measure,gamma,5
+1710,Gamma - unit of measure,IFNgamma,4
+1711,gamma-Secretase,gamma-secretases,1
+1712,gamma-Secretase,gamma-secretase binding,1
+1713,gamma-secretase complex,gamma-secretase complex,1
+1714,Gamma-Secretase Subunit PEN-2,presenilin enhancer,1
+1715,gamma-Tubulin,gamma-tubulin,4
+1716,Ganciclovir,DHPG,1
+1717,Gastrointestinal tract structure,gastrointestinal tract,3
+1718,Gastrulation,gastrulating,1
+1719,Gastrulation,gastrulation,4
+1720,"GDF15 protein, human",NRG-1,2
+1721,Gel,gels,1
+1722,Gel Chromatography,gel filtration,2
+1723,Gel Chromatography,exclusion chromatography,1
+1724,GenBank,GenBank,1
+1725,Gene Activation,gene activation,2
+1726,Gene Deletion,Deletions,1
+1727,Gene Deletion,deletions,5
+1728,Gene Deletion,gene deletion,1
+1729,Gene Deletion Abnormality,deletion,20
+1730,Gene Duplication,gene duplication,1
+1731,Gene Enrichment Probability,enrichment of,1
+1732,Gene Expression,gene expression,19
+1733,Gene Expression,Gene expression,1
+1734,Gene Expression Regulation,gene regulation,1
+1735,Gene Expression Regulation,genetic control,1
+1736,Gene Feature,gene organization,1
+1737,gene induction,gene induction,1
+1738,Gene Knockdown Techniques,knockdown,12
+1739,Gene Knockdown Techniques,Knockdown,2
+1740,Gene Mutation,gene mutations,1
+1741,"Gene Products, vif",gene products,3
+1742,Gene Rearrangement,genomic rearrangements,1
+1743,Gene Regulatory Networks,transcriptional networks,2
+1744,Gene Regulatory Networks,Gene regulatory networks,1
+1745,Gene Regulatory Networks,transcriptional network,1
+1746,Gene Regulatory Networks,genetic network,1
+1747,Gene Silencing,silencing,1
+1748,Gene Silencing,Silencing,3
+1749,Gene Silencing,genetic inactivation,1
+1750,Gene Targeting,gene targeting,4
+1751,Generation (action),generation,6
+1752,Genes,gene,34
+1753,Genes,genes,77
+1754,Genes,Gene 1,1
+1755,"Genes, Developmental",developmental genes,4
+1756,"Genes, Immunoglobulin",immunoglobulin reporter gene,1
+1757,"Genes, Reporter",reporter gene,8
+1758,"Genes, Switch",switching,1
+1759,Genetic,genetic,2
+1760,Genetic Analysis,genetic analysis,1
+1761,Genetic Hotspot,hotspot,1
+1762,genetic linkage,linkages,1
+1763,genetic linkage,linkage,1
+1764,genetic manipulation,genetic manipulations,1
+1765,Genetic Polymorphism,polymorphisms,2
+1766,Genetic Translation Process,translational,1
+1767,Genome,genome,6
+1768,Genome Assembly Sequence,genome assembly,1
+1769,Genomic DNA,genomic DNA,2
+1770,Genomic Instability,genome instability,1
+1771,Genomic Instability,genomic instability,1
+1772,Genomic Library,mouse genomic library,1
+1773,Genomic Stability,genomic stability,2
+1774,Genomics,genomic,1
+1775,genotoxicity,genotoxicity,1
+1776,Genotype,genotypes,1
+1777,Genus Aria,ARIA,8
+1778,Genus Danio,Danio,1
+1779,geographic population,populations,2
+1780,geographic population,population,2
+1781,Geographic state,states,2
+1782,germ cell development,germ-cell development,1
+1783,Germ Cells,germ-line,1
+1784,Germ Cells,germ cells,1
+1785,germinal center formation,germinal center formation,1
+1786,Germline,germline,2
+1787,Germ-Line Mutation,germ-line mutation,1
+1788,GIT1 gene,GIT1,1
+1789,GLI3 gene,DNA-binding protein,2
+1790,GLI3 gene,DNA-binding,1
+1791,Glioblastoma Multiforme,glioblastoma multiformes,1
+1792,Glioma,glioma,1
+1793,Global,Global,1
+1794,Global,global,1
+1795,Glucocorticoid Receptor,glucocorticoid receptor,6
+1796,Glucocorticoid Receptor,GR,5
+1797,glucocorticoid receptor-interacting protein 1,glucocorticoid receptor interacting protein 1,1
+1798,glucocorticoid receptor-interacting protein 1,protein transcription intermediary factor 2,1
+1799,glucocorticoid receptor-interacting protein 1,TIF2,3
+1800,glucocorticoid receptor-interacting protein 1,SRC-2,11
+1801,glucocorticoid receptor-interacting protein 1,hepatic steroid receptor coactivator 2,1
+1802,Glucocorticoids,glucocorticoid,1
+1803,Glucocorticoids,glucocorticoid action,1
+1804,Glucocorticoids,glucocorticoids,1
+1805,Glucocorticoids,glucocorticoid signal,1
+1806,Glucose,glucose production,1
+1807,Glucose measurement,glucose,3
+1808,glucose uptake,glucose uptake,2
+1809,GLUCOSE-6-PHOSPHATASE,Glucose-6-phosphatase,1
+1810,GLUCOSE-6-PHOSPHATASE,G6Pase,2
+1811,Glutamate,glutamate,1
+1812,Glutamate Carboxypeptidase II,folate hydrolase I,1
+1813,"glutamate carboxypeptidase II, human",gamma-glutamyl carboxypeptidase,1
+1814,Glutathione S-Transferase,Glutathione S-transferase,1
+1815,Glutathione S-transferase measurement,GST,1
+1816,Glycogen Storage Disease Type I,Von Gierke\'s disease,2
+1817,Glycogen storage disease type II,GAA,1
+1818,glycogen synthase kinase 3 beta,GSK-3beta,2
+1819,glycogen synthase kinase 3 beta,GSK-3beta (,1
+1820,glycogen synthase kinase 3 beta,GSK3beta,2
+1821,Glycogen Synthase Kinases,glycogen synthase kinase,1
+1822,Glycoproteins,glycoprotein,1
+1823,Golgi Apparatus,Golgi,1
+1824,Golgi Apparatus,Golgi complex,1
+1825,Golgi Apparatus,Golgi apparatus,2
+1826,GOLPH3 gene,Golgi-associated protein,1
+1827,GOPC gene,GOPC,1
+1828,GOPC wt Allele,PIST,1
+1829,G-Protein-Coupled Receptors,G-protein-coupled receptors,2
+1830,G-Protein-Coupled Receptors,G protein-coupled receptors,1
+1831,"GPS2 protein, human",G-Protein Pathway Suppressor 2,1
+1832,"GPS2 protein, human",GPS2,3
+1833,gram,G,6
+1834,Granulocyte component of blood,granulocytes,1
+1835,GRB14 gene,Grb14,7
+1836,GRB2 gene,Grb2,3
+1837,GRB2 gene,Grb,1
+1838,Greek letter alpha (qualifier value),alpha,6
+1839,Greek letter rho,Rho,1
+1840,Green Fluorescent Proteins,green fluorescent protein,1
+1841,Green Fluorescent Proteins,green fluorescence protein,1
+1842,GRIA1 gene,GluR1,2
+1843,GRIA2 gene,GluRB,2
+1844,GRIK1 gene,GluR5,1
+1845,GRIP1 gene,Glutamate receptor interacting protein,1
+1846,GRIP1 gene,GRIP,3
+1847,GRM6 wt Allele,mGluR6,1
+1848,Gross (qualifier value),gross,1
+1849,Groups,group,2
+1850,Growth,mouse embryonic growth,1
+1851,Growth action,growth,8
+1852,Growth Cones,growth cone,1
+1853,Growth Factor,growth factors,3
+1854,Growth Factor,growth factor,3
+1855,Growth Factor,GF,1
+1856,growth factor receptor-bound protein 10,Grb10,1
+1857,Growth Factor Receptor-Bound Protein 7,Grb7,7
+1858,Growth Factor Receptors,growth factor receptors,2
+1859,Growth Factor Receptors,growth factor receptor,1
+1860,Growth Factor Receptors,Growth factor receptor,1
+1861,growth hormone activity,growth hormone,2
+1862,Growth rate,growth rate,1
+1863,Growth retardation,growth retardation,1
+1864,Growth retardation,growth retarded,1
+1865,GSK1210151A,GSK1210151A,1
+1866,GTF2I gene,Gtf2i,10
+1867,GTF2I gene,GTF2I,6
+1868,GTF2I gene,general transcription factor II-I,1
+1869,GTF2I gene,BAP-135,1
+1870,GTF2I gene,TFII-I,7
+1871,GTF2IP1 gene,GTF2IP1,1
+1872,GTF2IRD1 gene,GTF2IRD1,2
+1873,GTF2IRD1 gene,Gtf2ird1,4
+1874,GTPase-Activating Proteins,GTPase activating protein,1
+1875,Guanine Nucleotide Exchange Factors,exchange factor,1
+1876,Guanine Nucleotide Exchange Factors,guanine nucleotide exchange region,1
+1877,Guanosine Triphosphate,guanosine triphosphate,1
+1878,Guanosine Triphosphate Phosphohydrolases,GTPase,2
+1879,Guanosine Triphosphate Phosphohydrolases,GTPases,2
+1880,Guanosine Triphosphate Phosphohydrolases,guanosine triphosphate hydrolases,1
+1881,guidance - Measure Attribute,guidance,2
+1882,Gut,gut,2
+1883,H19 gene,H19,2
+1884,Hair follicle structure,hair follicle,1
+1885,Half-Life,half-life,2
+1886,Half-Life,protein half-life,2
+1887,Hamartoma,hamartomas,1
+1888,Haploinsufficiency,haploinsufficiency,9
+1889,Haploinsufficiency,Haploinsufficiency,1
+1890,Haploinsufficiency,haploinsufficient,1
+1891,Haplotypes,haplotypes,2
+1892,Haplotypes,haplotype mice,1
+1893,Haplotypes,haplotype,2
+1894,Harmine,harmine,1
+1895,Has property,properties,6
+1896,Having administered,administered,1
+1897,"HBEGF protein, human",heparin-binding EGF-like growth factor,2
+1898,"HBEGF protein, human",heparin-binding EGF,1
+1899,HBEGF wt Allele,HB-EGF,2
+1900,HCT116 Cells,HCT116,1
+1901,"HDAC1 protein, human",HDAC1,1
+1902,HDAC2 gene,HDAC2,1
+1903,HDAC9 wt Allele,HDAC7,10
+1904,Health,health,1
+1905,Health problem 1,health problem,1
+1906,Heart,heart,19
+1907,Heart,Heart,1
+1908,Heart,hearts,1
+1909,Heart,Hearts,1
+1910,Heart- and Neural Crest Derivatives-Expressed Protein 2,dHAND gene,1
+1911,Heart cell,heart cells,1
+1912,heart development,heart development,1
+1913,Heart failure,heart failure,2
+1914,heart growth,heart growth,1
+1915,heart morphogenesis,cardiac morphogenesis,1
+1916,Heart tissue,heart tissue,1
+1917,Heart Ventricle,heart ventricle,1
+1918,Heat shock proteins,heat-shock protein,1
+1919,HEK293 Cells,HEK293 cells,5
+1920,HeLa Cells,HeLa cell,1
+1921,HeLa Cells,HeLa cells,2
+1922,helicase activity,helicase activity,1
+1923,Helice,helices,1
+1924,Helix-Loop-Helix Motifs,helix-loop-helix,4
+1925,Helix-Loop-Helix Motifs,bHLH,3
+1926,Helix-Loop-Helix Motifs,helix-loop-helix domains,1
+1927,Helix-Loop-Helix Motifs,helix-loop-helix repeats,1
+1928,Helix-Loop-Helix Motifs,helix-loop-helix motif,1
+1929,Helper-Inducer T-Lymphocyte,T-helper cells,1
+1930,Hemangioblasts,angioblasts,2
+1931,Hemangioma of liver,hepatic hemangiomas,1
+1932,Hematopoiesis,hematopoiesis,2
+1933,Hematopoietic Cell Lineage Pathway,hematopoietic lineages,1
+1934,Hematopoietic Neoplasms,haematopoietic malignancy,1
+1935,Hematopoietic stem cells,neural precursor cells,1
+1936,Hematopoietic stem cells,HSCs,11
+1937,Hematopoietic stem cells,heart precursor cells,1
+1938,Hematopoietic stem cells,haematopoietic stem cells,1
+1939,Hematopoietic stem cells,hematopoietic stem cells,1
+1940,Hematopoietic System,haematopoietic system,1
+1941,Heme,heme,2
+1942,heme biosynthetic process,heme biosynthesis,1
+1943,heme biosynthetic process,heme synthesis,1
+1944,Hemizygosity,Hemizygous deletion,1
+1945,Hemizygosity,hemizygous deletion,1
+1946,Hemizygosity,hemizygosity,1
+1947,Hemoglobin Subunit Beta,beta-globin,1
+1948,Hemorrhage,haemorrhage,1
+1949,Hemostatic function,hemostasis,2
+1950,Hep G2 Cells,HepG2,2
+1951,Hep G2 Cells,HepG2 cells,1
+1952,Heparan Sulfate Proteoglycans,cell surface heparan sulfate proteoglycan,1
+1953,Heparan Sulfate Proteoglycans,heparan sulfate proteoglycans,3
+1954,heparin,Heparin,1
+1955,heparin,heparin,6
+1956,Hepatic methionine adenosyltransferase deficiency,met,1
+1957,Hepatic methionine adenosyltransferase deficiency,Met,1
+1958,Hepatic methionine adenosyltransferase deficiency,MET,4
+1959,Hepatocyte,liver cells,1
+1960,Hepatocyte,live cells,1
+1961,Hepatocyte Growth Factor,Hepatocyte Growth Factor,1
+1962,Hepatocyte Growth Factor,HGF,6
+1963,Hepatocyte Growth Factor,Hepatocyte growth factor,1
+1964,Hepatocyte Growth Factor,hepatocyte growth factor,1
+1965,Hereditary,inherited,3
+1966,Hereditary Diseases,genetic disease,1
+1967,Hereditary Diseases,genetic condition,1
+1968,Hereditary Diseases,genetic disorder,1
+1969,Heterochromatin,heterochromatin,6
+1970,heterochromatin-specific nonhistone chromosomal protein HP-1,HP1,1
+1971,Heterodimerization,heterodimerization,1
+1972,Heterogeneity,heterogeneity,2
+1973,Heterogeneous-Nuclear Ribonucleoproteins,heterogeneous nuclear ribonucleoprotein,1
+1974,Heterotrimeric GTP-Binding Proteins,heterotrimeric,1
+1975,Heterozygote,heterozygous,7
+1976,Heterozygote,heterozygotes,3
+1977,Heterozygote,heterozygous cells,1
+1978,Heterozygote,Heterozygous,1
+1979,Heterozygote,heterozygous deletion,1
+1980,Heterozygote,heterozygote,1
+1981,HGFAC wt Allele,hGFAP,1
+1982,HIF1A gene,superfamily member,1
+1983,High,higher,4
+1984,High Mobility Group Proteins,High Mobility Group,1
+1985,Highest,highest,1
+1986,High-Throughput RNA Sequencing,high-throughput sequencing,1
+1987,hindbrain,hindbrain,4
+1988,Hinge (physical object),hinge,1
+1989,Hippocampus (Brain),hippocampal,5
+1990,Hippocampus (Brain),Mouse hippocampal,1
+1991,Hippocampus hippocampus,hippocampus,10
+1992,HIST1H1C gene,formerly,4
+1993,HIST1H4F gene,H4,4
+1994,Histidine,histidines,2
+1995,Histocompatibility,histocompatibility,2
+1996,Histologic,histological,1
+1997,Histological Techniques,Histological examination,1
+1998,Histology aspects,Histology,1
+1999,Histone antigen,histone,22
+2000,Histone antigen,Histone,1
+2001,Histone Code,histone code,1
+2002,Histone Code,histone codes,1
+2003,Histone Deacetylase,HDAC,3
+2004,Histone Deacetylase,histone deacetylase,1
+2005,Histone Deacetylase,histone deacetylases,1
+2006,histone deacetylase 3,Hdac3,1
+2007,Histone Deacetylase Complexes,deacetylase complex,1
+2008,Histone deacetylase inhibitor,histone deacetylase inhibitor,1
+2009,Histone H1,histone H1,1
+2010,Histone H3,histone H3,2
+2011,Histone H3 Lysine 27,H3K27,2
+2012,Histone H3 Lysine 4,H3K4,4
+2013,Histone H3 Lysine 9,H3K9,1
+2014,histone methyltransferase,histone methyltransferase,1
+2015,histone methyltransferase,HMT,1
+2016,"Histone-Arginine Methyltransferase CARM1, human",Coactivator-associated arginine methyltransferase 1,1
+2017,"Histone-Arginine Methyltransferase CARM1, human",CARM1,18
+2018,"Histone-Arginine Methyltransferase CARM1, human",coactivator-associated arginine methyltransferase-1,1
+2019,Histones,histones,2
+2020,Histopathologic Grade differentiation,differentiation,46
+2021,Histopathologic Grade differentiation,Differentiation,1
+2022,Histopathologic Grade differentiation,Treg differentiation,1
+2023,Histopathology,histopathological,1
+2024,Histopathology,histopathologic,1
+2025,HIVEP2 gene,MIBP1,4
+2026,hiv-infection/aids,HIV/AIDS,1
+2027,HMBS gene,hydroxymethylbilane synthase,1
+2028,HMG Domain,HMG box,1
+2029,Homeostasis,homeostasis,5
+2030,Homo sapiens,human,122
+2031,Homo sapiens,humans,9
+2032,Homo sapiens,Human,2
+2033,Homo sapiens,Humans,1
+2034,homoaconitate hydratase activity,Lys4,4
+2035,Homodimerization,homodimerization,1
+2036,Homogenate,renal homogenate,1
+2037,Homogeneity,homogeneity,1
+2038,Homologous Gene,homologous,8
+2039,Homologous Gene,homolog,4
+2040,Homologous Gene,homologue,2
+2041,Homologous Gene,mouse homologue,1
+2042,Homologous Gene,homologues,2
+2043,Homologous Gene,SCAR homologue,1
+2044,Homologous Recombination Pathway,homologous recombination,4
+2045,Homology (attribute),homology,18
+2046,Homology Modeling,Homology modeling,1
+2047,homopolymer,homopolymer,2
+2048,Homozygote,homozygous mutant,2
+2049,Homozygote,homozygous,12
+2050,Homozygote,homozygous lethal,1
+2051,Homozygote,Homozygotes,1
+2052,Homozygote,Homozygous,1
+2053,Homozygote,homozygote,1
+2054,Homozygote,Homozygous deletion,1
+2055,Homozygote,homozygous mice,1
+2056,Hope (emotion),hopes,1
+2057,hormonal regulation,hormonal regulation,1
+2058,Hormones,hormone,2
+2059,Host (organism),host,2
+2060,House mice,Mus musculus,1
+2061,HP gene,bp,1
+2062,HSP90 Heat-Shock Proteins,Hsp90,5
+2063,hSWI/SNF,SWI/SNF,2
+2064,human cell line,human cell line,1
+2065,Human cells,human cells,3
+2066,Human Herpesvirus 5,human cytomegalovirus,1
+2067,Hybrids,hybrid,1
+2068,Hydrocephalus,hydrocephalus,1
+2069,Hydrophilicity,hydrophilic,1
+2070,Hydrophobicity,hydrophobic,3
+2071,Hyperactive behavior,hyperactivity,2
+2072,Hyperglycemia,hyperglycemia,1
+2073,hypersensitivity desensitization,desensitization,3
+2074,Hypertensive disease,hypertension,2
+2075,Hypertrophy,hypertrophy,2
+2076,hyphal growth,hyphal growth,1
+2077,Hypofibrinogenemia,hypofibrinogenemic,1
+2078,Hypomethylation,hypomethylation,1
+2079,Hypothesis,hypothesis,2
+2080,Hypoxia,hypoxia,1
+2081,Ideal,ideal,1
+2082,Identical,identical,6
+2083,Identified,identified,24
+2084,Identified,identification,21
+2085,Identified,Identification,1
+2086,IFITM3 gene,IFITM3,1
+2087,IFNGR2 wt Allele,AF-1,2
+2088,IGA Glomerulonephritis,immunoglobulin A nephropathy,1
+2089,IgE B cell receptor complex,membrane-bound,1
+2090,IGF2 gene,IGF2,1
+2091,IGFN1 gene,Igfn1,2
+2092,IGFN1 gene,IGFN1,3
+2093,IGK gene,kappa immunoglobulin gene,1
+2094,IL23A wt Allele,P19,1
+2095,IL4I1 gene,Fig1,1
+2096,Illness (finding),mental illnesses,1
+2097,Imbrication (procedure),overlapped,1
+2098,imidazole-4-acetic acid,IMAC,3
+2099,Immature,immature,6
+2100,Immortalization,immortalized,4
+2101,Immune response,immune response,1
+2102,Immune System Finding,immune system,1
+2103,Immune Tolerance,immunological tolerance,1
+2104,"Immunity, Innate",innate immune response,2
+2105,Immunoblotting,Immunoblotting,1
+2106,Immunofluorescence assay,Immunofluorescence,1
+2107,Immunofluorescence assay,immunofluorescence,3
+2108,Immunofluorescence Microscopy,Immunofluorescence microscopy,1
+2109,Immunoglobulin C2-set Domain,C2-type immunoglobulin-like domains,1
+2110,"Immunoglobulin complex location, circulating",antibody,4
+2111,Immunoglobulin Domains,immunoglobulin-like loop domains,1
+2112,Immunoglobulin Domains,Immunoglobulin-like,1
+2113,Immunoglobulin E measurement,IgE,3
+2114,Immunoglobulin G Subclass 1 Measurement,IgG1,2
+2115,Immunoglobulin Isotypes,Immunoglobulin isotype analysis,1
+2116,Immunoglobulin-like Domain,immunoglobulin-like domains,2
+2117,Immunoglobulin-like Domain,Ig-like domains,1
+2118,Immunoglobulin-like Domain,immunoglobulin-like domain,1
+2119,Immunoglobulin-like Domain,Ig-like domain,3
+2120,Immunoglobulins,immunoglobulin,1
+2121,Immunoglobulins,immunoglobulin locus,1
+2122,Immunoglobulins,Dual immunoglobulin,1
+2123,Immunohistochemistry,Immunohistochemistry,3
+2124,Immunohistochemistry,immunohistochemistry,3
+2125,immunologic,immunological,1
+2126,Immunoprecipitation,immunoprecipitated,4
+2127,Immunoprecipitation,immunoprecipitation,3
+2128,Immunoprecipitation,immunoprecipitants,3
+2129,Immunoprecipitation,coimmunoprecipitation,2
+2130,Immunoprecipitation,immunoprecipitations,1
+2131,Immunoprecipitation,immunoprecipitation method,1
+2132,Immunoprecipitation,Coimmunoprecipitation,1
+2133,immunoreactivity,immunoreactivity,4
+2134,Impact food supplement,impact,1
+2135,Impacted tooth,impacted,1
+2136,Impaired,impaired,18
+2137,Impaired,Impaired,2
+2138,Impaired cognition,cognitive deficit,1
+2139,Impaired health,impairment,5
+2140,Impaired health,impairments,1
+2141,Impaired thrombin-induced platelet aggregation,thrombin-induced platelet aggregation,1
+2142,Implantation procedure,implantation,1
+2143,Import into cell,uptake,5
+2144,Imprinting (Psychology),imprinted,1
+2145,In situ,In situ,8
+2146,In situ,in situ,4
+2147,In Situ Hybridization,in situ hybridization,9
+2148,in vitro,in vitro,59
+2149,in vitro,In vitro,6
+2150,in vivo,in vivo,73
+2151,in vivo,In vivo,7
+2152,inactivation,Inactivation,1
+2153,inactivation,inactivation,5
+2154,Inactive Healthcare Coverage,inactive,1
+2155,Inappropriate Specimen,inappropriate,1
+2156,Incidence,incidence,2
+2157,Inclusion,inclusion,1
+2158,Incompetence,incompetence,1
+2159,incorporation,incorporation,1
+2160,Increase,increase,19
+2161,Increased,increased,71
+2162,Increased,increases,13
+2163,Increased,augmented,2
+2164,Increased,Increased,1
+2165,Increasing,increasing,3
+2166,Increment,incremental,1
+2167,Independently able,independent,1
+2168,Indication,indication,1
+2169,Indication of (contextual qualifier),reasons,1
+2170,Individual - insurance coverage level,individual,6
+2171,Individual - insurance coverage level,individuals,3
+2172,Induce (action),induce,8
+2173,Induce (action),induction,12
+2174,Induce (action),Induced,1
+2175,Induce (action),induced,32
+2176,Induce (action),Induction,1
+2177,Induce (action),inducible,1
+2178,Inducer,inducer,1
+2179,Industrial machine,machinery,1
+2180,Inefficient,inefficient,1
+2181,"Infant, Newborn",newborn mice,1
+2182,Infection,infection,5
+2183,Infertility,sterile,1
+2184,Infertility,infertility,4
+2185,Infertility,infertility genes,1
+2186,Infertility,infertile men,1
+2187,Inflammation,inflammation,4
+2188,Inflammatory cell,inflammatory cells,1
+2189,Influence,influences,4
+2190,Influence,influence,5
+2191,Influence,influenced,1
+2192,Information,information,8
+2193,inhibited,inhibited,19
+2194,Inhibition,inhibiting,3
+2195,Inhibition,inhibitory,1
+2196,inhibition of growth,growth inhibition,1
+2197,Inhibitor,inhibitor,10
+2198,inhibitors,inhibitors,4
+2199,Initiate (source type),initiate,1
+2200,Injection,injection,1
+2201,Injection Route of Drug Administration,injections,1
+2202,Inner cell mass,inner cell mass,3
+2203,Inner cell mass,ICM,4
+2204,Inner Plexiform Layer,inner plexiform layer,1
+2205,Inner Plexiform Layer,IPL,2
+2206,Insert (object),insertion,7
+2207,Insulation Device Component,insulation,1
+2208,Insulitis,insulitis,4
+2209,Intact,integrity,2
+2210,Intact,intact,7
+2211,Intact,gene integrity,1
+2212,Integral,integral,1
+2213,Integral Membrane Proteins,transmembrane proteins,3
+2214,Integral Membrane Proteins,integral membrane proteins,2
+2215,Integral Membrane Proteins,single transmembrane protein,1
+2216,Integration (data processing),integration,1
+2217,Integrin alphaVbeta3,alphavbeta3,4
+2218,Integrin alphaVbeta3,alphaVbeta3,1
+2219,Integrin alphaVbeta3,integrin alphaVbeta3 pathway,1
+2220,integrin alphaVbeta5,alphavbeta5,1
+2221,Integrin beta Chains,integrin beta subunits,1
+2222,Integrin beta3,beta3 integrins,4
+2223,Integrin beta3,beta3 integrin,1
+2224,Integrin beta3,integrin beta3,1
+2225,integrin ligand,integrin ligand,1
+2226,Integrins,integrin,15
+2227,Integrins,integrins,7
+2228,Integrins,Integrins,1
+2229,Integrins,integrin action,1
+2230,Intellectual Disability,intellectual disability,4
+2231,Intellectual Disability,ID,1
+2232,Intercellular Junctions,cell junction,1
+2233,Intercellular Junctions,cell-cell junctions,1
+2234,intercellular transport,intercellular transport,1
+2235,Interested,interested,1
+2236,Interested,interesting,1
+2237,Interferes with,interfering,1
+2238,Interferes with,RNAi,6
+2239,Interferon Gamma Receptor Complex,IFN-gamma receptor,1
+2240,Interferon Type II,IFN-gamma,15
+2241,Interferon Type II,Interferon-gamma,2
+2242,Interferon Type II,interferon-gamma,2
+2243,Interferon Type II,Interferon gamma,1
+2244,Interferon-alpha,interferon-alpha,1
+2245,Interleukin-17,interleukin-17,1
+2246,Interleukin-17A,interleukin-17A,1
+2247,Intermediate Mitosis-Karyorrhexis Index,intermediate,2
+2248,Internal,intrinsic,1
+2249,Internal,inner,1
+2250,Internal Ribosome Entry Sites,internal ribosome entry site,1
+2251,Internal Ribosome Entry Sites,IRES,1
+2252,internalization,internalization,4
+2253,Interneurons,interneurons,1
+2254,Interphase Cell,resting,1
+2255,Interprets,interpreting,2
+2256,Interventional procedure,intervention,3
+2257,Intervertebral disc structure,intervertebral discs,1
+2258,Intestine - Small Intestine (MMHCC),mouse small intestine,1
+2259,Intestines,intestinal,2
+2260,Intestines,intestine,1
+2261,"Intestines, Small",small intestine,1
+2262,intracellular protein transport,protein localizations,1
+2263,intracellular protein transport,subcellular targeting,1
+2264,intracellular protein transport,protein localization,1
+2265,intraciliary transport,intraflagellar transport,1
+2266,Intra-embryonic mesoderm,extraembryonic mesoderm,1
+2267,Intraocular pressure disorder,IOP,2
+2268,Intravenous Route of Drug Administration,intravenous,1
+2269,Introduces,introduces,1
+2270,Introns,introns,2
+2271,Introns,intron,2
+2272,Introns,intronic,1
+2273,Invasive Carcinoma,invasive carcinomas,1
+2274,Invasiveness,invasiveness,2
+2275,Inversion,inversion,1
+2276,Investigates,investigate,14
+2277,Investigates,investigated,8
+2278,Investigates,investigating,1
+2279,Investigational,experimentally,1
+2280,Involvement with,involvement,5
+2281,inward rectifier potassium channel,Classical inwardly rectifying K+ channels,1
+2282,Ion Channel,channels,3
+2283,Ion Channel,ion channels,2
+2284,IQGAP1 gene,IQGAP1,3
+2285,IRF6 wt Allele,LPS,1
+2286,Iron accumulation in brain,iron accumulation,1
+2287,iron metabolism,iron metabolism,2
+2288,"Iron stain method, blood or bone marrow",iron staining,1
+2289,iron-sulfur cluster binding,iron-sulfur clusters,1
+2290,iron-sulfur cluster binding,iron-sulfur cluster,3
+2291,Irregular,irregular,1
+2292,Islands,islands,1
+2293,Isoenzymes,beta isozyme,1
+2294,Isolate - microorganism,isolate,4
+2295,Isolate - microorganism,isolates,1
+2296,Isolated,isolated,35
+2297,Isolated limb perfusion,Hind limb perfusion,1
+2298,Isoproterenol,isoproterenol,1
+2299,ITGA8 gene,Itga8,1
+2300,ITGB3 gene,ITGB3 gene,1
+2301,"ITGB3 protein, human",Itgb3,1
+2302,ITGB7 gene,Itgb7,1
+2303,JUN gene,AP1,1
+2304,junctophilin,Junctophilin-2,1
+2305,junctophilin,JP2,3
+2306,JUND gene,AP-1,4
+2307,juxtamembrane,JM,1
+2308,juxtaparanode region of axon,juxtaparanodes,3
+2309,juxtaparanode region of axon,juxtaparanodal,1
+2310,KAT2B gene,p300/CBP-associated factor,1
+2311,KCNA2 gene,Kv1.2,3
+2312,KCNJ4 gene,Kir2.3,7
+2313,KDR gene,Vascular Endothelial Growth Factor receptor 2,1
+2314,KEAP1 gene,Keap1,29
+2315,KEAP1 gene,Keap1 react,1
+2316,KEAP1 gene,keap1,1
+2317,KELL NULL,KO,5
+2318,Ketamine,NMDA,2
+2319,KIAA0319 gene,neuronal migration,33
+2320,Kidney,kidney,9
+2321,Kidney,renal,1
+2322,Kidney Neoplasm,renal tumors,1
+2323,Killer-Cell Immunoglobulin-Like Receptor,inhibitory receptors,1
+2324,kinase activity,kinase activity,6
+2325,kinase inhibitor,MAP kinase inhibitor,1
+2326,kinase inhibitor,kinase inhibitors,1
+2327,Kind of quantity - Shape,shape,1
+2328,Kinesin,kinesin,1
+2329,Kinetics,kinetic,1
+2330,Kinetics (discipline),kinetics,4
+2331,Kinetochores,kinetochores,3
+2332,KITLG gene,SCF,1
+2333,KL wt Allele,Klotho,6
+2334,"KLB protein, human",betaKlotho,4
+2335,"KLB protein, human",BetaKlotho,1
+2336,KMT2A gene,MLL1,5
+2337,Knock-in,knock-in,1
+2338,Knock-in,KI,1
+2339,Knock-out,knockout,3
+2340,KNOWLEDGE (recall and interpretation ability),knowledge,1
+2341,KNTC1 gene,rod,1
+2342,Kringles,kringle domains,1
+2343,KY gene,KY,7
+2344,Labeled (qualifier),tagged,2
+2345,Labeling Activity,Labeling,1
+2346,Labels (device),labels,1
+2347,Laboratory,laboratories,1
+2348,Lacking,lacks,2
+2349,Lacking,lack,1
+2350,LacZ Genes,lacZ,4
+2351,LacZ Genes,lacZ gene,2
+2352,Landscapes,landscape,2
+2353,LAT2 gene,lab,1
+2354,late pregnancy,late pregnancy,1
+2355,Latent,latent,1
+2356,"LDLR protein, human",VLDLR,3
+2357,"LDLR protein, human",low-density lipoprotein receptor,1
+2358,Lead compound,lead compound,1
+2359,Learning,learning,10
+2360,Learning,Learning,1
+2361,Length,lengths,1
+2362,Length,length,3
+2363,Leptomeninges,leptomeninges,1
+2364,Lesion,lesions,1
+2365,Lethal,lethal,5
+2366,Leucine,leucine,3
+2367,Leucine-Rich Repeat,Leucine-rich repeat,1
+2368,Leucine-Rich Repeat,leucine-rich repeat,1
+2369,leukemia,leukaemia,2
+2370,"Leukemia, Myelocytic, Acute",acute myeloid leukaemia,1
+2371,"Leukemia, Myelocytic, Acute",AML,4
+2372,leukocyte homeostasis,immune homeostasis,1
+2373,Leukotriene D4 Measurement,leukotriene D4,2
+2374,Leukotriene D4 Measurement,LTD4,5
+2375,Levels (qualifier value),levels,52
+2376,Levels (qualifier value),level,19
+2377,Levels (qualifier value),Levels,1
+2378,LGALS4 gene,Gal4,1
+2379,Libraries,libraries,2
+2380,Libraries,library,2
+2381,life span,life span,1
+2382,Ligand Binding,ligand binding,5
+2383,Ligand Binding,binding ligand,1
+2384,Ligand Binding Domain,ligand binding domain,1
+2385,Ligand Binding Domain,LBD,3
+2386,Ligand Binding Domain,ligand binding domains,1
+2387,Ligand Binding Domain,ligand-binding domains,1
+2388,Ligand Binding Domain,ligand-binding domain,1
+2389,Ligands,ligand,11
+2390,Ligands,ligands,11
+2391,Limb Buds,limb bud,2
+2392,Limb structure,limb,2
+2393,Limited (extensiveness),limiting,1
+2394,LIN7C gene,VELI3,1
+2395,Linear,lines,1
+2396,Linked gene,gene linked,1
+2397,lipid kinase activity,lipid kinase activity,1
+2398,lipid mediator,lipid mediator,1
+2399,Lipid R1 MRI,mobile,2
+2400,Lipopolysaccharides,lipopolysaccharide,1
+2401,LIS1 Pathway,LIS1 pathway,2
+2402,Lissencephaly,lissencephaly,15
+2403,Lissencephaly,Lissencephaly,2
+2404,Lissencephaly,human lissencephaly,1
+2405,Lissencephaly 3,Lis3,1
+2406,LISSENCEPHALY 4,Lis4,1
+2407,Listeria monocytogenes,Listeria monocytogenes,1
+2408,Lithium,lithium,1
+2409,Liver carcinoma,hepatocellular carcinomas,1
+2410,Liver Flavor,liver,7
+2411,Liver parenchyma,liver tissues,1
+2412,Local,local,1
+2413,local level,local level,1
+2414,localization,localizations,1
+2415,localization within membrane,perimembrane localization,1
+2416,Localized,localized,27
+2417,Localized,colocalize,4
+2418,Localized,colocalized,4
+2419,Localized,localizing,1
+2420,Localized,localise,1
+2421,location participation type,location,4
+2422,Locus,locus,4
+2423,Locus Control Region,locus control region,1
+2424,Logical Condition,conditions,4
+2425,Long,long,5
+2426,Long,elongated,1
+2427,Long-term,long-term,11
+2428,Long-Term Depression Pathway,LTD,4
+2429,Long-Term Potentiation Pathway,LTP,8
+2430,Looping Medical Device Problem,looping,1
+2431,Loss,loss,23
+2432,Loss,Loss,4
+2433,Loss,loss of,1
+2434,Lost Medical Device,lost,1
+2435,Lower (action),lower,3
+2436,Lower case Roman letter b,B,1
+2437,LRFN1 gene,Lrfn1,4
+2438,LRFN2 gene,Lrfn2,3
+2439,LRFN3 gene,Lrfn3,2
+2440,LRFN4 gene,Lrfn4,3
+2441,LRFN5 gene,Lrfn5,2
+2442,LRIT3 gene,LRIT3,6
+2443,LRIT3 gene,Lrit3,1
+2444,LRP8 gene,ApoER2,3
+2445,LRP8 gene,Lrp8,1
+2446,LRP8 gene,apolipoprotein E receptor 2,1
+2447,L-Type Calcium Channels,L-type calcium channels,1
+2448,luciferin monooxygenase activity,luciferase activity,3
+2449,Lung,lung,6
+2450,LY 294002,LY294002,1
+2451,Lyase Gene,lyase gene,1
+2452,lymph node development,hematopoietic development,1
+2453,Lymphocyte Activation,lymphocyte activation,1
+2454,Lymphocytic (qualifier value),lymphocytic,1
+2455,"Lymphohistiocytosis, Hemophagocytic",HLH protein,1
+2456,Lysine,lysine,4
+2457,lysophosphatidic acid,lysophosphatidic acid,1
+2458,Lysosomes,lysosomes,1
+2459,Macromolecular alteration,conformational change,2
+2460,macrophage,macrophages,5
+2461,macrophage,mouse bone marrow-derived macrophages,1
+2462,macrophage,BMMs,3
+2463,macrophage,macrophage,1
+2464,Macrophage Activation,macrophage activation,1
+2465,Macrophage Colony-Stimulating Factor,macrophage colony-stimulating factor,1
+2466,Macrophage Colony-Stimulating Factor,M-CSF,2
+2467,"Macrophages, Peritoneal",peritoneal macrophages,1
+2468,Made redundant (finding),redundant,1
+2469,Madin Darby Canine Kidney Cells,MDCK,1
+2470,Madin Darby Canine Kidney Cells,MDCK cell lines,1
+2471,Madin Darby Canine Kidney Cells,MDCK cells,3
+2472,MAGEE1 gene,damage,1
+2473,Main,predominant,5
+2474,main terminal branch,Mycobacterium tuberculosis,1
+2475,Maintenance,maintenance,12
+2476,Maintenance,maintain,1
+2477,Male Phenotype,male,14
+2478,"Malformations of Cortical Development, Group II",neuronal migration disorders,2
+2479,"Malformations of Cortical Development, Group II",neuronal migration disorder,3
+2480,Malignant neoplasm of breast,breast cancer,3
+2481,Malignant Neoplasms,cancers,5
+2482,Malignant Neoplasms,cancer,9
+2483,Malignant Neoplasms,Cancer,1
+2484,Mammalian Cell,mammalian cells,14
+2485,Mammals,mammalian,38
+2486,Mammals,mammals,13
+2487,Mammals,mammalian genes,1
+2488,Mammals,Mammalian,3
+2489,Mammary Epithelium,mammary epithelia,1
+2490,Mammary Epithelium,mammary epithelium,4
+2491,Mammary Epithelium,mammary ductal epithelium,1
+2492,Mammary gland,mammary gland,4
+2493,Mammary gland,mammary glands,1
+2494,mammary gland development,mammary development,1
+2495,mammary gland development,mammary gland development,1
+2496,MAMSTR gene,MASTR,2
+2497,manchette,manchette,1
+2498,Manifest,manifest,1
+2499,Manifestation of,manifestations,1
+2500,Manipulation procedure,manipulation,1
+2501,MAP Kinase Cascade,MAP kinase cascade,1
+2502,"MAPK14 protein, human",p38 MAPK,1
+2503,MAPK8IP1 gene,Ib1,1
+2504,mapped,mapped,7
+2505,Mapping (action),mapping,4
+2506,Mapping (action),Mapping,1
+2507,Marginal Zone,marginal zone,1
+2508,Marginal Zone,MZ,1
+2509,Marines,marine,1
+2510,MARK2 gene,serine/threonine kinase,1
+2511,MARK2 gene,serine/threonine kinases,1
+2512,Markers (device),markers,7
+2513,Mass Spectrometry,mass spectrometry,5
+2514,Mass Spectrometry,Mass spectrometry,1
+2515,Massive,massive,1
+2516,Massive,marks,1
+2517,Massively-Parallel Sequencing,next-generation sequencing,1
+2518,Mass-to-Charge Ratio,MZ B,1
+2519,mast cell,mast cells,2
+2520,mast cell,mast cell,1
+2521,Mathematical Factor,factor,4
+2522,Mathematical Model,Mathematical modeling,1
+2523,Mathematical Operator,function,77
+2524,matrigel,Matrigel,1
+2525,Matrix Attachment Regions,scaffold attachment,2
+2526,Matrix Metalloproteinase 9,MMP-9,1
+2527,Mature,mature,21
+2528,MBD2 gene,MBD2,13
+2529,MBD2 gene,Mbd2,1
+2530,MBD3 gene,MBD3,9
+2531,MBD3 gene,methyl-CpG binding domain,2
+2532,MBD3 gene,MBD,1
+2533,MBD3 gene,Mbd3,2
+2534,MBD3 gene,MBD3 proteins,1
+2535,MBD4 gene,Mbd4 genes,1
+2536,"MBD4 protein, human",MBD4,7
+2537,"MBD4 protein, human",Mbd4,1
+2538,MCF-7 Cells,MCF-7 cells,1
+2539,"MCM4 protein, human",cdc21 homolog,1
+2540,MDF Attribute Type - Indicator,indicator,1
+2541,MDM2 gene,Mdm2,1
+2542,Measured Tumor Identification,measured,1
+2543,Measurement,measurement,2
+2544,Measurement,Measurement of,1
+2545,Measurement,measurements,1
+2546,Mechanism (attribute),mechanism,36
+2547,Mechanism (attribute),mechanisms,20
+2548,MECOM gene,Prdm3,4
+2549,MECP2 gene,methyl-CpG-binding proteins,1
+2550,MECP2 wt Allele,MeCP2,4
+2551,Mediate,mediates,1
+2552,Mediator brand of benfluorex hydrochloride,mediators,1
+2553,Mediator of activation protein,mediator,4
+2554,Mediator of activation protein,coactivator complex,1
+2555,Medical Device Misassembled by Users,misassembled,1
+2556,Medical Product Stability,stability,5
+2557,Medium,medium,1
+2558,MEF2 Transcription Factors,MEF2 protein,2
+2559,MEF2 Transcription Factors,MEF2 proteins,2
+2560,MEF2 Transcription Factors,Mef2C,6
+2561,MEF2 Transcription Factors,Myocyte enhancer factor 2,3
+2562,MEF2 Transcription Factors,MEF2 transcription factor,1
+2563,MEF2 Transcription Factors,myocyte enhancer factor 2,1
+2564,MEF2A gene,MEF2A,4
+2565,MEF2C gene,MEF2C gene,2
+2566,MEF2C gene,Mef2c,6
+2567,MEF2D gene,MEF2D RNA,1
+2568,MEFV gene,pyrin,1
+2569,Megakaryocytes,megakaryocyte,2
+2570,Megakaryocytes,megakaryocytic cells,1
+2571,Megakaryocytopoiesis,megakaryopoiesis,1
+2572,meiotic cell cycle,meiosis,4
+2573,Meiotic chromosome,meiotic chromosomes,2
+2574,Meiotic Prophase I,Prophase I,1
+2575,Meiotic Prophase I,meiotic prophase I,1
+2576,Meiotic Recombination,meiotic recombination,1
+2577,Melanosomes,melanosomes,1
+2578,member,members,26
+2579,member,member,17
+2580,member,Members,4
+2581,Membrane,membrane,5
+2582,membrane budding,vesicle formation,1
+2583,Membrane Proteins,membrane-associated proteins,1
+2584,Membrane Proteins,membrane proteins,2
+2585,Membrane Transport Proteins,transporters,2
+2586,membrane-associated guanylate kinase,membrane-associated guanylate kinases,1
+2587,membrane-associated guanylate kinase,MAGUKs,4
+2588,memory b cell,memory B cells,3
+2589,Memory Device Component,memory,12
+2590,Memory Device Component,Memory,1
+2591,Memory impairment,memory deficits,1
+2592,Memory performance,memory performance,1
+2593,Memory recall,memory recall,1
+2594,Mental association,association,29
+2595,Mental association,associations,2
+2596,Mental concentration,concentration,2
+2597,Mental concentration,concentrations,6
+2598,Mental Depression,depression,3
+2599,Mental disorders,psychiatric disorders,1
+2600,Mental Orientation,orientation,3
+2601,Mental Retardation,mental retardation,3
+2602,mercaptopurine,6-mercaptopurine,1
+2603,Mesenchyma,mesenchyme,1
+2604,Mesoderm,mesoderm,7
+2605,mesodermal,mesodermal,4
+2606,Mesodermal cell,mesodermal cell fates,1
+2607,Mesodermal cell,mesodermal cells,1
+2608,messenger ribonucleoprotein,messenger ribonucleoprotein,1
+2609,messenger ribonucleoprotein,mRNP,1
+2610,Mesylates,mesylate,1
+2611,"MET protein, human",hepatocyte growth factor receptor,1
+2612,MET wt Allele,c-met,1
+2613,MET wt Allele,c-Met,2
+2614,Metabolic,metabolic,1
+2615,Metabolic Inhibition,inhibition,30
+2616,Metabolic Inhibition,Inhibition,6
+2617,metabolic rates,metabolic rate,1
+2618,Metabolism,metabolic processes,1
+2619,Metalloproteases,metalloproteinase 22,1
+2620,Metazoa,Metazoans,1
+2621,Methionine,methionine,1
+2622,Methodology,METHODOLOGY,1
+2623,Methods,METHODS,1
+2624,Methyl Methanesulfonate,methyl methanesulfonate,1
+2625,methylate,methylated,5
+2626,methylate,methylate,1
+2627,Methylation,Methylation,1
+2628,Methylation,methylation,19
+2629,methyl-CpG binding,methyl-CpG,1
+2630,Methyltransferase,methyltransferases,1
+2631,Methyltransferase,methyltransferase,1
+2632,methyltransferase activity,methyltransferase activity,1
+2633,MG 132,MG132,1
+2634,Mi-2 Nucleosome Remodeling and Deacetylase Complex,NuRD complex,1
+2635,MICALL2 gene,junctional Rab13-binding protein,1
+2636,MICALL2 gene,JRAB,3
+2637,"Mice, Inbred NOD",nonobese diabetic,1
+2638,"Mice, Inbred NOD",NOD,1
+2639,"Mice, Knockout",knockout mouse,1
+2640,"Mice, Knockout",knockout mice,5
+2641,"Mice, Knockout",Dpep3-/-,1
+2642,"Mice, Transgenic",transgenic mice,5
+2643,"Mice, Transgenic",Transgenic mice,2
+2644,Microarray,microarray,1
+2645,Microarray Analysis,expression profile,1
+2646,Microarray Analysis,gene expression profiling,1
+2647,Microarray Analysis,microarray analysis,1
+2648,Microcephaly,microcephaly,1
+2649,Microcephaly,microencephaly,1
+2650,Micrococcal Nuclease,micrococcal nuclease,1
+2651,Microfibrils,microfibril proteins,1
+2652,Microfilaments,actin cytoskeleton,8
+2653,Microfilaments,actin filaments,1
+2654,Microglia,microglia,1
+2655,Microinjections,Microinjection,1
+2656,Microinjections,microinjection,4
+2657,"Microscopy, Confocal",confocal microscopy,2
+2658,"Microscopy, Immunoelectron",Immunoelectron microscopy,1
+2659,Microtubule cytoskeleton,microtubule cytoskeleton,1
+2660,Microtubule-Associated Proteins,microtubule-associated protein,1
+2661,Microtubule-Associated Proteins,microtubule-associated proteins,1
+2662,Microtubule-Associated Proteins 1A/1B Light Chain 3,LC3,1
+2663,Microtubule-Organizing Center,MTOC,1
+2664,Microtubule-Organizing Center,microtubule-organizing center,1
+2665,Microtubules,microtubules,14
+2666,Microtubules,microtubule,21
+2667,Microtubules,MT,5
+2668,Midbrain structure,mesencephalon,1
+2669,Midbrain structure,midbrain,2
+2670,Midline 1 RING Finger Protein,midline-1,1
+2671,migrated,migrate,5
+2672,migrated,migrating,3
+2673,"Migration, Cell",cell migration,6
+2674,Migratory (qualifier value),migratory,2
+2675,Miller Dieker syndrome,Miller-Dieker lissencephaly syndrome,1
+2676,Miller Dieker syndrome,MDS,8
+2677,Miller Dieker syndrome,Miller-Dieker syndrome,3
+2678,Minichromosome Maintenance 1 Protein,MCM,2
+2679,Minichromosome Maintenance Complex Component 5,CDC46 protein,1
+2680,Missense Mutation,Missense mutations,1
+2681,Missense Mutation,missense mutations,1
+2682,Missing Study Animal,missing,2
+2683,Mitochondria,mitochondrion,2
+2684,Mitochondria,mitochondria,19
+2685,Mitochondrial Biogenesis,basal mitochondrial biogenesis,1
+2686,Mitochondrial Degradation,mitophagy,3
+2687,mitochondrial depolarization,mitochondrial depolarization,2
+2688,Mitochondrial Diseases,mitochondrial disease,1
+2689,mitochondrial DNA metabolic process,mitochondrial metabolism,1
+2690,Mitochondrial Inheritance,mitochondrial,9
+2691,Mitochondrial Inheritance,mitochondrially,1
+2692,Mitochondrial Inheritance,mitochondrial iron,2
+2693,Mitochondrial Inheritance,mitochondrial mass,1
+2694,Mitochondrial matrix,mitochondrial matrix,2
+2695,"Mitochondrial Membrane, Outer",mitochondrial outer membrane,2
+2696,Mitochondrial Membranes,mitochondrial membranes,1
+2697,Mitochondrial Membranes,mitochondrial membrane,1
+2698,mitochondrial processing peptidase,mitochondrial processing peptidase,1
+2699,Mitochondrial Proteins,mitochondrial protein,2
+2700,Mitogen-activated protein,mitogen-activated protein,1
+2701,Mitogen-activated protein,MAP,7
+2702,mitogen-activated protein kinase p38,p38 mitogen-activated protein kinase signaling,1
+2703,mitogen-activated protein kinase p38,p38 mitogen-activated protein,1
+2704,Mitogen-Activated Protein Kinases,MAP kinase,3
+2705,Mitogen-Activated Protein Kinases,MAPK,1
+2706,mitogenic activity,mitogenic activity,2
+2707,Mitosis,mitosis,9
+2708,Mitosis,mitotic cycle,1
+2709,Mitotic,mitotic,1
+2710,Mitotic Cell Cycle,cell cycle,5
+2711,Mitotic chromosome,mitotic chromosomes,7
+2712,Mitotic Spindle Apparatus,mitotic spindle,1
+2713,Mixed phenotype acute leukemia,mixed lineage leukaemia,1
+2714,Mixed phenotype acute leukemia,MLL,3
+2715,Mixture,mixture,1
+2716,"MLL protein, human",ALL-1,2
+2717,"MLL protein, human",All-1,3
+2718,"MLL protein, human",ALL-1 gene,1
+2719,"MLL protein, human",All-1 proteins,1
+2720,MLL/MLLT3 Fusion Gene,MLL-AF9,1
+2721,mmHg,mmHg,1
+2722,MMP9 gene,matrix metalloproteinase 9,1
+2723,Model,models,2
+2724,Model Number,model,7
+2725,"Models, Genetic",genetic models,1
+2726,"Models, Molecular",molecular model,1
+2727,Moderation,moderate,1
+2728,Modified By,modifier,2
+2729,Modulated,modulates,8
+2730,Modulated,modulate,7
+2731,Modulated,modulation,7
+2732,Modulated,modulated,1
+2733,Modulated,modulating,4
+2734,Modulated,Modulation,1
+2735,Module,module,2
+2736,Molecular,molecular,2
+2737,MOLECULAR BASIS,molecular basis,6
+2738,Molecular Conformation,conformation,1
+2739,Molecular helix,helix 3,1
+2740,Molecular helix,helix,1
+2741,Molecular Mass,molecular masses,1
+2742,Molecular Mass,molecular mass,1
+2743,Molecular Target,molecular targets,1
+2744,Molecular Target,molecular target,1
+2745,Molecular Weight,molecular weight pool,2
+2746,Molecular Weight,molecular weight,1
+2747,Molecule,molecule,6
+2748,Molecule,molecules,15
+2749,Monkeys,monkey,1
+2750,Monobasic Proteolytic Cleavage Site,proteolytic cleavage site,1
+2751,Monoclonal Antibodies,mAb,1
+2752,monomer,monomer,1
+2753,monomer,monomers,1
+2754,Monomeric GTP-Binding Proteins,monomeric small G-proteins,1
+2755,Monomeric GTP-Binding Proteins,small GTPase,1
+2756,Monophasic,monophasic,1
+2757,Morphogenesis,morphogenesis,4
+2758,morphogenesis of a branching structure,branching morphogenesis,1
+2759,Morphologic Complete Response,morphologic,1
+2760,morphological,morphological,2
+2761,"Mortality, Premature",premature death,1
+2762,Mother (person),maternal,2
+2763,Mother (person),mother,2
+2764,Motility result,motility,2
+2765,motor movement,motor,2
+2766,Motor protein,motor protein,1
+2767,Mount used,mounted,1
+2768,Mouse Cornea,mouse cornea,1
+2769,Mouse Embryonic Stem Cells,mouse embryonic stem,1
+2770,Mouse Embryonic Stem Cells,mouse embryonic stem cells,2
+2771,Mouse Embryonic Stem Cells,mESCs,4
+2772,Mouse Heart,mouse heart,3
+2773,Mouse Liver,mouse liver,1
+2774,Mouse mammary tumor virus,mouse mammary tumor,1
+2775,Mouse Model,mouse model,4
+2776,Mouse Ovary,mouse ovary,1
+2777,Mouse Prostate Gland,mouse prostate,1
+2778,Mouse Protein,mouse proteins,1
+2779,Mouse Skin,mouse skin,1
+2780,Mouse Strains,mouse strain,1
+2781,Mouse Testis,mouse testis,3
+2782,Movement,movement,3
+2783,MPP4 gene,MPP4,1
+2784,mRNA synthesis,mRNA synthesis,1
+2785,MTA1 gene,MTA1,2
+2786,MTOR gene,mTOR,8
+2787,MTX1 gene,metaxin 1,7
+2788,MTX1 gene,Metaxin 1,1
+2789,MTX2 gene,metaxin 2,11
+2790,MTX2 gene,Metaxin 2,2
+2791,MUC20 gene,MUC20,6
+2792,Multigene Family,multigene family,1
+2793,Multiple Sclerosis,multiple sclerosis,1
+2794,Multiprotein Complexes,multiprotein complexes,1
+2795,Muridae,murine genes,1
+2796,Murine,murine,39
+2797,Murine,Murine,2
+2798,Mus,mouse,86
+2799,Mus,Mouse,2
+2800,Muscle,muscle,8
+2801,Muscle,muscle tissue,1
+2802,muscle cell differentiation,muscle differentiation,4
+2803,Muscle Cells,muscle cells,3
+2804,Muscle Cells,muscle cell,1
+2805,Muscle Cells,myocytes,5
+2806,Muscle Development,muscle development,2
+2807,Muscle Fibers,muscle fibers,2
+2808,Muscle Fibers,muscle fiber,1
+2809,Muscle Fibers,muscle fibres,1
+2810,Muscle function,muscle function,1
+2811,"Muscle, Smooth, Vascular",vascular smooth muscle,2
+2812,"Muscle, Striated",striated muscle,2
+2813,"Muscular Dystrophies, Limb-Girdle",limb-girdle muscular dystrophies,1
+2814,Muscular Dystrophy,muscular dystrophies,1
+2815,Muscular Dystrophy,muscular dystrophy,1
+2816,"MUSK protein, human",muscle-specific,4
+2817,Mutagenesis Process,Mutagenesis,1
+2818,mutant,mutants,17
+2819,mutant,mutant,35
+2820,mutant,Mutant,3
+2821,Mutant Proteins,mutant protein,2
+2822,Mutant Proteins,mutant proteins,2
+2823,Mutation,mutations,30
+2824,Mutation,Mutations,17
+2825,Mutation,genetic alterations,1
+2826,Mutation Abnormality,mutation,23
+2827,Mutation Abnormality,Mutation,4
+2828,Mutation Abnormality,mutated,6
+2829,mutation analysis,Mutational analysis,1
+2830,MYC Family Protein,protein Myc,1
+2831,Mycobacterium avium infection,Mycobacterium avium infection,2
+2832,Mycobacterium Infections,mycobacterial infection,1
+2833,MYEF2 gene,MEF-2,5
+2834,Myelin Sheath,myelinated,1
+2835,MYL4 gene,GT1,5
+2836,Myoblasts,myoblast,1
+2837,Myoblasts,myoblasts,6
+2838,Myoblasts,muscle precursor cells,1
+2839,Myocardial degeneration,myocardial regeneration,2
+2840,Myocardial Infarction,myocardial infarction,1
+2841,Myocardium,cardiac muscle genes,1
+2842,Myocardium,myocardium,2
+2843,MYOCD gene,Myocardin,1
+2844,MYOCD gene,myocardin,3
+2845,myocyte enhancer factor 2C,MEF2C transcription factor,1
+2846,"Myocytes, Cardiac",cardiomyocytes,15
+2847,"Myocytes, Cardiac",heart muscle cells,1
+2848,"Myocytes, Cardiac",cardiomyocyte,6
+2849,"Myocytes, Cardiac",Cardiomyocytes,1
+2850,"Myocytes, Cardiac",cardiac myocytes,2
+2851,"Myocytes, Cardiac",Cardiomyocyte,1
+2852,"Myocytes, Smooth Muscle",smooth muscle cells,4
+2853,"Myocytes, Smooth Muscle",SMCs,1
+2854,MYOD1 gene,MyoD,7
+2855,MYOD1 gene,myogenic differentiation,1
+2856,Myofilaments,myofilaments,1
+2857,Myogenesis,myogenesis,3
+2858,Myogenin,myogenic,1
+2859,Myogenin,myogenin,1
+2860,Myopathy,skeletal muscle disease,1
+2861,myosin-binding protein C,myosin-binding protein,1
+2862,"N,N-dimethylarginine",asymmetric dimethyl arginine,1
+2863,Na(+)/H(+) Exchange Regulatory Cofactor NHE-RF3,PDZ domain-containing protein family,1
+2864,Name Given at Birth,birth,3
+2865,National reporting jurisdiction:Loc:Pt:^Event:Nom,event,2
+2866,Native (qualifier value),native,3
+2867,Natural Killer Cells,natural killer cells,1
+2868,NCF1 gene,Ncf1,3
+2869,NCI Thesaurus Property,property,1
+2870,NCKAP1 gene,Nck-associated protein 1,1
+2871,NCKAP1 gene,Nap1,4
+2872,NCOA1 gene,steroid receptor coactivator 1,1
+2873,NCOA1 gene,SRC-1,6
+2874,NCOA1 gene,steroid receptor coactivator,2
+2875,NCOA1 gene,SRC,3
+2876,NCOA1 gene,nuclear receptor coactivator level,1
+2877,"NCOA1 protein, human",NCoA-1,2
+2878,NCOA2 gene,glucocorticoid receptor-interacting protein 1,2
+2879,NCOA2 gene,GRIP1,41
+2880,NCSTN gene,nicastrin,5
+2881,NDE1 gene,NUDE,2
+2882,NDE1 gene,Nde1,2
+2883,NDE1 gene,NDE1,2
+2884,NDEL1 gene,mNudE-L,4
+2885,NDEL1 gene,NudEL,1
+2886,NDEL1 gene,NudE-like protein,1
+2887,NDEL1 gene,Ndel1,10
+2888,NDEL1 gene,NDEL1,13
+2889,NDEL1 gene,Nudel,7
+2890,NDFIP1 gene,Ndfip1,2
+2891,Neck,neck,1
+2892,Negative,negative,10
+2893,Negative Charge,negative charge,1
+2894,negative regulation of excitatory postsynaptic potential,excitatory postsynaptic membrane,1
+2895,Negative Regulation of G2 to M Transition,G2/M,2
+2896,NEIL2 gene,Neh2,1
+2897,Neocortex,neocortex,3
+2898,Neonatal (qualifier value),neonatal,4
+2899,Neonatal (qualifier value),newborn,1
+2900,Neoplasms,tumors,1
+2901,Neoplastic Cell Transformation,tumorigenesis,4
+2902,Neoplastic Cell Transformation,oncogenesis,1
+2903,Nerve Degeneration,neurodegeneration,3
+2904,Nerve Growth Factor,nerve growth factor,1
+2905,Nerve Growth Factor,NGF,2
+2906,nerve supply,innervation,1
+2907,Nerve Tissue,neural tissues,2
+2908,nervous system disorder,neurological disorders,2
+2909,Nervous system structure,nervous systems,1
+2910,nestin protein,nestin,1
+2911,Network,protein networks,1
+2912,Network,networks,7
+2913,neural,neural,2
+2914,Neural Crest,neural crest,2
+2915,neural crest cell migration,cranial neural crest cell migration,1
+2916,neural crest cell migration,neural crest cell migration,1
+2917,Neural Crest Cells,neural crest cells,3
+2918,Neural Network Simulation,neural-network models,1
+2919,Neural Plate,neural plate,1
+2920,Neural Stem Cells,neural stem cells,2
+2921,Neural Stem Cells,NSCs,3
+2922,Neural tube,neural tube,2
+2923,neural tube closure,neural tube unclosure,1
+2924,Neural Tube Defects,neural tube defects,1
+2925,Neuregulin Receptor,neuregulin receptor,1
+2926,Neuregulins,neuregulins,4
+2927,Neuregulins,NRG,2
+2928,Neurites,neurites,5
+2929,Neuroblast,neuroblasts,2
+2930,neurocognitive,neurocognitive,1
+2931,NEUROD2 gene,neuroD2,3
+2932,Neurodegenerative Disorders,neurodegenerative disorder,1
+2933,Neurodegenerative Disorders,neurodegenerative diseases,3
+2934,neurodevelopment,neurodevelopment,1
+2935,Neuroepithelial,mouse neuroepithelial,1
+2936,Neuroepithelium,neuroepithelium,3
+2937,Neurofibrillary degeneration (morphologic abnormality),neurofibrillary tangles,1
+2938,Neurogenesis,neurogenesis,6
+2939,Neurogenesis,neural development,2
+2940,Neurogenesis,neuronal growth cones,1
+2941,Neuroglia,glial cells,7
+2942,Neuroglia,mouse neuroglial cells,1
+2943,Neuroglia,non-neuronal cells,1
+2944,Neuroglia,glia,1
+2945,Neuroglia,glial,1
+2946,Neurologic (qualifier value),neurologic,1
+2947,Neurologic Deficits,motor deficits,1
+2948,Neurological observations,nervous system,6
+2949,neuron component,neuronal components,1
+2950,neuron development,neuronal development,7
+2951,neuron differentiation,neural differentiation,2
+2952,neuron migration,neuronal cell migration,1
+2953,neuron migration,mild neuronal migration,1
+2954,neuron structure,neuronal structures,1
+2955,neuronal,neuronal,5
+2956,Neuronal Differentiation,neuronal differentiation,3
+2957,Neuronal Outgrowth,neurite outgrowth,1
+2958,Neuronal Outgrowth,neuritic outgrowth,1
+2959,Neuronal Plasticity,neuronal plasticity,1
+2960,Neuronal Plasticity,synaptic plasticity,3
+2961,neuronal signal transduction,neuronal motility signal transduction,1
+2962,Neurons,Neuron 7,1
+2963,Neurons,neurons,49
+2964,Neurons,neuron,1
+2965,Neurons,neural cells,2
+2966,Neuropathology,neuropathologies,1
+2967,Neuropeptides,neuropeptide,1
+2968,Neuroprotection,neuroprotection,1
+2969,Neuroprotective Effect,neuroprotective effects,2
+2970,Neurosecretory Systems,neuroendocrine,1
+2971,Neurotransmitter Receptor,neurotransmitter receptors,2
+2972,neurotransmitter release,Neurotransmitter release,1
+2973,Neurulation,neural tube formation,1
+2974,neutrophil,neutrophils,3
+2975,Never (frequency),never,1
+2976,New,novel,9
+2977,NFE2L2 gene,NF-E2-related-factor 2,1
+2978,NFE2L2 wt Allele,Nrf2,23
+2979,NFE2L2 wt Allele,nrf2,1
+2980,NFE2L2 wt Allele,Nrf2 protein,1
+2981,NFI Transcription Factors,nuclear factor,2
+2982,NF-kappa B,NF-kappa,1
+2983,NFS1 gene,Nfs1,1
+2984,"Night blindness, congenital stationary",congenital stationary night blindness,1
+2985,Night time,night,1
+2986,Ninein,ninein,1
+2987,Nisoldipine,nisoldipine,2
+2988,Nitric Oxide Synthase,nitric oxide synthase-2,1
+2989,nitric-oxide synthase inhibitor activity,inhibitory activity,2
+2990,N-Methylaspartate,N-methyl-D-aspartate,1
+2991,N-Methyl-D-Aspartate Receptors,NMDA receptor,2
+2992,N-Methyl-D-Aspartate Receptors,N-methyl-D-aspartate receptor,1
+2993,N-Methyl-D-Aspartate Receptors,NMDAR,3
+2994,N-Methyl-D-Aspartate Receptors,NMDARs,1
+2995,No effect,no effect,1
+2996,No incoordination,coordinated,1
+2997,No reaction,reactions,1
+2998,No structural defects,structural defects,1
+2999,Nocodazole,nocodazole,1
+3000,Non-Clinical Postnatal Trial Phase,postnatal,6
+3001,Nongranular leukocyte,mononucleated,1
+3002,"Normal, Unit of Concentration",normal,10
+3003,North,Northern,1
+3004,Northern Blot,Northern blots,1
+3005,Northern Blotting,Northern blot analysis,7
+3006,Northern Blotting,Northern blot,3
+3007,Northern Blotting,RNA blot analysis,1
+3008,Northern Blotting,Northern blotting,1
+3009,"NOS3 protein, human",constitutive,3
+3010,"NOTCH1 protein, human",Notch1,1
+3011,Nothing,nothing,1
+3012,"NR3C2 protein, human",mineralocorticoid receptor,1
+3013,NR4A2 gene,Nurr1,1
+3014,NR4A3 gene,Minor,1
+3015,"NRBP protein, human",nuclear receptor-binding,1
+3016,NRG1 gene,neuregulin gene,1
+3017,"NRG1 protein, human",Neuregulin-1,1
+3018,"NRG1 protein, human",Nrg1,2
+3019,NTHL1 wt Allele,Nth1,1
+3020,NUAK1 wt Allele,Omphk1,3
+3021,nuclear,nuclear,4
+3022,Nuclear accumulation,nuclear accumulation,1
+3023,Nuclear Export Signals,nuclear export signal motif,1
+3024,Nuclear Export Signals,nuclear export signal,1
+3025,nuclear hormone receptor activity,nuclear hormone receptor,1
+3026,Nuclear Hormone Receptors,nuclear hormone receptors,1
+3027,Nuclear Lamina,nuclear lamina,1
+3028,Nuclear LIM Interactor-Interacting Factor 2,CTD,2
+3029,Nuclear Localization Signals,nuclear localization signal,1
+3030,Nuclear Magnetic Resonance,NMR,1
+3031,nuclear migration,nuclear movements,1
+3032,nuclear migration,nuclear migration,1
+3033,nuclear periphery,nuclear periphery,1
+3034,nuclear pore distribution,nuclear distribution gene,1
+3035,nuclear pore distribution,nuclear distribution,1
+3036,nuclear pore localization,nuclear localization,6
+3037,nuclear pore localization,Nuclear localization,1
+3038,Nuclear Proteins,nuclear proteins,3
+3039,Nuclear Proteins,nuclear pore proteins,1
+3040,Nuclear Receptor Coactivators,p160 nuclear receptor coactivators,1
+3041,"Nuclear Receptor Subfamily 1, Group F, Member 1",orphan nuclear receptor RORalpha,1
+3042,"nuclear receptor subfamily 1, group H, member 3",receptor-alpha,1
+3043,"Nuclear Receptor Subfamily 4, Group A, Member 1",Nur77,1
+3044,Nuclear Translocation,nuclear translocation,1
+3045,nucleic acid biosynthesis,nucleic acid biosynthesis,1
+3046,nucleocytoplasmic transport,nucleocytoplasmic transport,1
+3047,Nucleosomes,nucleosomes,1
+3048,Nucleotides,nucleotides,2
+3049,Nucleotides,nucleotide,2
+3050,Null Allele,null allele,5
+3051,Null Value,,1
+3052,Numb (emotional response),Numb,1
+3053,Numbers,numbers,2
+3054,"Numerical Analysis, Computer-Assisted",computer-assisted analysis,1
+3055,Numerous,multiple,3
+3056,Numerous,Multiple lines,1
+3057,Nutrients,nutrient,2
+3058,Nutrients,Nutrient,1
+3059,NYAP1 gene,NYAP1,1
+3060,NYAP2 gene,NYAP2,1
+3061,O(6)-Methylguanine-DNA Methyltransferase,EC 2.1.1.63,1
+3062,Obesity Adverse Event,obesity,5
+3063,Obesity Adverse Event,Obesity,1
+3064,Object Attribute,attributes,1
+3065,objective (goal),goal,1
+3066,Observation - diagnostic procedure,observation,3
+3067,Observation in research,observations,10
+3068,Observation parameter,parameters,3
+3069,Observed,observed,3
+3070,Obstetric Delivery,parturition,4
+3071,Obstructed,obstructed,1
+3072,Obstruction,blocked,6
+3073,Off,OFF,1
+3074,Olfactory Neuroblastoma,olfactory neuroepithelium,1
+3075,Olfactory Pathways,olfactory pathway,1
+3076,Oligodendroglia,primary oligodendrocytes,2
+3077,Oligodeoxyribonucleotides,Degenerate oligodeoxyribonucleotide,1
+3078,Oligodeoxyribonucleotides,oligo,1
+3079,Oligonucleotide Primers,primer,1
+3080,Oligonucleotide Synthesis,synthetic oligonucleotide,1
+3081,Oligonucleotides,oligonucleotides,1
+3082,Oncogene ETS,Ets,1
+3083,Oncogene MAX,Max,1
+3084,Oncogenes,oncogenes,2
+3085,Oocytes,oocytes,2
+3086,Open,opens,1
+3087,Open,open,1
+3088,Open Reading Frames,coding sequence,4
+3089,Open Reading Frames,open reading frame,2
+3090,Open Reading Frames,coding region,1
+3091,Open Reading Frames,ORF,3
+3092,Open Reading Frames,coding sequences,1
+3093,Open Reading Frames,protein-coding sequences,1
+3094,Open Reading Frames,CDSs,2
+3095,Operator gene,gene promoters,1
+3096,"Opitz GBBB Syndrome, X-Linked",Opitz syndrome,1
+3097,Opposite,opposite,2
+3098,Optimization,optimization,1
+3099,Options,option,1
+3100,orders - HL7PublishingDomain,orders,1
+3101,Organ,organs,5
+3102,Organ,organ,1
+3103,Organelles,organelles,2
+3104,Organism,organisms,2
+3105,Organism,organism,1
+3106,Organized,disorganization,1
+3107,Organized,organize,2
+3108,Organized,disorganized,3
+3109,Organogenesis,organogenesis,2
+3110,Orofaciodigital syndrome 9,Oral-facial-digital type 1,1
+3111,Orofaciodigital syndrome 9,OFD1,3
+3112,Orphan Nuclear Receptor ROR-gammaT,RORgammat,7
+3113,Orthologous Gene,ortholog,1
+3114,Oscillator Device Component,oscillator,3
+3115,osteoblast differentiation,osteoblastic differentiation,1
+3116,Osteoblasts,osteoblasts,1
+3117,Osteoblasts,mouse osteoblasts,1
+3118,osteoclast differentiation,osteoclast differentiation,3
+3119,Osteoclastogenesis,osteoclastogenesis,3
+3120,Osteoclasts,osteoclasts,5
+3121,Osteoclasts,mouse osteoclasts,2
+3122,Osteofibrous Dysplasia,Osteofibrous dysplasia,1
+3123,Osteofibrous Dysplasia,OFD,3
+3124,Osteogenesis,osteogenesis,2
+3125,Osteoplasty,bone repair,1
+3126,Other Toxicity Studies: Dependence,dependence,2
+3127,outer membrane,outer membrane,2
+3128,Outlines (document),outlines,1
+3129,Outpatient Physical Therapy Improvement in Movement and Assessment Log (OPTIMAL) Survey,optimal,1
+3130,Overlap,overlap,1
+3131,Oxidants,oxidants,1
+3132,Oxidative,oxidative,2
+3133,Oxidative Stress,oxidative stress,2
+3134,Packing (action),Packaging of,1
+3135,Packing Dosage Form,Packing,1
+3136,PAF1 gene,PAF1,2
+3137,PAF1 gene,Paf1,1
+3138,PAFAH1B1 gene,LIS1 genes,1
+3139,PAFAH1B1 gene,LIS-1,2
+3140,PAFAH1B1 gene,murine lissencephaly-1,1
+3141,PAFAH1B1 gene,Lis1 gene,5
+3142,PAFAH1B1 gene,LIS1 gene,4
+3143,PAFAH1B1 gene,PAFAH1B1,2
+3144,PAFAH1B1 gene,Pafah1b1,1
+3145,PAFAH1B1 gene,pafah1b1,1
+3146,PAFAH1B1 gene,Pafah1b1 gene,1
+3147,PAFAH1B1 wt Allele,mLis1,4
+3148,PAFAH1B2 gene,Pafah1b2,1
+3149,PAFAH1B3 gene,Pafah1b3,1
+3150,PAFAH2 gene,PAF-AH,4
+3151,Page (document),PAGE,1
+3152,Paint,paints,1
+3153,PAK2 gene,Pak2,6
+3154,PAK2 kinase,gamma-PAK,3
+3155,Pakistan,PAK,5
+3156,Palmitoylation,palmitoylation,1
+3157,Paracrine Communication,paracrine signalling system,1
+3158,Paralogous Gene,paralog,1
+3159,paranodal junction,paranodal junction,1
+3160,Paraxial Mesoderm,paraxial mesoderm,1
+3161,PARK2 gene,Parkin,8
+3162,PARK2 gene,PARKIN,2
+3163,Parkinson Disease,Parkinson disease brains,1
+3164,Partial,partial,2
+3165,Participant,participant,2
+3166,participation,participation,1
+3167,participation,participate,2
+3168,Participation Type - origin,origin,2
+3169,Particle,particles,1
+3170,Partner in relationship,partners,4
+3171,"PASD1 protein, human",domain-containing proteins,2
+3172,"PASD1 protein, human",domain-containing,1
+3173,"PASD1 protein, human",hand domain-containing protein,1
+3174,Pathogenesis,pathogenesis,3
+3175,Pathogenic,pathogenic,1
+3176,Pathogenic organism,pathogens,1
+3177,Pathologic,pathological,5
+3178,Pathologic,pathologic,1
+3179,Pathologic Complete Response,PCR,6
+3180,Pathologic Neovascularization,vascularization,2
+3181,Pathologic Neovascularization,pathologic angiogenesis,1
+3182,Pathological aspects,pathology,2
+3183,Patient Care Bundles,bundles,1
+3184,Patients,patients,18
+3185,Patients,patient,5
+3186,Patients,Patients,1
+3187,PATJ gene,CIPP,2
+3188,Patterns,patterns,6
+3189,Patterns,pattern,15
+3190,PAWR gene,Par-4,2
+3191,PCDHB11 gene,ME2,3
+3192,PCNT gene,pericentrin,4
+3193,PD 98059,PD-98059,1
+3194,PD 98059,PD98059,1
+3195,"PDK1 protein, human",PDK1,1
+3196,PDLIM5 gene,LIM,1
+3197,PDZ Domains,PDZ domain,1
+3198,Peak level,peak,2
+3199,peptidase activity,protease activity,1
+3200,Peptide Elongation Factor 1,EF,2
+3201,Peptide Hydrolases,peptidases,1
+3202,Peptide Initiation Factors,initiator factors,1
+3203,Peptide Initiation Factors,translation initiation factor,1
+3204,Peptides,peptides,1
+3205,PER2 gene,PER2,1
+3206,PER3 gene,PER3,1
+3207,Pericentriolar Material 1 Protein,PCM-1,2
+3208,perinuclear endoplasmic reticulum,perinuclear,1
+3209,Period (temporal qualifier),period,5
+3210,periodate-oxidized adenosine,adenosine dialdehyde,1
+3211,Periodicity,rhythmic,3
+3212,Periodicity,rhythmicity,2
+3213,Periodicity,periodicity,1
+3214,Periosteal Route of Administration,periosteal,1
+3215,Periosteum,periosteum,2
+3216,Peripheral,peripheral,1
+3217,peripheral membrane protein 43K,rapsyn,1
+3218,Persistent,persistent,1
+3219,Persons,persons,1
+3220,Pervasive Development Disorder,autistic spectrum disorders,1
+3221,Pharmacokinetics: Distribution,distribution,13
+3222,Pharmacokinetics: Metabolism,metabolism,4
+3223,pharmacological,pharmacological,6
+3224,Pharmacology,pharmacologically,1
+3225,pharyngeal development,pharyngeal development,1
+3226,Pharyngeal pouch,pharyngeal pouches,1
+3227,Pharyngeal Stripping Wave Absent,absent,3
+3228,Pharyngeal structure,pharyngeal,2
+3229,Phase,stage,2
+3230,Phase,phase,2
+3231,Phase 2,phase 2,1
+3232,Phase 3 Clinical Trials,3,1
+3233,Phenotype,phenotypes,13
+3234,Phenotypic abnormality,phenotypic abnormalities,1
+3235,Phenylephrine,Phenylephrine,1
+3236,PHF10 gene,BAF45a,1
+3237,Phorbol,phorbol,1
+3238,Phorbol Esters,phorbol ester,1
+3239,Phosphatidate Phosphatase,phosphatidic acid phosphohydrolase,1
+3240,Phosphatidate Phosphatase,PAP,1
+3241,phosphatidylinositol 3-kinase binding,phosphoinositide 3-kinase,1
+3242,Phosphatidylinositol 3-Kinases,PI 3-kinase,1
+3243,"Phosphatidylinositol-3,4,5-Trisphosphate 5-Phosphatase 1",SH2-domain-containing inositol 5\'phosphatase,1
+3244,"Phosphatidylinositol-3,4,5-Trisphosphate 5-Phosphatase 1",SHIP-1,4
+3245,phosphatidylinositol-3-phosphate binding,cellular phosphatidylinositol 3-phosphate,1
+3246,Phosphatidylinositols,phosphatidylinositol 3,2
+3247,Phosphatidylinositols,phosphatidylinositol,1
+3248,Phosphatidylinositols,polyphosphatidylinositol,1
+3249,Phosphatidylinositols,phosphoinositide,1
+3250,Phospholipase,phospholipase,1
+3251,Phospholipase C,phospholipase C,1
+3252,Phospholipase C,PLC,1
+3253,Phospholipase C gamma,phospholipase C-gamma,1
+3254,Phospholipase C gamma,PLC-gamma,3
+3255,Phospholipids,phospholipids,1
+3256,Phosphopeptides,phosphopeptides,8
+3257,Phosphopeptides,phosphopeptide,2
+3258,Phosphoproteins,phosphoproteins,2
+3259,Phosphoproteins,phosphoprotein,1
+3260,phosphoric monoester hydrolase activity,phosphatase activity,1
+3261,Phosphoric Monoester Hydrolases,phosphatase,3
+3262,Phosphorylation,phosphorylation,104
+3263,Phosphorylation,phosphorylated,22
+3264,Phosphorylation,Phosphorylation,4
+3265,Phosphorylation,phosphorylation state,2
+3266,Phosphorylation,phosphorylates,5
+3267,Phosphorylation,phosphorylations,1
+3268,Phosphorylation,Phosphorylated,1
+3269,Phosphorylation,phosphorylate,1
+3270,Phosphorylation Site,phosphorylation site,1
+3271,Phosphoserine,phosphoserine,1
+3272,Phosphotransferases,kinases,4
+3273,Phosphotransferases,kinase,6
+3274,Phosphotyrosine,phosphotyrosine,4
+3275,phosphotyrosine binding,phosphotyrosine-binding,1
+3276,phosphotyrosine binding,PTB,6
+3277,Phosphotyrosine Binding Domain,PTB domain,1
+3278,Phosphotyrosine Binding Domain,phosphotyrosine binding domain,1
+3279,photoreceptor disc membrane,photoreceptor membranes,1
+3280,Photoreceptors,photoreceptors,2
+3281,Physical,physical,1
+3282,Physical Examination,examination,1
+3283,Physical Examination,Examination,1
+3284,Physical shape,morphology,5
+3285,Physiologic Coordination,coordination,2
+3286,Physiologic hypertrophy,physiological hypertrophy,1
+3287,Physiologic hypertrophy,physiologic hypertrophy,1
+3288,Physiologic Organization,organization,11
+3289,Physiological,physiologically,1
+3290,Physiological,physiological,11
+3291,physiological aspects,brain physiology,3
+3292,physiological aspects,physiology,2
+3293,Physiological Processes,physiological processes,3
+3294,Pick Disease of the Brain,frontotemporal dementia,1
+3295,Pick Disease of the Brain,FTD,2
+3296,Picture,picture,1
+3297,PIK3C3 wt Allele,Vps34,1
+3298,"PIM1 protein, human",PIM1,1
+3299,PINK1 gene,PINK1,1
+3300,Pituitary Gland,pituitary gland,4
+3301,Pituitary Gland,Pituitary gland,1
+3302,Pituitary hormone preparation,pituitary,2
+3303,PKN2 gene,PAK-2,5
+3304,PLA2G1B gene,PlA2,1
+3305,"PLA2G7 protein, human",acetylhydrolase,4
+3306,"PLA2G7 protein, human",brain platelet-activating factor acetylhydrolase 1b,1
+3307,Placement action,placement,1
+3308,Placenta,placental,2
+3309,Placenta,placentas,1
+3310,Plasma,plasma,1
+3311,Plasma Cells,plasma cell,1
+3312,Plasma membrane,plasma membrane,10
+3313,Plasma membrane,plasmalemmal,1
+3314,Plasmids,plasmid,3
+3315,Plasticity,plasticity,7
+3316,Platelet Activating Factor,brain platelet-activating factor,1
+3317,Platelet Activating Factor,PAF,18
+3318,Platelet Activating Factor,bovine platelet-activating factor,1
+3319,Platelet Activating Factor,Platelet-activating factor,1
+3320,Platelet Activating Factor,1-O-alkyl-2-acetyl-sn-glycero-3-phosphocholine,1
+3321,Platelet Activation,platelet activating,1
+3322,Platelet Activation,platelet activation,1
+3323,Platelet aggregation measurement,platelet function,1
+3324,Platelet Count measurement,platelet counts,1
+3325,Platelet Count measurement,platelet numbers,1
+3326,Platelet Glycoprotein GPIIb-IIIa Complex,alphaIIbbeta3,2
+3327,Platelet Membrane Glycoprotein IIb,integrin alpha IIb,1
+3328,Platelet Size,platelet size,1
+3329,Platelet-Activating Factor Acetylhydrolase IB Subunit Alpha,PAF-AH Ib alpha,1
+3330,Platelet-Derived Growth Factor,PDGF,1
+3331,Pleckstrin Homology Domains,domains,16
+3332,PLEK gene,pleckstrin,1
+3333,Pliability,flexibility,1
+3334,Pliability,inflexibility,1
+3335,Plication,folding,1
+3336,PLK1 gene,Plk1,1
+3337,PLK3 gene,PLK3,1
+3338,PLK3 gene,Plk3,5
+3339,Pluripotent,pluripotent,2
+3340,Pluripotent,pluripotent state,1
+3341,Pluripotent Stem Cells,pluripotent stem cell state,1
+3342,"Pneumonia, Interstitial",interstitial pneumonia,1
+3343,Point Mutation,point mutations,1
+3344,Polyadenylation,polyadenylation,1
+3345,Polyclonal antibody,polyclonal antibody,1
+3346,Polycomb,Polycomb,4
+3347,Polymerase Chain Reaction,polymerase chain reaction,3
+3348,Polymerization,polymerization,2
+3349,Polymerization,polymerized,1
+3350,Polymers,polymer,2
+3351,Polymorphism,polymorphism,1
+3352,Polynucleotides,polynucleotides,1
+3353,Polypeptides,polypeptides,3
+3354,Polypyrimidine Tract-Binding Protein 3,differential regulation,1
+3355,Polyubiquitination,polyubiquitination,5
+3356,Polyubiquitination,polyubiquitinated,1
+3357,Population Group,subpopulation,3
+3358,Population Group,subpopulations,1
+3359,population migration,migration,27
+3360,PORPHOBILINOGEN SYNTHASE,5-aminolevulinate dehydratase,1
+3361,Positioning - therapy,positioning,2
+3362,Positioning Attribute,positions,2
+3363,Positive Charge,positive,6
+3364,Positive Transcriptional Elongation Factor B,transcription elongation factor b,1
+3365,Positive Transcriptional Elongation Factor B,P-TEFb,8
+3366,post-Golgi vesicle-mediated transport,post-Golgi transport,1
+3367,Postmortem period,postmortem,1
+3368,Postpartum Period,postpartum,2
+3369,Post-Synaptic Density,postsynaptic,8
+3370,Post-Synaptic Density,post-synaptic density,1
+3371,Post-Synaptic Density,post-synaptic density fraction,1
+3372,Post-Synaptic Density,postsynaptic density area,1
+3373,Post-Synaptic Density,post-synaptic density protein,1
+3374,Post-Synaptic Density,post-synaptic density fractions,1
+3375,Post-Synaptic Density,postsynaptic density,2
+3376,Post-Synaptic Density,PSD,2
+3377,Post-Synaptic Density,postsynaptic density preparation,1
+3378,Post-Synaptic Density,post-synaptic density preparation,1
+3379,Post-Synaptic Density,synaptic density,1
+3380,Post-Synaptic Density,post-synaptic density preparations,1
+3381,Post-Synaptic Density,post-synaptic,1
+3382,postsynaptic density proteins,postsynaptic density proteins,1
+3383,Postsynaptic Membrane,postsynaptic membrane,3
+3384,Postsynaptic Membrane,postsynaptic membranes,1
+3385,Post-Translational Protein Processing,post-translational modifications,1
+3386,Post-Translational Protein Processing,protein post-translational modifications,1
+3387,Post-Translational Protein Processing,posttranslational modifications,1
+3388,Post-Translational Protein Processing,posttranslational modification,1
+3389,Potassium Ion,K+,1
+3390,potential,potential,7
+3391,PPARGC1A gene,PGC-1alpha,2
+3392,PPARGC1A gene,PGC-1alpha\'s,1
+3393,PPAT gene,glutamine phosphoribosylpyrophosphate amidotransferase,1
+3394,PPIA gene,Cyclophilin A,1
+3395,PPIA gene,CyPA,5
+3396,PPIase activity,peptidyl-prolyl cis-trans isomerase activity,1
+3397,PPIase activity,PPIase,1
+3398,PPIase activity,PPIase activity,1
+3399,PPP1R13B wt Allele,p85,3
+3400,PPP2R4 gene,phosphatase PP2A,2
+3401,PPP3CA gene,calcineurin A,1
+3402,PPP3CB gene,Ppp3cb,1
+3403,PRB2 gene,PS,1
+3404,PRDM16 gene,Prdm16,4
+3405,Precocious,precocious,1
+3406,Precursor,precursor,1
+3407,prediction,predicted,3
+3408,prediction,prediction,1
+3409,Predominate,predominate,1
+3410,Pregnancy,pregnancy,1
+3411,Premature aging syndrome,premature aging,1
+3412,prerequisite,prerequisite,1
+3413,Presenilins,presenilin,2
+3414,presynaptic density protein 95,postsynaptic density-95,1
+3415,presynaptic density protein 95,PSD-95,17
+3416,presynaptic grid,presynaptic,3
+3417,pre-synaptic ribbon,ribbon,1
+3418,Presynaptic Terminals,axon terminals,1
+3419,Prevalence aspects,prevalence,1
+3420,Preventing (action),prevents,5
+3421,Primary,principal,1
+3422,Primary,primary,3
+3423,Primary Cell Culture,primary cultures,1
+3424,Primary Cell Culture,primary cell cultures,1
+3425,Primary congenital glaucoma,Primary congenital glaucoma,1
+3426,Primary congenital glaucoma,PCG,4
+3427,Priming,priming,1
+3428,Primitive,primitive,2
+3429,Primitive Streak,primitive streak,2
+3430,Privacy Level - Isolation,isolation,7
+3431,PRL gene,Prolactin,1
+3432,PRL gene,prolactin,1
+3433,PRMT1 gene,PRMT1,1
+3434,Probability Distribution Type - beta,beta,4
+3435,ProbabilityDistributionType - T,T,1
+3436,Probes,probe,4
+3437,Probes,probes,1
+3438,PROC gene,Proc,2
+3439,Procedural approach,approaches,1
+3440,Process,process,13
+3441,Process,processed,1
+3442,Process of secretion,secretion,4
+3443,Processing (action),processing,1
+3444,product,product,8
+3445,product,products,5
+3446,product,protein products,1
+3447,production,production,9
+3448,production,Production,2
+3449,Profile (lab procedure),profile,2
+3450,Prognosis bad,poor prognosis,1
+3451,Program,program,1
+3452,Progression,progression,3
+3453,Progressive,progressive,3
+3454,Project,project,7
+3455,Prokaryote,prokaryotic,1
+3456,Proliferating Cell Nuclear Antigen,cyclin,4
+3457,Proliferation,proliferation,20
+3458,Proliferation,proliferate,3
+3459,Proliferation,proliferation rate,1
+3460,Proliferation,proliferating,1
+3461,Proliferation,Proliferating,1
+3462,Proliferation (morphologic abnormality),proliferative,1
+3463,Proline,proline,1
+3464,Proline-Rich Domain,proline-rich region,1
+3465,Prolonged,prolonged,2
+3466,Prominent,prominent,4
+3467,promoter,promoter,10
+3468,promoter,promoters,6
+3469,"Promoter Regions, Genetic",promoter regions,1
+3470,"Promoter Regions, Genetic",promoter region,1
+3471,Promotion (action),promote,8
+3472,Promotion (action),promoting,2
+3473,PROP1 gene,Prop1,1
+3474,PROP1 gene,PROP1,1
+3475,Prophase,prophase,2
+3476,Proportion,proportion,2
+3477,Proposal (document),proposal,1
+3478,Prosencephalon,forebrain,3
+3479,Prostate,prostate,1
+3480,Prostate carcinoma,prostate cancer,1
+3481,Prostatic epithelium,prostate epithelium,1
+3482,pro-survival,pro-survival,1
+3483,Protease Inhibitors,peptide inhibitors,1
+3484,proteasome complex disassembly,proteasomal degradation,4
+3485,Proteasome Pathway,proteasome,2
+3486,Protection,protection,4
+3487,Protein Acetylation,acetylation,15
+3488,Protein Acetylation,protein acetylation,1
+3489,Protein Binding,binding protein,1
+3490,Protein Binding Motif,binding motif,1
+3491,Protein Biosynthesis,translation,4
+3492,Protein Biosynthesis,protein synthesis,1
+3493,Protein complex,protein complex,2
+3494,"Protein Conformation, beta-Strand",D beta-strands,1
+3495,"Protein Conformation, beta-Strand",beta strands,1
+3496,protein C-terminus binding,carboxy-terminus,1
+3497,protein C-terminus binding,COOH-terminal,1
+3498,protein desumoylation,desumoylation,1
+3499,Protein Dimerization,protein dimerization,1
+3500,Protein Domain,motif,11
+3501,protein expression,expressed,118
+3502,protein expression,protein expression,2
+3503,Protein Expression Analysis,expression analysis,1
+3504,Protein Family,protein family,3
+3505,protein folding,protein folding,1
+3506,Protein Fragment,long protein fragment,1
+3507,Protein Function,Protein function,1
+3508,Protein Import,preprotein import,1
+3509,Protein Import,protein import,1
+3510,Protein Isoforms,isoform,7
+3511,Protein Isoforms,long isoforms,1
+3512,Protein Isoforms,isoforms,32
+3513,Protein Isoforms,beta isoforms,1
+3514,protein K63-linked ubiquitination,K63-linked ubiquitination,1
+3515,Protein Kinases,protein kinases,1
+3516,Protein Kinases,protein kinase,2
+3517,Protein Kinases,PKA,6
+3518,Protein level - finding,protein level,1
+3519,Protein methylation,protein methylation,1
+3520,Protein methylation,Protein methylation,1
+3521,protein methyltransferase activity,protein methyltransferase activity,1
+3522,protein monoubiquitination,monoubiquitylation,2
+3523,protein N-linked glycosylation,N-linked glycosylation sites,2
+3524,protein oligomerization,oligomerization,2
+3525,Protein Overexpression,Overexpression,16
+3526,Protein Overexpression,overexpressed,4
+3527,Protein Overexpression,overexpression,19
+3528,Protein Overexpression,overexpressing,2
+3529,Protein p53,p53 protein,1
+3530,Protein p53,tumour suppressor protein p53,1
+3531,Protein phosphatase,protein phosphatases,1
+3532,protein protein interaction,protein-protein interactions,3
+3533,protein protein interaction,protein-protein interaction,1
+3534,protein protein interaction,protein-protein interaction area,1
+3535,protein reconstitution,reconstitution,1
+3536,protein self-association,self-associate,1
+3537,protein self-association,self-association,2
+3538,Protein Sequence Determination,protein sequencing,1
+3539,Protein Sorting Signals,sorting signals,1
+3540,Protein Splicing,splicing proteins,1
+3541,Protein Stability,protein stability,4
+3542,"Protein Structure, Secondary",protein secondary structure,1
+3543,"Protein Structure, Secondary",secondary structure,1
+3544,Protein Subunits,subunit,14
+3545,Protein Subunits,subunits,13
+3546,Protein Subunits,subunit protein of,1
+3547,protein succinylation,succinylation,2
+3548,Protein translocation,translocation,7
+3549,Protein translocation,translocates,4
+3550,Protein translocation,translocated,3
+3551,Protein translocation,translocate,1
+3552,Protein translocation,protein translocation,1
+3553,protein transport,Protein transport,1
+3554,protein transport,trafficking proteins,1
+3555,protein transport,trafficking protein,1
+3556,Protein Truncation Abnormality,truncations,1
+3557,Protein Truncation Abnormality,truncation,2
+3558,Protein Tyrosine Kinase,tyrosine kinases,3
+3559,Protein Tyrosine Kinase,tyrosine kinase,4
+3560,Protein Tyrosine Kinase,protein-tyrosine kinase family,1
+3561,Protein Tyrosine Kinase,protein-tyrosine kinases,1
+3562,Protein Tyrosine Kinase,protein tyrosine kinase,1
+3563,Protein Tyrosine Kinase,PTK,2
+3564,Protein Tyrosine Kinase,protein-tyrosine,1
+3565,Protein Tyrosine Kinase,Met tyrosine kinases,1
+3566,Protein Tyrosine Phosphatase,PTPs,1
+3567,"Protein Tyrosine Phosphatase, Receptor Type B",VE-PTP,8
+3568,"Protein Tyrosine Phosphatase, Receptor Type B",Vascular endothelial protein tyrosine phosphatase,1
+3569,Protein-Arginine N-Methyltransferase,protein arginine methyltransferase family,1
+3570,Proteins,protein,43
+3571,Proteins,proteins,79
+3572,Proteins,gene product,2
+3573,Proteins,gene 3 product,1
+3574,Proteins,Proteins,1
+3575,Proteins,Protein,1
+3576,Proteins,E proteins,5
+3577,Protein-Serine-Threonine Kinases,serine/threonine protein,1
+3578,Protein-Serine-Threonine Kinases,serine/threonine protein kinase,1
+3579,Protein-Serine-Threonine Kinases,serine-threonine kinase family,1
+3580,Proteolysis,proteolysis,1
+3581,Proteolytic Enzyme,proteolytic,2
+3582,Proteomics,proteomic,4
+3583,Proteomics,proteomics,6
+3584,Protocol Forms Template,template,1
+3585,Protocols documentation,protocols,1
+3586,Protomers,protomers,1
+3587,Proto-Oncogene Protein c-met,c-met protein,1
+3588,Proto-Oncogene Protein c-met,affinity c-Met receptor tyrosine kinase,1
+3589,Proto-Oncogene Proteins c-akt,Akt,8
+3590,Proto-Oncogene Proteins c-akt,AKT,7
+3591,Proto-Oncogene Proteins c-myc,MYC,4
+3592,Proto-Oncogene Proteins c-myc,Myc,6
+3593,Proto-Oncogenes,proto-oncogene,3
+3594,Protoplasm,intracellular,11
+3595,Providing presence (regime/therapy),presence,9
+3596,Proximal,proximal,2
+3597,Proximal,neighboring gene,1
+3598,Proximal Interphalangeal Joint 3,PIP3,1
+3599,PRRT2 gene,PKC,1
+3600,PSEN1 gene,PS1,3
+3601,PSENEN wt Allele,PEN-2,3
+3602,PSENEN wt Allele,PEN2,1
+3603,Psychologic Displacement,displacement,5
+3604,PTEN activity,Pten activity,1
+3605,PTEN gene,Pten gene,1
+3606,PTEN Phosphohydrolase,MMAC1 protein,1
+3607,PTEN Phosphohydrolase,PTEN protein,3
+3608,"PTEN protein, human",PTEN,23
+3609,"PTEN protein, human",Pten,2
+3610,PTEN wt Allele,MMAC1,2
+3611,PTPN11 gene,Shp2,1
+3612,"PTPRB protein, human",endothelial protein-tyrosine phosphatases,1
+3613,"PTPRB protein, human",VE-PTP gene,2
+3614,Publications,publications,1
+3615,Publications,literature,1
+3616,Published Database,data bases,1
+3617,Published Database,Data Bases,1
+3618,Publishing,published,2
+3619,Pulmonary Valve Insufficiency,PI,1
+3620,Punctate,punctate,2
+3621,Purifying,purified,2
+3622,Purifying,purification,2
+3623,Purine Nucleotides,purine nucleotide cycle,1
+3624,Purines,purine,3
+3625,Purkinje Cells,Purkinje,2
+3626,Purkinje Cells,Purkinje cell bodies,1
+3627,PURPOSE (pharmacologic preparation),PURPOSE,1
+3628,PWWP2A gene,PWWP2A,9
+3629,PWWP2B gene,PWWP2B,1
+3630,Pyramidal Cells,pyramidal cells,1
+3631,Pyruvate Dehydrogenase Complex,pyruvate dehydrogenase complex,1
+3632,QDPR gene,DHPR,3
+3633,Qualitative mobility,mobility,2
+3634,Quality,quality,1
+3635,quality control,quality control,1
+3636,Quantitation,quantify,1
+3637,Quantitative,quantitative,4
+3638,Quantitative Reverse Transcriptase PCR,quantitative reverse transcriptase-polymerase chain reaction,1
+3639,Quantity,amounts,1
+3640,Question (inquiry),question,2
+3641,rab GTP-Binding Proteins,Rab GTPases,3
+3642,RAB13 gene,Rab13,1
+3643,RAB39B gene,Rab39b,1
+3644,RAB5A gene,Rab5,1
+3645,Rabbits,rabbit,5
+3646,Racial Segregation,segregate,1
+3647,RAD54L2 gene,Arip4,6
+3648,radial glia,radial glia,1
+3649,Radiolabeled,radiolabeled,1
+3650,Radiolucent,radiolucent,1
+3651,RAI1 gene,RAI1,9
+3652,RAI1 gene,Rai1,11
+3653,Raised intraocular pressure,elevated intraocular pressure,1
+3654,Rana <genus>,frog,1
+3655,Randomization,random,2
+3656,Rapid,rapid,1
+3657,RARB gene,HAP,1
+3658,Ratio,ratio,1
+3659,Rattus,rat,8
+3660,Rattus,Rat 1,1
+3661,RBL2 wt Allele,p130,1
+3662,RBM14 gene,coactivator,4
+3663,RBM14 gene,activator,2
+3664,React,react,1
+3665,Reaction,reaction,2
+3666,Reaction,reactivity,1
+3667,Reaction,Reaction,1
+3668,Reactivation,reactivation,1
+3669,Reactive,reactive,1
+3670,reactive oxygen intermediate,reactive oxygen intermediates,1
+3671,Reactive Oxygen Species,reactive oxygen species,1
+3672,Reactive Oxygen Species,ROS,3
+3673,Reagents,reagents,1
+3674,receptor,FGF-R,2
+3675,receptor,receptors,13
+3676,receptor,receptor,19
+3677,receptor,FGFR-1,12
+3678,receptor,Met receptor,1
+3679,receptor,FGFRs,2
+3680,receptor,receptors\',1
+3681,receptor,MET receptor,3
+3682,Receptor Activation Process,receptor activation,2
+3683,receptor activator activity,receptor activator,1
+3684,Receptor Protein-Tyrosine Kinases,putative receptor tyrosine kinase,2
+3685,Receptor Protein-Tyrosine Kinases,tyrosine kinase receptor,3
+3686,Receptor Protein-Tyrosine Kinases,receptor tyrosine kinases,9
+3687,Receptor Protein-Tyrosine Kinases,RTKs,3
+3688,Receptor Protein-Tyrosine Kinases,receptor tyrosine kinase,9
+3689,Receptor Protein-Tyrosine Kinases,RTK,6
+3690,Receptor Protein-Tyrosine Kinases,Receptor tyrosine kinases,2
+3691,Receptor Protein-Tyrosine Kinases,receptor-tyrosine kinase,1
+3692,receptor recycling,receptor recycling,1
+3693,Receptor Signaling,signalling receptor,1
+3694,Receptor Tyrosine Kinase Gene,receptor tyrosine kinase gene family,1
+3695,"Receptor Tyrosine-Protein Kinase ErbB-4, human",ErbB4,50
+3696,"Receptor Tyrosine-Protein Kinase ErbB-4, human",erbB4,2
+3697,"Receptor Tyrosine-Protein Kinase ErbB-4, human",Erbb4,2
+3698,"Receptor Tyrosine-Protein Kinase ErbB-4, human",ERBB4,10
+3699,"Receptor Tyrosine-Protein Kinase ErbB-4, human",ErbB4 protein,1
+3700,"Receptor Tyrosine-Protein Kinase ErbB-4, human",ErbB4 ligand,1
+3701,"Receptor, Serotonin, 5-HT2A",5-HT(2A) receptor,2
+3702,"Receptor, Serotonin, 5-HT2C",5-HT(2C) receptor,4
+3703,"Receptor, Serotonin, 5-HT2C",5-HT(2C) receptors,2
+3704,"Receptor, Serotonin, 5-HT2C",5-HT(2C) receptor binds,1
+3705,"Receptor, TIE-2",Angiopoietin receptor Tie-2,1
+3706,"Receptor, TIE-2",Tie-2 receptor,4
+3707,"Receptor, TIE-2",Tie2 receptor,2
+3708,"Receptors, Cell Surface",cell surface receptors,2
+3709,"Receptors, Cell Surface",mouse cell surface receptor,1
+3710,"Receptors, Cell Surface",cell surface receptor tie,1
+3711,"Receptors, Cell Surface",cell surface receptor,1
+3712,"Receptors, Dihydropyridine",dihydropyridine receptor,1
+3713,"Receptors, Eph Family",Eph receptors,2
+3714,"Receptors, Nuclear",nuclear receptors,7
+3715,"Receptors, Nuclear",NR,5
+3716,"Receptors, Nuclear",nuclear receptor,1
+3717,"Receptors, Nuclear",Nuclear receptors,1
+3718,"Receptors, Nuclear",NRs,4
+3719,"Receptors, Steroid",steroid receptor,2
+3720,"Receptors, Steroid",steroid receptors,1
+3721,Recognition (Psychology),recognition,3
+3722,Recombinant DNA,construct,1
+3723,Recombinant Interleukin-1,interleukin-1,1
+3724,Recombinant Interleukin-4,Interleukin-4,1
+3725,Recombinant Interleukin-4,IL-4,6
+3726,Recombinant melatonin,melatonin,1
+3727,Recombinant Proteins,recombinant protein,1
+3728,Recombinant Vascular Endothelial Growth Factor,vascular endothelial cell growth,1
+3729,Recombinants,recombinant,9
+3730,Recombinants,Recombinant,1
+3731,recovery - adjustment,recovery,1
+3732,Recycling,recycling,1
+3733,Recycling,recycle,1
+3734,Redistribution,redistribution,1
+3735,Reduced,reduced,49
+3736,Reduced,decreased,20
+3737,Reduced,reducing,2
+3738,Reduced,Reduced,1
+3739,Reduction (chemical),reduction,20
+3740,Reduction (chemical),Reduction,2
+3741,Redundancy,redundancy,2
+3742,Reeler,reeler,1
+3743,Reelin Signaling Pathway PID,reelin signaling pathway,2
+3744,Refractive surgery enhancement,enhancement,5
+3745,REG1A gene,PTP,1
+3746,regenerated,regenerate,1
+3747,Regenerating muscle fiber,muscle regeneration,1
+3748,Region of chromosome,chromosomal regions,1
+3749,regional,regional,2
+3750,regional,region,11
+3751,Regulation,regulation,29
+3752,Regulation,regulated,11
+3753,Regulation,Regulation,2
+3754,Regulation of biological process,physiological regulation,1
+3755,regulation of developmental process,developmental regulation,1
+3756,regulation of metabolism,regulating metabolism,1
+3757,regulation of mitophagy,mitophagy regulator,1
+3758,Regulator,regulator,24
+3759,Regulators (device),regulators,8
+3760,Regulatory Pathway,regulatory pathways,1
+3761,regulatory proteins,regulatory proteins,1
+3762,"Regulatory Sequences, Nucleic Acid",regulatory regions,1
+3763,Regulatory T-Lymphocytes,Treg cells,4
+3764,Regulatory T-Lymphocytes,Regulatory T cells,1
+3765,Relative ratio,relative ratio,1
+3766,Relaxation,relaxation,1
+3767,Release - action (qualifier value),releasing,1
+3768,Release - action (qualifier value),released,1
+3769,release of sequestered calcium ion into cytoplasm,calcium influx,3
+3770,release of sequestered calcium ion into cytoplasm,calcium mobilization,2
+3771,Relevance,relevance,2
+3772,RELN gene,RELN,1
+3773,RELN gene,reelin,1
+3774,RELN gene,Reelin,3
+3775,Renal function,kidney functions,1
+3776,reorganization,reorganization,2
+3777,Reorientation,reorientation,2
+3778,Reparative closure,closure,1
+3779,Repeat,repeats,12
+3780,Repeat,repeat 5,1
+3781,Replicate Specimen,replicate,1
+3782,Report (document),report,7
+3783,Report (document),reports,4
+3784,Reporter (occupation),reporter,1
+3785,Reporter (occupation),reporters,2
+3786,Repositioning (procedure),repositioning,1
+3787,representational difference analysis,genomic representational difference analysis,1
+3788,"Repression, Psychology",repression,2
+3789,Reproductive function,reproductive functions,1
+3790,Reproductive process,reproductive process,1
+3791,Reprogram,programming,1
+3792,Reprogram,reprogramming,1
+3793,Requirement,requisite,1
+3794,Research Personnel,researchers,1
+3795,research study,experiments,8
+3796,research study,Experiments,4
+3797,research study,experiment,2
+3798,Resident (physician),resident,1
+3799,Residue after Decontamination Medical Device Problem,residue,4
+3800,"Resistance, Natural",natural resistance,1
+3801,Resolution,resolution,4
+3802,Resources,resource,1
+3803,Resources,resources,1
+3804,Respiratory Failure,respiratory failure,1
+3805,Response process,responses,6
+3806,Response process,Ab responses,1
+3807,ResponseLevel - modification,modification,4
+3808,ResponseLevel - modification,modifications,5
+3809,Restricted,restricted,6
+3810,Result,outcome,1
+3811,Retarded,retarded,1
+3812,Retention - dental,retention,1
+3813,Retina,retina,2
+3814,Retina,retinal,2
+3815,retina layer formation,retinal lamination,1
+3816,Retinal Bipolar Cells,bipolar cells,1
+3817,Retinal Cone,cone photoreceptors,1
+3818,Retinal Cone,cones,1
+3819,Retinal Ganglion Cells,retinal ganglion cells,4
+3820,Retinal Ganglion Cells,RGCs,1
+3821,Retinal Neurons,retinal neuron,1
+3822,Retinoblastoma,retinoblastoma,1
+3823,"Retinoic Acid Receptor Alpha, human",retinoic acid receptor alpha,1
+3824,Retinoic Acid Receptor RXR-Alpha,retinoid X receptor alpha,1
+3825,Retinoids,retinoid acid,1
+3826,Retrograde approach,retrograde,3
+3827,Rett Syndrome,Rett syndrome,1
+3828,reuptake,reuptake,1
+3829,Revealed,revealed,1
+3830,Reverse Transcriptase Polymerase Chain Reaction,Reverse transcriptase-polymerase chain reaction,1
+3831,Reverse Transcriptase Polymerase Chain Reaction,RT-PCR,8
+3832,Reverse Transcriptase Polymerase Chain Reaction,reverse transcription polymerase chain reaction,1
+3833,Reverse Transcriptase Polymerase Chain Reaction,reverse transcriptase-polymerase chain reaction analysis,1
+3834,Reverse Transcriptase Polymerase Chain Reaction,Reverse transcriptase polymerase chain reaction,1
+3835,Reverse Transcriptase Polymerase Chain Reaction,reverse transcription-polymerase chain reaction products,1
+3836,Reversible,reversible,1
+3837,rho GTP-Binding Proteins,Rho GTPase,1
+3838,rho GTP-Binding Proteins,Rho GTPases,2
+3839,rhoA GTP-Binding Protein,RhoA,2
+3840,Rhythm,rhythm,1
+3841,Ribbon synapse,synaptic ribbons,1
+3842,Ribosomal Protein S6 Kinase Beta-1,p70S6K,1
+3843,Ribosomal RNA,ribosomal RNA,1
+3844,Ribosomal RNA,rRNA,1
+3845,Ribosomal RNA Genes,rRNA genes,1
+3846,Ribosomal RNA Genes,ribosomal RNA gene,1
+3847,Right ventricular structure,right ventricle,1
+3848,RIPK1 gene,androgen receptor-interacting protein 4,1
+3849,Risedronate,rise,1
+3850,Risk,risk,5
+3851,Risk Codes - Aggressive,aggressive,1
+3852,Risk Evaluation and Mitigation Strategies Requirement,requirement,5
+3853,Risk Evaluation and Mitigation Strategies Requirement,requirements,1
+3854,risk factors,risk factor,1
+3855,RNA,RNA,12
+3856,RNA,RNAs,2
+3857,RNA biosynthesis,RNA synthesis,1
+3858,RNA destabilization,destabilization,1
+3859,RNA Interference,RNA interference,7
+3860,RNA Polymerase I,RNA polymerase I,1
+3861,RNA Polymerase II,RNA polymerase II,3
+3862,RNA Polymerase II,RNAPII,1
+3863,RNA Processing,RNA processing,2
+3864,RNA Splicing,splicing,10
+3865,RNA Splicing,RNA splicing,2
+3866,"RNA, Messenger",mRNA,36
+3867,"RNA, Messenger",mRNAs,6
+3868,"RNA, Small Interfering",small interfering RNA,1
+3869,"RNA, Small Interfering",siRNA,4
+3870,"RNA, Untranslated",non-protein-coding,1
+3871,RNA-Binding Motifs,DNA-binding domain,3
+3872,RNA-Binding Motifs,binding domains,1
+3873,RNA-Binding Motifs,RNA-binding domain,1
+3874,RNA-Binding Proteins,RNA-binding protein,2
+3875,RNASE1 gene,Rac1,9
+3876,RNF2 gene,RNF2,6
+3877,Robust,robust,3
+3878,ROCK1 gene,Rho kinases,1
+3879,ROCK1 gene,ROCK1,5
+3880,ROCK1 wt Allele,p160ROCK,1
+3881,ROCK2 gene,ROCK2,1
+3882,Role Class - content,content,2
+3883,Roof physical object,roof,1
+3884,Rostral,rostral,3
+3885,Routine Signature,signature,2
+3886,RPL41 gene,L41,3
+3887,rRNA Promoter,rRNA promoter,4
+3888,rRNA synthesis,rRNA synthesis,1
+3889,ruffle membrane,membrane ruffles,1
+3890,Ryanodine Receptors,ryanodine receptors,2
+3891,S Phase,S phase,7
+3892,Saccharomyces cerevisiae,S. cerevisiae,1
+3893,Saccharomyces cerevisiae,Saccharomyces cerevisiae,3
+3894,S-acyltransferase activity,protein S-acyltransferase activity,1
+3895,SAFB gene,SAFB1,3
+3896,SAFB gene,scaffold attachment factor B,1
+3897,SAFB wt Allele,SAF-B,1
+3898,Sample pool,pool,3
+3899,Sarcolemma,sarcolemma,3
+3900,Sarcoplasmic Reticulum,SR,6
+3901,Sarcoplasmic Reticulum,sarcoplasmic reticulum,1
+3902,Scaffold,scaffold,1
+3903,Scaffold,scaffolding,1
+3904,Scaffold protein,scaffold protein,2
+3905,Scaffold protein,scaffolding proteins,1
+3906,Scaffold protein,scaffold proteins,2
+3907,Scattered,scattering,1
+3908,scenario,scenario,1
+3909,Schizophrenia,schizophrenia,3
+3910,Schizosaccharomyces,Schizosaccharomyces,1
+3911,Schizosaccharomyces pombe,pombe,1
+3912,Scientific Study,studies,19
+3913,Scientific Study,study,34
+3914,Scientific Study,Studies,1
+3915,Sclerotome device,sclerotome,1
+3916,SCRIB gene,Scrib,3
+3917,SCYL1 gene,p105,1
+3918,"SDHD protein, human",succinate dehydrogenase,1
+3919,Sebaceous Glands,sebaceous glands,1
+3920,second (number),secondary,1
+3921,Secondary Immunization,secondary immunizations,1
+3922,Secondary Immunization,secondary immunization,1
+3923,Secondary Neoplasm,metastatic disease,1
+3924,Seizures,seizures,1
+3925,selectin activity,selectivity,2
+3926,"SELP protein, human",P-selectin,4
+3927,SEMA3A gene,semD,1
+3928,SEMA4C gene,Sema4C,5
+3929,SEMA5A gene,semF,2
+3930,SEMA5A gene,SemF,1
+3931,SEMA5A gene,Sema5A,14
+3932,SEMA5A gene,Sema5a gene,1
+3933,SEMA5A gene,Semaphorin 5A,1
+3934,SEMA5A gene,SEMA5A,1
+3935,SEMA5B gene,Sema5B,2
+3936,Semaphorins,semaphorins,5
+3937,Semaphorins,Semaphorins,2
+3938,Semaphorins,semaphorin,2
+3939,Seminiferous tubule structure,seminiferous tubules,1
+3940,SENP3 gene,Ulp1,1
+3941,Sense of identity (observable entity),identity,11
+3942,Sense Organs,sense organs,1
+3943,Sensitive,sensitive,4
+3944,sensor (device),sensors,2
+3945,sensor (device),sensor,1
+3946,Sepsis,systemic infection,1
+3947,SEPT4 gene,septin 4,1
+3948,SEPT4 gene,44808,6
+3949,Sequence - TransmissionRelationshipTypeCode,sequenced,6
+3950,Sequence - TransmissionRelationshipTypeCode,sequence,31
+3951,Sequence - TransmissionRelationshipTypeCode,Sequence,1
+3952,Sequence - TransmissionRelationshipTypeCode,core sequence,2
+3953,Sequence Analysis,Sequence analysis,3
+3954,Sequence Analysis,sequence analysis,1
+3955,Sequence Analysis,sequence analyses,1
+3956,Sequence Data Type,list,1
+3957,Sequence Similarity,sequence similarities,1
+3958,Sequence Similarity,sequence similarity,1
+3959,Sequential - Sequence/Results Flag,sequential,1
+3960,Series - set of composite instances,series,2
+3961,Serine,serine,6
+3962,Serotonin,serotonin,2
+3963,Serotonin,5-HT,8
+3964,Serpin B9,AP-3,1
+3965,Serum,serum,2
+3966,"Serum Albumin, Bovine",BSA,1
+3967,Serum amyloid A protein,amyloid precursor,1
+3968,Serum Response Factor,serum response factor,1
+3969,Serum Response Factor,SRF,2
+3970,Service Request Relationship - Compound,compound,1
+3971,Service Request Relationship - Simultaneous,simultaneous,1
+3972,Service Request Relationship - Simultaneous,Simultaneous,1
+3973,Set (Psychology),SET,2
+3974,SET gene,gene set,1
+3975,Set of polysomal ribosomes,polysomes,1
+3976,SETD5 gene,SETD5,9
+3977,Seventh,seventh,2
+3978,Severe (severity modifier),severe,17
+3979,Severities,severity,3
+3980,Severity of illness,disease severity,1
+3981,Sf21 Cells,Sf21 insect cells,1
+3982,SGCG gene,type,1
+3983,SH2 Domain,SH2 domain,4
+3984,SH2 Domain,SH2 domains,1
+3985,SH2 Domain,SH2 domain mutant,1
+3986,SH3 and Multiple Ankyrin Repeat Domains Protein 3,SHANK3,6
+3987,SH3 and Multiple Ankyrin Repeat Domains Protein 3,Shank3,3
+3988,SH3GL2 gene,endophilin A1,1
+3989,Sharing (Social Behavior),shares,2
+3990,SHB gene,Shb,1
+3991,SHH gene,Sonic hedgehog,1
+3992,SHH gene,Shh,2
+3993,SHISA6 gene,Shisa6,6
+3994,SHISA7 gene,Shisa7,5
+3995,SHISA7 gene,Shisa7 gene,1
+3996,Shock,collapse,1
+3997,Short,short,3
+3998,Short Hairpin RNA,small hairpin RNAs,1
+3999,Short Hairpin RNA,small hairpin RNA,1
+4000,short-term,short-term,2
+4001,Signal,signal,5
+4002,Signal Pathways,signaling pathway,2
+4003,Signal Pathways,signaling pathways,7
+4004,Signal Peptides,signal peptide,1
+4005,Signal Peptides,signal sequence,1
+4006,"Signal Processing, Computer-Assisted",signaling processing,1
+4007,signal transducer activity,signal transducer,1
+4008,Signal Transduction,signals,6
+4009,Signal Transduction,Signal transduction,1
+4010,Signal Transduction,signal transduction,5
+4011,Signal Transduction,signal transduction portion,1
+4012,Signal Transduction,signalling pathways,1
+4013,Signal Transduction Pathways,signal-transduction pathways,1
+4014,Signal Transduction Pathways,signal transduction pathways,2
+4015,Signal Transduction Pathways,multiple signal transduction pathways,1
+4016,Signaling Molecule,signaling molecules,1
+4017,Signaling Molecule,signalling molecules,1
+4018,Signaling Protein,signaling proteins,2
+4019,Significant,significant,1
+4020,Significant,no significant,1
+4021,Significant,significance,2
+4022,Significant,SIGNIFICANCE,1
+4023,Signs and Symptoms,clinical findings,1
+4024,Signs and Symptoms,finding,3
+4025,simian virus,simian virus,1
+4026,Similarity,similarity,5
+4027,Simplex styrene-methylmethacrylate,simplex,1
+4028,Simultaneous,concomitant,2
+4029,Simultaneous,simultaneously,2
+4030,Single-pass plasma transmembrane protein,single-pass transmembrane protein,1
+4031,Sirolimus,rapamycin,2
+4032,SIRT1 gene,SIRT1,9
+4033,SIRT5 gene,SIRT5,3
+4034,Site,site,13
+4035,Site,sites,20
+4036,Sixth,sixth,2
+4037,size,size,11
+4038,Skeletal bone,bone,1
+4039,skeletal muscle cell differentiation,skeletal muscle differentiation,1
+4040,Skeletal muscle structure,skeletal muscle,7
+4041,Skeletal muscle structure,skeletal muscles,2
+4042,Skeletal Myocytes,myotubes,3
+4043,Skin,skin,3
+4044,SLC22A18 wt Allele,HET,1
+4045,SLC30A9 gene,GAC63,5
+4046,SLC3A2 gene,heavy chains,2
+4047,SLC3A2 gene,heavy chain,1
+4048,SLC4A1 wt Allele,WD,1
+4049,SLC6A4 wt Allele,SERT,4
+4050,"SLC8A1 protein, human",Na(+)/Ca(2+)-exchanger proximal,1
+4051,"SLC8A1 protein, human",Na(+)/Ca(2+)-exchange,1
+4052,"Sleep Disorders, Circadian Rhythm",sleep-wake cycle,1
+4053,Slow,slowly,2
+4054,Slow,slowing,1
+4055,SLTM gene,SLTM,6
+4056,Small brain,small brain,1
+4057,Small cerebral cortex,small cerebral cortex,1
+4058,SMARCA4 wt Allele,Brg1,1
+4059,SMCR8 gene,SMCR8,1
+4060,Smith-Magenis syndrome,Smith-Magenis syndrome,2
+4061,Smith-Magenis syndrome,SMS,10
+4062,SMN Complex Proteins,associated proteins,2
+4063,Smooth muscle (tissue),smooth muscle,1
+4064,Social Behavior,social behaviors,1
+4065,Social engagement,engagement,1
+4066,Social engagement,Engagement,1
+4067,Social Interaction,interaction,69
+4068,Social Interaction,Interaction,1
+4069,Social Interaction,social interactions,1
+4070,Social Networks,network,5
+4071,social resistance,resistance,4
+4072,Social Role,roles,1
+4073,Sodium Chloride,NaCl,1
+4074,soluble,soluble,5
+4075,Solutions,solution,1
+4076,Somatic,somatic,1
+4077,Somatostatin Receptor,SSTR,1
+4078,somatostatin receptor 1,SSTR1,1
+4079,somatostatin receptor 1,Somatostatin receptor type II,1
+4080,somatostatin receptor 2,SSTR-2,6
+4081,somite development,somite development,1
+4082,Somites,somites,6
+4083,Somites,Somites,1
+4084,Somites,somite,1
+4085,somitogenesis,somitogenesis,1
+4086,Sonic Hedgehog Pathway,Hedgehog pathway,1
+4087,Sorting - Cell Movement,sorting,1
+4088,sorting endosome,endosomal sorting,2
+4089,Source,sources,1
+4090,Southern Blot result,Southern blot analysis,2
+4091,SOX18 gene,Sox18,2
+4092,SOX18 gene,SOX18 proteins,2
+4093,SOX18 gene,SOX18,2
+4094,SOX2 gene,Sox2,1
+4095,SOX3 gene,SOX3,2
+4096,SOX3 gene,Sox3,1
+4097,SP1 wt Allele,Sp1,1
+4098,SPARC gene,cysteine-rich,1
+4099,"SPASTIC ATAXIA, CHARLEVOIX-SAGUENAY TYPE",sacs,1
+4100,Special,specialized,5
+4101,Species,species,3
+4102,Specification,specification,1
+4103,Specificity,specificity,10
+4104,Specimen Source Codes - Respiratory,respiratory,1
+4105,Specimen Source Codes - Spermatozoa,spermatozoa,2
+4106,Specimen Source Codes - Tissue lung,lung tissue,1
+4107,Specimen Type - Fibroblasts,fibroblasts,6
+4108,Specimen Type - Lymphocytes,Lymphocytes,1
+4109,Spectrum,spectrum,2
+4110,sperm chromatin condensation,chromatin condensation,1
+4111,Spermatid,spermatids,2
+4112,Spermatocytes,spermatocytes,2
+4113,Spermatogenesis,spermatogenesis,4
+4114,Spermatogonia,spermatogonia,3
+4115,Spermatozoa Cell Count,sperm,7
+4116,Spermiogenesis,spermiogenesis,2
+4117,Spinal Cord,spinal cord,2
+4118,Spindle Poles,spindle poles,1
+4119,Spleen,spleen,4
+4120,Splice Acceptor Site,splice acceptor site,1
+4121,Sporadic (qualifier value),sporadic,1
+4122,Spreading (qualifier value),spreading,1
+4123,SPSB1 gene,SSB-1,2
+4124,SPSB2 gene,SSB-2,2
+4125,SPSB3 gene,SSB-3,1
+4126,SPSB4 gene,SSB-4,2
+4127,Squamous cell carcinoma,mouse squamous cell carcinoma cells,1
+4128,SR1001,SR1001,4
+4129,SRC gene,Src,3
+4130,src-Family Kinases,Src kinases,1
+4131,SRF gene,MCM1,2
+4132,SRSF3 gene,Srp20,1
+4133,SSRP1 gene,SSRP1,2
+4134,SSTR2 gene,SSTR2 gene,1
+4135,SSTR2 gene,SSTR2,1
+4136,ST7 wt Allele,HelG,4
+4137,Stabilization,stabilization,4
+4138,Stabilized (qualifier value),stabilize,2
+4139,Stable status,stable,1
+4140,Stage,stages,5
+4141,Starvation,starvation,1
+4142,Stat (do immediately),immediate,1
+4143,STAT protein,STAT,1
+4144,"STAT5A protein, human",STAT5A,17
+4145,"STAT5A protein, human",STAT5A serine,2
+4146,STAT5A wt Allele,Stat5,5
+4147,STAT5A wt Allele,STAT5,3
+4148,Statement,STATEMENT,1
+4149,statistical cluster,clustering,5
+4150,Statistical Frequency,frequency,1
+4151,Statistical sensitivity,sensitivity,7
+4152,status - In progress,progress,1
+4153,Stem Cell Self-Renewal,self-renewal,3
+4154,Stem cells,progenitors,2
+4155,Stem cells,progenitor cells,2
+4156,Stem cells,stem cells,2
+4157,Stem cells,Progenitor cells,1
+4158,Stem of Organ,stem,1
+4159,steroid hormone receptor,steroid hormone receptors,1
+4160,steroid receptor coactivator AIB1,ACTR,2
+4161,Steroids,steroid,3
+4162,Stimulant,stimulants,1
+4163,Stimulation (motivation),stimulated,5
+4164,Stimulation (motivation),stimulate,3
+4165,Stimulation of Cell Proliferation,mitogenesis,3
+4166,stimulation of growth,growth stimulation,1
+4167,Stimulation procedure,stimulation,22
+4168,Stimulation procedure,Stimulation,2
+4169,Stimulus,stimuli,1
+4170,Stimulus,stimulus,1
+4171,Stoichiometry,stoichiometry,1
+4172,Stomach,stomach,1
+4173,Stool seat,tools,1
+4174,Streams,stream,1
+4175,Stress,stress,3
+4176,Stress Fibers,stress fibers,1
+4177,Structural protein,structural protein,1
+4178,structure,structure,15
+4179,structure,structural,6
+4180,structure,structures,3
+4181,Structure of allantois,allantois,1
+4182,Structure of amnion,amnion,3
+4183,Structure of amnion,amniotic,1
+4184,Structure of corpus luteum of ovary,corpora lutea,1
+4185,Structure of cortex of lens,cortical layer,1
+4186,Structure of dentate gyrus,dentate gyrus,2
+4187,Structure of interstitial cell of Leydig,interstitial cells,1
+4188,Structure of myotome,myotomes,1
+4189,Structure of myotome,myotome,1
+4190,Structure of olfactory bulb,olfactory bulb,4
+4191,Structure of olfactory bulb,OB,2
+4192,Structure of renal segment,segments,1
+4193,Study Element,element,4
+4194,study of epigenetics,epigenetic,1
+4195,Subcellular Fractions,subcellular,3
+4196,Subcellular Fractions,subcellular fractions,1
+4197,Subcutaneous Fat,subcutaneous fat,1
+4198,Subgroup,subgroup,4
+4199,Subject -direct target,subject,2
+4200,subrhabdomeral cisterna,SMC,1
+4201,Substitution - change,substitution,1
+4202,Substitution - change,substitutions,1
+4203,Substitution - change,Substitution,2
+4204,Substrate,substrate,8
+4205,Subtraction process,subtraction,2
+4206,Subtractive Hybridization Techniques,cDNA subtractive hybridization,1
+4207,Subtype (attribute),subtypes,10
+4208,Subventricular Zone,subventricular zone,1
+4209,Sufficient,sufficient,1
+4210,Sulfhydryl Compounds,thiols,3
+4211,Sulfhydryl Compounds,thiol,1
+4212,sulforafan,sulforaphane,2
+4213,SUMO2 gene,SUMO2,1
+4214,SUMO3 gene,SUMO3,1
+4215,Sumoylation,Sumoylation,1
+4216,Sumoylation,sumoylation,4
+4217,Superficial,superficial,1
+4218,Suppressed,suppresses,1
+4219,Suppressed,suppressed,9
+4220,Suppressed,suppress,5
+4221,Suppressed,suppressing,1
+4222,Suppressor of Cytokine Signaling Proteins,SOCS box proteins,1
+4223,Surface,surface,7
+4224,Surgical construction,creation,1
+4225,Surgical construction,construction,1
+4226,Surgical Replantation,cell replacement,1
+4227,Surveys,surveys,1
+4228,Survival Rate,survival rate,1
+4229,survive,survive,1
+4230,Survivors,survivors,1
+4231,Susceptibility (property) (qualifier value),susceptibility,4
+4232,Sustain,sustain,1
+4233,Sustained,sustaining,2
+4234,SWI/SNF complex,mSWI/SNF complex,1
+4235,Swiss 3T3 Cells,Swiss mouse 3T3 cells,1
+4236,Switch Device Component,switch,2
+4237,Symptomatic,symptomatic,1
+4238,synapse maturation,synapse maturation,1
+4239,Synapses,synapses,9
+4240,Synapses,synapse,4
+4241,Synapses,cone synapses,1
+4242,Synaptic cleft,synaptic cleft,1
+4243,Synaptic connectivity,synaptic connectivity,1
+4244,Synaptic Transmission,synaptic transmission,5
+4245,Synaptic Transmission,neurotransmission,1
+4246,synaptic vesicle localization,synaptic localization,1
+4247,Synaptic Vesicles,synaptic vesicle fraction,1
+4248,Synaptic Vesicles,synaptic vesicle,1
+4249,Synaptic Vesicles,synaptic vesicles,1
+4250,synaptogenesis,synapse formation,2
+4251,Synaptosomes,synaptosomal,2
+4252,Synaptosomes,synaptosomes,2
+4253,Synchronous,synchronized,1
+4254,Synchronous,synchronization,1
+4255,SYNRG gene,gamma-synergin,1
+4256,Synthesis,synthesized,4
+4257,Systemic arterial pressure,arterial blood pressure,1
+4258,T cell apoptotic process,T-cell apoptosis,1
+4259,Table Frame -box,box,1
+4260,Table Rules - groups,groups,1
+4261,Tail,tails,2
+4262,Talin,talin,1
+4263,Tandem Mass Spectrometry,tandem mass spectrometry,2
+4264,TARDBP gene,TAR DNA binding protein,1
+4265,Target,targeted,8
+4266,Target,Targeted,2
+4267,Target Cell Count,target cells,1
+4268,Target Lesion Identification,target,22
+4269,TATA Box,TATA box,1
+4270,TATA-Box Binding Protein,TATA-box,1
+4271,TATA-Box Binding Protein,TATA-box-binding protein,1
+4272,Tau - Statistical Technique,tau,1
+4273,TBATA gene,spatial,5
+4274,TBC1D21 gene,TBC1D21,5
+4275,TBC1D21 gene,Tbc1d21,1
+4276,T-Cell Activation,T-cell activation,1
+4277,T-Cell Immunoreceptor with Ig and ITIM Domains,domain-containing transmembrane protein,1
+4278,T-Cell Proliferation,T-cell proliferation,1
+4279,T-Cell Receptor,TCR,1
+4280,TCF12 gene,helix-loop-helix transcription factor,1
+4281,TCF12 gene,HEB,3
+4282,TCF3 gene,immunoglobulin transcription,1
+4283,TCF4 gene,TCF4,3
+4284,TCF4 gene,Tcf4,1
+4285,TCF4 wt Allele,ITF-2,3
+4286,TCF4 wt Allele,SEF-2,6
+4287,TCF7L2 gene,Tcf-4,8
+4288,TCF7L2 gene,Tcf7l2,2
+4289,Techniques,technique,1
+4290,Techniques,techniques,2
+4291,Technology,technology,2
+4292,Technology,technologies,1
+4293,TEK gene,tek,2
+4294,TEK gene,Tie-2,10
+4295,TEK gene,Tek,12
+4296,TEK gene,tek gene,2
+4297,TEK gene,tie-2,8
+4298,TEK gene,TEK,5
+4299,TEK gene,tie2,3
+4300,TEK gene,tie2 protein,1
+4301,TEK gene,Tek receptor tyrosine kinase,1
+4302,TEK gene,Tie2,23
+4303,TEK gene,Tie-2 gene,1
+4304,TEK gene,Tie-2 protein,1
+4305,Telephone Extension Number,extension,1
+4306,Temporal - Regional site descriptor,temporal,3
+4307,teratologic,anomalies,2
+4308,Teratoma,teratomas,1
+4309,Teratozoospermia,teratozoospermia,1
+4310,Term Source,source,1
+4311,terminal differentiation,Terminal differentiation,1
+4312,Terminally Ill,terminally,1
+4313,termination - ActReason,termination,1
+4314,"Terminator Regions, Genetic",terminal sequences,1
+4315,Test Method,method,3
+4316,Test Result,results,43
+4317,Testicular Tissue,testicular tissue,2
+4318,Testiculo-,testicular,4
+4319,Testis,testis,10
+4320,Testis,testes,1
+4321,Testis-Specific Gene 10 Protein,testis-specific,1
+4322,Tests (qualifier value),tested,4
+4323,Tethered,tethering,1
+4324,Tetrodotoxin,tetrodotoxin,1
+4325,TEX101 gene,TEX101,1
+4326,TFAP4 gene,AP-4,1
+4327,"TFF1 protein, human",PS2,1
+4328,TGFB1I1 gene,androgen receptor activator,1
+4329,Thalamic structure,thalamus,2
+4330,Therapeutic - Location Service Code,therapeutic,6
+4331,Therapeutic procedure,therapies,2
+4332,Therapeutic procedure,therapeutics,1
+4333,thiol-dependent ubiquitin-specific protease activity,deubiquitinase,2
+4334,thiol-dependent ubiquitin-specific protease activity,DUB,3
+4335,Three-dimensional,three-dimensional fold,1
+4336,Three-dimensional,three-dimensional,1
+4337,Three-dimensional,three-dimensional matrices,1
+4338,Threonine measurement,threonine,1
+4339,Threshold,threshold,1
+4340,Thrombosis of blood vessel,thrombosis,2
+4341,Thymine DNA Glycosylase,thymine glycol DNA glycosylase,1
+4342,thymocyte,Thymocytes,1
+4343,thymocyte,thymocytes,1
+4344,Thymus Gland,thymus,1
+4345,THYROID HORMONE PLASMA MEMBRANE TRANSPORT DEFECT,defect,4
+4346,Thyroid Hormone Receptor Alpha-1,thyroid receptor alpha,1
+4347,Tibial Arteries,tibialis arteries,1
+4348,TIE1 gene,tie,1
+4349,TIE1 gene,Tie,1
+4350,TIE1 gene,TIE,1
+4351,Time,time,1
+4352,Timing,timing,1
+4353,TIMM8A gene,MTs,1
+4354,Tip,tip,1
+4355,Tissue Adhesions,adhesion,2
+4356,Tissue Donors,donor,1
+4357,Tissue fiber,fibers,2
+4358,tissue homeostasis,tissue homeostasis,2
+4359,Tissue membrane,membranes,1
+4360,tissue regeneration,tissue regeneration,2
+4361,Tissue Specificity,tissue specificity,1
+4362,Tissue-Specific Splicing,tissue-specific,7
+4363,TLE4 wt Allele,lymphocyte gene,1
+4364,T-Lymphocyte,T cells,3
+4365,T-Lymphocyte,T cell,1
+4366,"TM4SF1 protein, human",L6,2
+4367,"TNFSF11 protein, human",RANKL,1
+4368,TNIK gene,Tnik,2
+4369,TNIK gene,TNIK,4
+4370,TNS1 gene,tensin,1
+4371,Toll-like receptors,Toll-like receptor,1
+4372,TOMM20 gene,TOMM20,2
+4373,Tongue,tongue,1
+4374,Topical Dosage Form,top,1
+4375,TOR signaling,signaling cascades,2
+4376,tortuous aorta,tortuous aorta,1
+4377,Total Peripheral Resistance,peripheral vascular resistance,1
+4378,Toxic,toxic,1
+4379,Toxicity aspects,toxicity,1
+4380,TP53 gene,p53,17
+4381,"TP53INP1 protein, human",stress-induced,2
+4382,TPM3 wt Allele,TM3,1
+4383,TPM3 wt Allele,TM5,1
+4384,trabecula formation,trabeculation,1
+4385,Trabecular meshwork structure,trabecular meshwork,1
+4386,Tract,tracts,2
+4387,Traffic,traffic,1
+4388,trafficking,trafficking,3
+4389,trafficking,Trafficking,1
+4390,Transaction counts and value totals - day,day,11
+4391,"Trans-Activation, Genetic",transactivation,6
+4392,"Trans-Activation, Genetic",transactivation activity,2
+4393,Trans-Activators,trans-activates,1
+4394,Trans-Activators,trans-activation,1
+4395,Transcript,transcripts,26
+4396,Transcript,transcript,7
+4397,Transcript,no transcripts,1
+4398,Transcript,gene transcripts,1
+4399,Transcription Activator-Like Effectors,effectors,1
+4400,Transcription Coactivator,transcriptional coactivator proteins,1
+4401,Transcription Coactivator,transcriptional coactivator,3
+4402,Transcription Coactivator,activator of transcription,1
+4403,Transcription Coactivator,nuclear transcriptional coactivator,1
+4404,Transcription Coactivator,co-,1
+4405,Transcription Coactivator,transcriptional activators,1
+4406,Transcription Coactivator,transcriptional coactivators,1
+4407,Transcription Coactivator,transcriptional activator,1
+4408,Transcription Elongation,transcriptional elongation,2
+4409,TRANSCRIPTION FACTOR,transcription factors,20
+4410,TRANSCRIPTION FACTOR,transcription factor,7
+4411,TRANSCRIPTION FACTOR,Transcription factor,1
+4412,TRANSCRIPTION FACTOR,TFs,2
+4413,Transcription Factor 3,E2A,1
+4414,Transcription Factor AP-2 Alpha,AP-2,3
+4415,transcription factor S-II,transcription elongation factor,1
+4416,Transcription Factor TFIIB,basal transcription factor TFIIB,1
+4417,Transcription Factor TFIID,mouse transcription factor IID,1
+4418,Transcription Factor TFIID,TFIID,1
+4419,"Transcription Factors, General",general transcription factors,1
+4420,"Transcription Factors, General",general transcription factor,1
+4421,transcription from mitochondrial promoter,mitochondrial gene transcription,1
+4422,Transcription Initiation,transcription initiation,1
+4423,Transcription Repressor/Corepressor,transcriptional corepressor,2
+4424,"Transcription, Genetic",transcription,40
+4425,"Transcription, Genetic",Transcription,1
+4426,"Transcription, Genetic",transcriptional,4
+4427,"Transcription, Genetic",gene transcription,7
+4428,"Transcription, Genetic",transcriptionally,1
+4429,"Transcription, Genetic",active gene transcription,1
+4430,Transcriptional Activation,transcriptional activation function,1
+4431,Transcriptional Activation,transcriptional activation,10
+4432,Transcriptional Activation Domain,transcriptional activation domain,1
+4433,Transcriptional Regulation,transcriptional control,2
+4434,Transcriptional Regulation,transcriptional regulation,4
+4435,Transcriptional Regulation,transcriptional regulators,2
+4436,Transcriptional Regulation,Transcriptional regulation,1
+4437,Transcriptional Repression,repress transcription,1
+4438,Transcriptional Repression,transcriptional repression,2
+4439,"Transcriptional Repressor Protein YY1, human",YY-1,1
+4440,Transcriptome,transcriptome,1
+4441,Transcytotic Pathways,cellular pathways,1
+4442,Transducers,transduces,2
+4443,Transducers,transduce,1
+4444,Transfection,Transfection,3
+4445,Transfection,transfection,1
+4446,Transferrin measurement,transferrin,2
+4447,Transforming Growth Factor Beta 2,Tgfb2,1
+4448,Transforming Growth Factor Beta-1-Induced Transcript 1 Protein,HIC-5,4
+4449,transforming growth factor beta3,Tgfb3,1
+4450,Transforming Growth Factors,transforming growth factor,1
+4451,Transgenes,transgene,1
+4452,Transgenes,Transgenes,1
+4453,trans-Golgi Network,trans-Golgi network,1
+4454,trans-Golgi Network,TGN,3
+4455,Transition (action),transition,8
+4456,Transition (action),transitions,1
+4457,Transitory,Transient,1
+4458,Transjugular intrahepatic portosystemic shunt procedure,tips,3
+4459,Translating,translated,1
+4460,Translation Initiation,translation initiation,1
+4461,Translational Repression,Translational repression,1
+4462,Translational Repression,translational repression,1
+4463,Transmembrane Domain,transmembrane domain,1
+4464,Transmembrane Domain,transmembrane region,1
+4465,transmission process,transmitted,1
+4466,Transmitted by,transmit,1
+4467,Transplanted tissue,transplanted,1
+4468,Transport Device Component,transport,4
+4469,trans-synaptic signaling by trans-synaptic complex,trans-synaptic,1
+4470,Traumatic injury,injury,1
+4471,Treating,treated,1
+4472,Treating,treated with,5
+4473,Treating,treating,3
+4474,Treatment Study,treatment,13
+4475,Treatment Study,Treatment,4
+4476,Tretinoin,retinoic acid,1
+4477,Tretinoin,RA,1
+4478,Tretinoin,Retinoic acid,1
+4479,Trial Inclusion and Exclusion Criteria Submission Domain,Ti,8
+4480,Trial Phase 3B,3b,1
+4481,Trial Screening,screening,9
+4482,trichostatin A,trichostatin A,1
+4483,trichostatin A,TSA,1
+4484,Triggered by,initiator,2
+4485,Triggered by,precipitated,1
+4486,Triggered by,evoked,1
+4487,"TRIM25 protein, human",estrogen-responsive,1
+4488,Trisomy,trisomy,3
+4489,Triton X-100,Triton X-100,1
+4490,trophoblast,trophoblast,1
+4491,Trophoblast cell,trophoblast cells,1
+4492,"tropomyosin-related kinase-B, human",tropomyosin-related kinase B,1
+4493,"tropomyosin-related kinase-B, human",TrkB,2
+4494,Troponin I,inhibitory subunit,3
+4495,TRPM1 gene,TRPM1,1
+4496,"TRPM3 protein, human",transient receptor potential melastatin 1,1
+4497,Truncated BID,truncated,2
+4498,Trunk structure,trunk,1
+4499,TSC2 gene,tuberin,2
+4500,Tuberculosis,tuberculosis,2
+4501,Tuberous Sclerosis,Tuberous sclerosis,1
+4502,Tuberous Sclerosis,tuberous sclerosis complex,2
+4503,Tuberous Sclerosis,TSC,1
+4504,TUBEROUS SCLEROSIS 1 (disorder),TSC1,4
+4505,TUBEROUS SCLEROSIS 1 (disorder),Tsc1,11
+4506,TUBEROUS SCLEROSIS 2 (disorder),tuberous sclerosis 2,2
+4507,TUBEROUS SCLEROSIS 2 (disorder),Tsc2,6
+4508,tuberous sclerosis complex 2 protein,TSC2,9
+4509,tuberous sclerosis complex 2 protein,TSC2 protein,1
+4510,Tubulin,tubulin,3
+4511,tubulogenesis,tubulogenesis,1
+4512,Tumor Angiogenesis,tumor angiogenesis,1
+4513,Tumor Cell Invasion,invasion,2
+4514,"Tumor cells, malignant",cancer cells,5
+4515,"Tumor cells, malignant",Cancer cells,1
+4516,tumor growth,tumor growth,1
+4517,Tumor Necrosis Factor-alpha,tumor necrosis factor alpha,3
+4518,Tumor Necrosis Factor-alpha,Tumor necrosis factor alpha,1
+4519,Tumor Necrosis Factor-alpha,TNF alpha,1
+4520,Tumor Necrosis Factor-alpha,TNF,5
+4521,Tumor Suppressor Genes,tumour suppressor gene,3
+4522,Tumor Suppressor Genes,tumour suppressor,2
+4523,Tumor Suppressor Genes,tumor suppressor genes,2
+4524,Tumor Suppressor Genes,tumor suppressor gene,1
+4525,Tumor Suppressor Genes,tumor suppressors,3
+4526,Tumor tissue sample,tumor samples,1
+4527,Turnover technique,turnover,2
+4528,Two-Hybrid System Techniques,two-hybrid,1
+4529,Type 2,type II,1
+4530,Type of bridge device,bridge,1
+4531,Type of restoration,restoration,1
+4532,tyrosine binding,bind tyrosine,1
+4533,Tyrosine Kinase Domain,tyrosine kinase domains,1
+4534,Tyrosine measurement,tyrosine,21
+4535,Tyrosine measurement,Tyrosine,1
+4536,Tyrosine measurement,tyrosines,2
+4537,tyrosine receptor,receptor tyrosine,1
+4538,"Tyrosine-Protein Kinase ABL1, human",p150,1
+4539,Ubiquitin,ubiquitinated,2
+4540,ubiquitin activity,ubiquitin,3
+4541,Ubiquitin Ligase Gene,ubiquitin ligase,3
+4542,Ubiquitinated Proteins,ubiquitinated proteins,1
+4543,Ubiquitination,ubiquitination,15
+4544,Ubiquitination,protein ubiquitination,1
+4545,Ubiquitination,ubiquitylation,4
+4546,ubiquitin-like protein conjugating enzyme activity,E2,2
+4547,ubiquitin-protein ligase,E3 ubiquitin-protein ligases,1
+4548,ubiquitin-protein ligase,ubiquitin ligases,2
+4549,ubiquitin-protein ligase,E3 ubiquitin ligase,1
+4550,ubiquitin-protein ligase,E3 ubiquitin ligase activity,1
+4551,ubiquitin-protein ligase,E3 ligase,3
+4552,ubiquitin-protein ligase,E3 ligases,1
+4553,UHRF1 gene,Uhrf1,3
+4554,Ultrastructure,ultrastructure,2
+4555,Ultrastructure,ultrastructural,1
+4556,undefined,undefined,1
+4557,Undetectable,undetectable,1
+4558,Undifferentiated,undifferentiated,3
+4559,Unidentified - modifier,unidentified,2
+4560,Unilateral,unilateral,1
+4561,Unique,unique,8
+4562,United Arab Emirates,TC,1
+4563,United States,USA,2
+4564,Units Of Measure - Gilbert,Gilbert,1
+4565,Unrelated (finding),unrelated,1
+4566,Untranslated Regions,untranslated region,1
+4567,Unusual,unusual,2
+4568,Upper,superior,1
+4569,Up-Regulation (Physiology),up-regulated,3
+4570,Up-Regulation (Physiology),upregulation,3
+4571,Up-Regulation (Physiology),up-regulation,1
+4572,Upstream,upstream,5
+4573,Uroporphyrinogen III Synthetase,uroporphyrinogen III synthase,1
+4574,Ursidae Family,bear,1
+4575,Usage,employ,1
+4576,USP1 gene,Usp7,4
+4577,USP7 gene,herpesvirus-associated ubiquitin-specific protease,1
+4578,USP7 gene,HAUSP,4
+4579,USP7 gene,Hausp,5
+4580,USP7 gene,hausp,2
+4581,USP7 gene,USP7,8
+4582,USP7 gene,ubiquitin-specific protease 7,1
+4583,Usual,typical,1
+4584,Uterine Tachysystole,Hypercontractility,1
+4585,Utility (animal life circumstance),utility,2
+4586,utilization qualifier,utilization,1
+4587,UTS2R gene,UTR,1
+4588,Vaccinia virus,vaccinia virus,1
+4589,Vacuolar Protein Sorting,vacuolar protein sorting,1
+4590,Value Below Reference Range,low,11
+4591,Values,values,1
+4592,Variable (uniformity),variable,1
+4593,Variable expressivity,variable expressivity,1
+4594,Variant,variant,6
+4595,Variant,variants,13
+4596,Variant,variation,3
+4597,Vascular anomaly,vascular malformations,1
+4598,Vascular constriction (function),vasoconstriction,2
+4599,vascular cord development,vascular development,6
+4600,Vascular Endothelial Cells,vascular endothelial cells,3
+4601,Vascular Endothelial Growth Factor A,VEGF,1
+4602,Vascular Endothelial Growth Factor Receptor-2,VEGFR-2,1
+4603,Vascular plexus,vascular plexus,2
+4604,Vascular Remodeling,vascular remodeling,1
+4605,Vascular System,vascular system,5
+4606,Vascularization,vascularized,1
+4607,Vasculature,vasculature,4
+4608,vasculogenesis,vasculogenesis,4
+4609,Vasoactive Intestinal Peptide,vasoactive intestinal peptide,1
+4610,VAX1 gene,ventral anterior homeobox,1
+4611,VAX2 gene,Vax2,1
+4612,"VCL protein, human",vinculin,1
+4613,Vegetable marrow,marrow,1
+4614,Venous system,venous systems,1
+4615,Version,versions,1
+4616,Vertebral column,vertebral column,1
+4617,Vertebral column,spines,1
+4618,Vertebrates,vertebrates,8
+4619,Vertebrates,vertebrate,7
+4620,Vesicle (morphologic abnormality),vesicles,5
+4621,Vesicle (morphologic abnormality),vesicle,1
+4622,vesicle coat,vesicle coat,1
+4623,vesicle-mediated transport,vesicular transport,1
+4624,Viable,viable,1
+4625,View,view,1
+4626,Viral,viral,1
+4627,Viral Genome,viral genome,1
+4628,Virus Diseases,viral infections,1
+4629,Virus Physiological Phenomena,antiviral activity,1
+4630,virus tail structure,tail structure,1
+4631,Vision,vision,1
+4632,Vision,visual function,1
+4633,Visual learning,spatial learning,2
+4634,Visual Suppression,suppression,7
+4635,Visual Suppression,Suppression,1
+4636,Vitamin D3 Receptor,vitamin D receptor,1
+4637,VLDLR gene,VLDLR receptor,1
+4638,voltage,voltage,2
+4639,von Willebrand factor,von Willebrand factor,3
+4640,von Willebrand factor,VWF,2
+4641,VPS45 gene,H1,1
+4642,WASF1 gene,WAVE,1
+4643,WASF1 gene,WAVE1,3
+4644,WASF2 wt Allele,WAVE2,2
+4645,WASH1 gene,WASH,11
+4646,WASL gene,N-WASP,1
+4647,WD40 Repeats,tryptophan-aspartate,1
+4648,WD40 Repeats,WD40 domain,1
+4649,WDR41 gene,WDR41,1
+4650,Weakness,weak,1
+4651,Weight Gain,weight gain,1
+4652,Well Differentiated,differentiated,4
+4653,Well Differentiated,differentiate,1
+4654,West (direction),Western,1
+4655,Western Blot,western blot,1
+4656,Western Blot,Western blot analysis,2
+4657,WFDC5 gene,whey acidic protein,1
+4658,What subject filter - Status,status,1
+4659,White Adipose Tissue,white adipose tissue,2
+4660,Whole Transcriptome Sequencing,RNA-Seq,1
+4661,Wild Type,wild type,3
+4662,Williams Syndrome,Williams syndrome,1
+4663,Wiskott-Aldrich Syndrome Protein,Wiskott-Aldrich syndrome protein,2
+4664,Wiskott-Aldrich Syndrome Protein,WASP,2
+4665,With configuration,arrangement,4
+4666,With staging,staging,1
+4667,Withdrawal (dysfunction),serum withdrawal,2
+4668,Wnt Signaling Pathway,(Wg)/Wnt signaling pathway,1
+4669,Wnt Signaling Pathway,Wnt signaling pathway,2
+4670,Wnt Signaling Pathway,Wnt pathway,1
+4671,Wnt1 Protein,Wnt-1,1
+4672,Wound Healing,wound healing,1
+4673,Wound Healing,healing,1
+4674,Wound Healing,repair,2
+4675,X^o^rX^o^r blood group phenotype,phenotype,21
+4676,xanthine,xanthine,1
+4677,Xenopus oocyte,Xenopus oocytes,1
+4678,Xenopus subgenus,Xenopus,2
+4679,XML Bound,bound,1
+4680,Y 27632,Y-27632,1
+4681,year,A,1
+4682,year,years,2
+4683,Yeast Cell Measurement,yeast cells,3
+4684,Yeast Two-Hybrid System Techniques,yeast two-hybrid system,5
+4685,Yeast Two-Hybrid System Techniques,two-hybrid system,1
+4686,Yeast Two-Hybrid System Techniques,yeast two-hybrid,7
+4687,Yeast Two-Hybrid System Techniques,Yeast two-hybrid assays,1
+4688,Yeast Two-Hybrid System Techniques,yeast two-hybrid assay,1
+4689,Yeasts,yeast,6
+4690,Yeasts,yeast gene,1
+4691,yolk,yolk,4
+4692,Young,young,2
+4693,YWHAE gene,YWHAE,1
+4694,YWHAE gene,Ywhae,1
+4695,ZBTB8OS gene,arch,1
+4696,ZDHHC5 gene,DHHC5,5
+4697,Zebrafish,zebrafish,3
+4698,Zinc,zinc,1
+4699,Zinc Fingers,zinc finger,1
+4700,ZNF451 gene,SRCs,8
+4701,ZNF451 gene,Steroid receptor coactivators,1
+4702,ZNF451 gene,ZNF451,1
