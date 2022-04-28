@@ -20,7 +20,6 @@ Pubtator model (repo: https://www.ncbi.nlm.nih.gov/research/pubtator/api.html)
 
 Processing of Pubtator lethal literature entities:
 * **`process_lethal_abstracts.py`**
-* 
 
 ScispaCy model
 * **`pip install en_core_sci_sm-0.5.0.tar.gz`** 
@@ -29,5 +28,5 @@ ScispaCy model
   * **`scispacy_UMLSlinkage.csv`**
 
 Processing of ScispaCy lethal literature entities:
-*
+* **`process_scispacy_results.py`**
 

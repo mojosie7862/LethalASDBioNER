@@ -1,3 +1,5 @@
+import pandas as pd
+
 def find_2nd(string, substring):
    return string.find(substring, string.find(substring) + 1)
 
@@ -23,15 +25,16 @@ for i in data:
         entry = []
 
 abstracts = []
-NE_pubtator_dict = {'PMIDs': []}
+PMIDs = []
+NE_pubtator_dict = {}
 
 for i, x in enumerate(entries):
     for idx,j in enumerate(x):
         if idx == 0:
             p1 = j[0].find('|')
             pmid = j[0][:p1]
-            if pmid not in NE_pubtator_dict['PMIDs']:
-                NE_pubtator_dict['PMIDs'].append(pmid)
+            if pmid not in PMIDs:
+                PMIDs.append(pmid)
         if idx == 1:
             p2 = find_2nd(j[0], '|')
             abs = j[0][p2+1:]
@@ -48,6 +51,34 @@ abstracts = ''.join(abstracts)
 
 #for printing to abstracts.txt
 #print(abstracts)
+entity_counts = {}
+for k,v in NE_pubtator_dict.items():
+    if k not in entity_counts.keys():
+        entity_counts[k] = {}
+    for i in v:
+        if i not in entity_counts[k]:
+            entity_counts[k][i] = 1
+        else:
+            entity_counts[k][i] += 1
+make_cnt_df = []
+for x,y in entity_counts.items():
+    df = []
+    ent = []
+    cnt = []
+    df.append(x)
+    for a,b in y.items():
+        ent.append(a)
+        cnt.append(b)
+    df.append(ent)
+    df.append(cnt)
+    make_cnt_df.append(df)
 
-print(NE_pubtator_dict.keys())
+pubtator_results = []
+for group in make_cnt_df:
+    typ = group[0]
+    for term, count in zip(group[1], group[2]):
+        row = [typ, term, count]
+        pubtator_results.append(row)
 
+pubtator_result_df = pd.DataFrame(pubtator_results)
+pubtator_result_df.to_csv('pubtator_results_df.csv')
